@@ -1,0 +1,5666 @@
+[
+  {
+    "number": 0,
+    "type": "usecase001",
+    "question": "How many use cases are included in this image?",
+    "choice": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 1,
+    "type": "usecase001",
+    "question": "How many actors are included in this image?",
+    "choice": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 2,
+    "type": "usecase001",
+    "question": "How many associations are included in this image?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 3,
+    "type": "usecase001",
+    "question": "Which of the following is a correct use case included in this image?",
+    "choice": [
+      "Purchase Ticket",
+      "Open Barrier",
+      "Turn On Ticket Gate System",
+      "Insert Ticket"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 4,
+    "type": "usecase001",
+    "question": "Which of the following is a correct actor included in this image?",
+    "choice": [
+      "Employee",
+      "Railway Ticket Gate System",
+      "User",
+      "Station Staff"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 5,
+    "type": "usecase001",
+    "question": "What is the name of the system in this image?",
+    "choice": [
+      "Ticket Purchase System",
+      "User",
+      "Station Monitoring System",
+      "Railway Ticket Gate System"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 6,
+    "type": "usecase001",
+    "question": "Which actor performs the \"Insert Ticket\" use case?",
+    "choice": [
+      "User",
+      "Employee",
+      "Station Staff",
+      "Railway Management System"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 7,
+    "type": "usecase001",
+    "question": "Which action does the actor \"User\" perform directly?",
+    "choice": [
+      "Pass Through Gate",
+      "Purchase Ticket",
+      "Open Barrier",
+      "Turn On Ticket Gate System"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 8,
+    "type": "usecase002",
+    "question": "How many use cases are included in this image?",
+    "choice": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 9,
+    "type": "usecase002",
+    "question": "How many actors are included in this image?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 10,
+    "type": "usecase002",
+    "question": "How many associations are included in this image?",
+    "choice": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 11,
+    "type": "usecase002",
+    "question": "How many include relationships are included in this image?",
+    "choice": [
+      "7",
+      "5",
+      "6",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 12,
+    "type": "usecase002",
+    "question": "How many extend relationships are included in this image?",
+    "choice": [
+      "0",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 13,
+    "type": "usecase002",
+    "question": "Which of the following statements about generalization in this image is correct?",
+    "choice": [
+      "The image includes generalization for use cases but not for actors",
+      "The image includes neither actor generalization nor use case generalization",
+      "The image includes both actor generalization and use case generalization",
+      "The image includes generalization for actors but not for use cases"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 14,
+    "type": "usecase002",
+    "question": "Which of the following is a correct use case included in this image?",
+    "choice": [
+      "ATM",
+      "Update Passbook",
+      "Remittance Requester",
+      "Insert Card"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 15,
+    "type": "usecase002",
+    "question": "Which of the following is a correct actor included in this image?",
+    "choice": [
+      "Bank Staff",
+      "Update Passbook",
+      "Other Bank",
+      "ATM Administrator"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 16,
+    "type": "usecase002",
+    "question": "What is the name of the system in this image?",
+    "choice": [
+      "Online Banking",
+      "ATM",
+      "Account Management System",
+      "Enter PIN"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 17,
+    "type": "usecase002",
+    "question": "Which actor performs the \"Update Passbook\" use case?",
+    "choice": [
+      "Other Bank",
+      "Remittance Requester",
+      "Depositor",
+      "User"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 18,
+    "type": "usecase002",
+    "question": "Which action does the actor \"Remittance Requester\" perform directly?",
+    "choice": [
+      "Enter PIN",
+      "Depositor",
+      "Request Account Transfer (Remittance)",
+      "Update Passbook"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 19,
+    "type": "usecase002",
+    "question": "Which use case is included in both \"Withdraw Money\" and \"Request Account Transfer (Remittance)\"?",
+    "choice": [
+      "Insert Card",
+      "Update Passbook",
+      "Enter PIN",
+      "Withdraw Money"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 20,
+    "type": "usecase002",
+    "question": "Which is the correct combination of use cases that include \"Enter PIN\"?",
+    "choice": [
+      "\"Withdraw Money\" and \"Request Account Transfer (Remittance)\"",
+      "\"Remittance Requester\" and \"Depositor\"",
+      "\"Deposit Money\" and \"Request Account Transfer (Remittance)\"",
+      "\"Withdraw Money\" and \"Update Passbook\""
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 21,
+    "type": "usecase002",
+    "question": "Which of the following statements about actors in this image is correct?",
+    "choice": [
+      "\"Other Bank\" is a specialization of \"Remittance Requester\"",
+      "\"Enter PIN\" is a generalization of \"Withdraw Money\"",
+      "\"Depositor\" is a generalization of \"Remittance Requester\"",
+      "\"Remittance Requester\" is a generalization of \"Depositor\""
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 22,
+    "type": "usecase003",
+    "question": "How many use cases are included in this image?",
+    "choice": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 23,
+    "type": "usecase003",
+    "question": "How many actors are included in this image?",
+    "choice": [
+      "7",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 24,
+    "type": "usecase003",
+    "question": "How many associations are included in this image?",
+    "choice": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 25,
+    "type": "usecase003",
+    "question": "How many include relationships are included in this image?",
+    "choice": [
+      "1",
+      "0",
+      "5",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 26,
+    "type": "usecase003",
+    "question": "How many extend relationships are included in this image?",
+    "choice": [
+      "8",
+      "5",
+      "1",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 27,
+    "type": "usecase003",
+    "question": "Which of the following statements about generalization in this image is correct?",
+    "choice": [
+      "The image includes generalization for actors but not for use cases",
+      "The image includes both actor generalization and use case generalization",
+      "The image includes neither actor generalization nor use case generalization",
+      "The image includes generalization for use cases but not for actors"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 28,
+    "type": "usecase003",
+    "question": "Which of the following is a correct use case included in this image?",
+    "choice": [
+      "Online Customer",
+      "Deliver Order",
+      "Check Inventory",
+      "Process Return"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 29,
+    "type": "usecase003",
+    "question": "Which of the following is a correct actor included in this image?",
+    "choice": [
+      "Developer",
+      "Delivery Person",
+      "Deliver Order",
+      "System Administrator"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 30,
+    "type": "usecase003",
+    "question": "What is the name of the system in this image?",
+    "choice": [
+      "The system name is not specified",
+      "Online Customer",
+      "Deliver Order",
+      "Online Shopping System"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 31,
+    "type": "usecase003",
+    "question": "Which actor performs the \"Approve Invoice\" use case?",
+    "choice": [
+      "Delivery Person",
+      "Deliver Order",
+      "Warehouse Staff",
+      "Credit Company"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 32,
+    "type": "usecase003",
+    "question": "Which action does the actor \"Warehouse Staff\" perform directly?",
+    "choice": [
+      "Check Inventory",
+      "Deliver Order",
+      "Restock Products",
+      "Delivery Person"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 33,
+    "type": "object001",
+    "question": "How many objects are included in the image?",
+    "choice": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 34,
+    "type": "object001",
+    "question": "How many links are included in the image?",
+    "choice": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 35,
+    "type": "object001",
+    "question": "Which of the following is the correct combination of object name and class name in the image?",
+    "choice": [
+      "Yamada-san: Employee",
+      ": Development Department",
+      "Sato-san: Employee",
+      "Tokyo Branch: Department"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 36,
+    "type": "object001",
+    "question": "What is the class name of the \"Mr. Suzuki\" object?",
+    "choice": [
+      "administrator",
+      "department",
+      "Mr. Yamada",
+      "employee"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 37,
+    "type": "object001",
+    "question": "Which is the attribute value of the \"Department name\" of the \":Department\" object?",
+    "choice": [
+      "\"99-9999-9999\"",
+      "\"Mr. Watanabe\"",
+      "\"Sales Department\"",
+      "\"Development Department\""
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 38,
+    "type": "object001",
+    "question": "Which object is semantically connected to \"Mr. Yamada: Employee\"?",
+    "choice": [
+      "Mr. Watanabe: Employee",
+      "No object is connected",
+      ": Department",
+      "Department signature"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 39,
+    "type": "object002",
+    "question": "How many objects are included in the image?",
+    "choice": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 40,
+    "type": "object002",
+    "question": "How many links are included in the image?",
+    "choice": [
+      "0",
+      "8",
+      "6",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 41,
+    "type": "object002",
+    "question": "Which of the following is the correct object name contained in the image?",
+    "choice": [
+      "test",
+      "Noa:",
+      ": work",
+      ": work product"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 42,
+    "type": "object002",
+    "question": "Which is the class name of the \"test\" object?",
+    "choice": [
+      "work",
+      "requirement check",
+      "work product",
+      "description"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 43,
+    "type": "object002",
+    "question": "Which of the following is an attribute value of \"Name\" in the \"Test Specification\" object?",
+    "choice": [
+      "\"Test 0015\"",
+      "\"Tests if a user can log in using the correct username and password.\"",
+      "\"System\"",
+      "String"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 44,
+    "type": "object003",
+    "question": "How many objects are included in the image?",
+    "choice": [
+      "10",
+      "14",
+      "8",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 45,
+    "type": "object003",
+    "question": "How many links are included in the image?",
+    "choice": [
+      "8",
+      "14",
+      "11",
+      "10"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 46,
+    "type": "object003",
+    "question": "Which of the following is the correct combination of object name and class name in the image?",
+    "choice": [
+      "User: Sato",
+      "Tanaka: User",
+      "E-mail address: Tanaka",
+      "Sato: Comment"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 47,
+    "type": "object003",
+    "question": "Which is the class of the \"Sato\" object?",
+    "choice": [
+      "Friend",
+      "Junichi Sato",
+      "User",
+      "Timeline"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 48,
+    "type": "object003",
+    "question": "Which is the attribute value of the \"Posted content\" of the \":Comment\" object?",
+    "choice": [
+      "\"Between friends\"",
+      "\"Good job!\"",
+      "\"Nice weather today.\"",
+      ":Diary"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 49,
+    "type": "object003",
+    "question": "Which object is semantically connected to the \":friend request\" object?",
+    "choice": [
+      "application date",
+      ": diary",
+      "Sato's timeline: timeline",
+      "Sato: user"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 50,
+    "type": "class001",
+    "question": "How many classes are included in the image?",
+    "choice": [
+      "3",
+      "1",
+      "9",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 51,
+    "type": "class001",
+    "question": "How many associations are included in the image?",
+    "choice": [
+      "3",
+      "6",
+      "9",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 52,
+    "type": "class001",
+    "question": "How many generalizations does the image contain?",
+    "choice": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 53,
+    "type": "class001",
+    "question": "Which of the following is the correct name of the class included in the image?",
+    "choice": [
+      "calculate tuition",
+      "in-state students",
+      "number of students",
+      "employees"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 54,
+    "type": "class001",
+    "question": "Which of the following is the correct class attribute included in the image?",
+    "choice": [
+      "Calculate tuition",
+      "Number of students",
+      "In-state students",
+      "Name"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 55,
+    "type": "class001",
+    "question": "Which of the following is the correct operation for the class included in the image?",
+    "choice": [
+      "Log in",
+      "In-State Students",
+      "Calculate Tuition",
+      "Credit Hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 56,
+    "type": "class001",
+    "question": "Which of the following is a super class?",
+    "choice": [
+      "company",
+      "number of students",
+      "in-state students",
+      "students"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 57,
+    "type": "class001",
+    "question": "Which of the following is a subclass?",
+    "choice": [
+      "In-state students",
+      "Credit hours",
+      "Employees",
+      "Students"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 58,
+    "type": "class002",
+    "question": "How many classes are included in the image?",
+    "choice": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 59,
+    "type": "class002",
+    "question": "How many associations are included in the image?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 60,
+    "type": "class002",
+    "question": "How many generalizations does the image contain?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 61,
+    "type": "class002",
+    "question": "Which of the following is the correct associated name in the image?",
+    "choice": [
+      "name",
+      "employee",
+      "belongs to",
+      "registers expenses"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 62,
+    "type": "class002",
+    "question": "Which of the following is the correct class name included in the image?",
+    "choice": [
+      "password",
+      "department signature",
+      "register expenses",
+      "employee"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 63,
+    "type": "class002",
+    "question": "Which of the following is the correct name of the class attribute included in the image?",
+    "choice": [
+      "employee",
+      "register expenses",
+      "belong to",
+      "name"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 64,
+    "type": "class002",
+    "question": "Which of the following is the correct name of the class operation included in the image?",
+    "choice": [
+      "Name",
+      "Apply for employee",
+      "Belong to",
+      "Register expenses"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 65,
+    "type": "class002",
+    "question": "Which of the following is the correct visibility in the image?",
+    "choice": [
+      "#",
+      "+",
+      "-",
+      "~"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 66,
+    "type": "class002",
+    "question": "Which of the following classes is associated with the \"Employee\" class?",
+    "choice": [
+      "manager",
+      "department",
+      "employee belonging to",
+      "company"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 67,
+    "type": "class002",
+    "question": "Which of the following is the correct multiplicity when looking at the \"Employee\" class from the \"Department\" class?",
+    "choice": [
+      "1... *",
+      "1",
+      "0... *",
+      "Employee belonging to"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 68,
+    "type": "class002",
+    "question": "Which of the following is the correct explanation regarding the number of departments an employee belongs to in the image?",
+    "choice": [
+      "The employee belongs to one department",
+      "The employee belongs to more than one department",
+      "There is no statement regarding the number of departments to which the employee belongs",
+      "The employee belongs to more than zero departments"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 69,
+    "type": "class002",
+    "question": "Which of the following is the correct associated end name of \"Employee\" in terms of \"Department\" in the image?",
+    "choice": [
+      "Department",
+      "Employee",
+      "Department name",
+      "Name"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 70,
+    "type": "class002",
+    "question": "Which of the following is a subclass of the \"Employee\" class?",
+    "choice": [
+      "department head",
+      "manager",
+      "employee of the department",
+      "department"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 71,
+    "type": "class002",
+    "question": "Which of the following is the correct attribute of the employee class in the image?",
+    "choice": [
+      "Department",
+      "Belongs to",
+      "Password",
+      "Register expenses"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 72,
+    "type": "class002",
+    "question": "Which of the following is the correct description of the visibility of the operation \"log in\" for the employee class in the image?",
+    "choice": [
+      "Accessible only to the employee and manager classes",
+      "Accessible only to the employee class",
+      "Accessible only to the employee class",
+      "Accessible from all classes"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 73,
+    "type": "class002",
+    "question": "Which of the following is the correct type of employee ID in the image?",
+    "choice": [
+      "1",
+      "Integer",
+      "Password",
+      "String"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 74,
+    "type": "class003",
+    "question": "How many classes are included in the image?",
+    "choice": [
+      "9",
+      "3",
+      "10",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 75,
+    "type": "class003",
+    "question": "How many associations are included in the image?",
+    "choice": [
+      "16",
+      "9",
+      "7",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 76,
+    "type": "class003",
+    "question": "Which number of aggregates are included in the image?",
+    "choice": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 77,
+    "type": "class003",
+    "question": "How many generalizations does the image contain?",
+    "choice": [
+      "12",
+      "3",
+      "6",
+      "9"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 78,
+    "type": "class003",
+    "question": "Which of the following is the correct class name for the image?",
+    "choice": [
+      "Person",
+      "Book title number",
+      "Employee",
+      "Lending enforcement"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 79,
+    "type": "class003",
+    "question": "Which of the following is a correct attribute of the class contained in the image?",
+    "choice": [
+      "employee ID",
+      "create",
+      "book",
+      "title"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 80,
+    "type": "class003",
+    "question": "Which of the following is the correct class operation included in the image?",
+    "choice": [
+      "cancel",
+      "means of identification",
+      "book search",
+      "borrowing execution!"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 81,
+    "type": "class003",
+    "question": "Which class is associated with the \"Library\" class in the image?",
+    "choice": [
+      "librarian",
+      "book user",
+      "book registration number",
+      "book check out"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 82,
+    "type": "class003",
+    "question": "What is the multiplicity from the \"Registered Users\" class in the image to the \"Borrowing Reservations\" class?",
+    "choice": [
+      "1... *",
+      "1",
+      "0... *",
+      "0...1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 83,
+    "type": "class003",
+    "question": "Which of the following is a subclass of the \"person\" class in the image?",
+    "choice": [
+      "book loan",
+      "book classification",
+      "name",
+      "librarian"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 84,
+    "type": "class003",
+    "question": "Which class is the \"registered user\" in the image aggregated to?",
+    "choice": [
+      "User",
+      "User registration number",
+      "Library",
+      "Person"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 85,
+    "type": "class003",
+    "question": "Which of the following is in a whole - part relationship with the library in the image?",
+    "choice": [
+      "loan reservation",
+      "librarian",
+      "book checkout",
+      "person"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 86,
+    "type": "class003",
+    "question": "Which is the name of the \"Book Lending\" class attribute in the image?",
+    "choice": [
+      "Book registration number",
+      "Borrowing execution",
+      "Borrowing date",
+      "Return date"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 87,
+    "type": "class003",
+    "question": "In the image, \"with lending rights?\" Which is the visibility of?",
+    "choice": [
+      "+",
+      "#",
+      "-",
+      "~"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "type": "sequence001",
+    "question": "How many lifelines are included in this image?",
+    "choice": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 89,
+    "type": "sequence001",
+    "question": "How many synchronous messages are included in this image?",
+    "choice": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 90,
+    "type": "sequence001",
+    "question": "How many reply messages are included in this image?",
+    "choice": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 91,
+    "type": "sequence001",
+    "question": "How many execution specifications are included in this image?",
+    "choice": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 92,
+    "type": "sequence001",
+    "question": "Which of the following is the correct lifeline name included in the image?",
+    "choice": [
+      "Login Screen",
+      "Search",
+      "Loan Request",
+      "Shelf"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 93,
+    "type": "sequence001",
+    "question": "Which of the following is the correct message name included in the image?",
+    "choice": [
+      "User",
+      "Shelf",
+      "Login",
+      "Return Request"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 94,
+    "type": "sequence001",
+    "question": "Which lifeline is active when the Loan Request is sent?",
+    "choice": [
+      "User",
+      "Search",
+      "Loan Result",
+      "Shelf"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 95,
+    "type": "sequence001",
+    "question": "To which object is the Loan Request sent?",
+    "choice": [
+      "Shelf",
+      "Book",
+      "User",
+      "Loan Request is not sent"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 96,
+    "type": "sequence001",
+    "question": "Which request does the User send to Shelf?",
+    "choice": [
+      "Search Result",
+      "Loan Request",
+      "Loan Result",
+      "Search"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 97,
+    "type": "sequence002",
+    "question": "How many lifelines are included in this image?",
+    "choice": [
+      "14",
+      "9",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 98,
+    "type": "sequence002",
+    "question": "How many synchronous messages are included in this image?",
+    "choice": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 99,
+    "type": "sequence002",
+    "question": "How many asynchronous messages are included in this image?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 100,
+    "type": "sequence002",
+    "question": "How many reply messages are included in this image?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "7"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 101,
+    "type": "sequence002",
+    "question": "How many execution specifications are included in this image?",
+    "choice": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 102,
+    "type": "sequence002",
+    "question": "Which of the following is the correct lifeline name included in the image?",
+    "choice": [
+      "User",
+      "Savings Account Registration",
+      "Inter-Branch Transaction Details",
+      "Deposit History"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 103,
+    "type": "sequence002",
+    "question": "Which of the following is the correct message name included in the image?",
+    "choice": [
+      "Balance Inquiry",
+      "Deposit",
+      "Savings Deposit Control",
+      "Account Creation"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 104,
+    "type": "sequence002",
+    "question": "Which lifeline is active when the Deposit Request is sent?",
+    "choice": [
+      "Savings Deposit Interface",
+      "Savings Account",
+      "Individual Customer Actor",
+      "Individual Customer"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 105,
+    "type": "sequence002",
+    "question": "To which object is the \"Deposit\" request sent?",
+    "choice": [
+      "Savings Deposit Control",
+      "Savings Account",
+      "Individual Customer",
+      "Inter-Branch Transaction Details"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 106,
+    "type": "sequence002",
+    "question": "Which request does the Savings Account send to Unrecorded Transactions?",
+    "choice": [
+      "Inter-Branch Transaction",
+      "Deposit Request",
+      "Unrecorded Transactions",
+      "Deposit"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 107,
+    "type": "sequence003",
+    "question": "How many lifelines are included in this image?",
+    "choice": [
+      "8",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 108,
+    "type": "sequence003",
+    "question": "How many synchronous messages are included in this image?",
+    "choice": [
+      "10",
+      "9",
+      "6",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 109,
+    "type": "sequence003",
+    "question": "How many execution specifications are included in this image?",
+    "choice": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 110,
+    "type": "sequence003",
+    "question": "How many destruction events are included in this image?",
+    "choice": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 111,
+    "type": "sequence003",
+    "question": "How many alternatives are included in this image?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 112,
+    "type": "sequence003",
+    "question": "Which of the following is the correct lifeline name included in the image?",
+    "choice": [
+      "Login",
+      ": Session Management",
+      ": Login Process",
+      ": Logout Screen"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 113,
+    "type": "sequence003",
+    "question": "Which of the following is the correct message name included in the image?",
+    "choice": [
+      "Member ID",
+      "Authentication Result = OK",
+      "Enter Login Information",
+      "Login Process"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 114,
+    "type": "sequence003",
+    "question": "Which lifeline is destroyed?",
+    "choice": [
+      ": Login Screen",
+      ": Login Process",
+      "Transition to Authentication Error Screen",
+      "A: Actor"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 115,
+    "type": "sequence003",
+    "question": "Which lifeline becomes active when \"Authentication Result = Authenticate (Password)\" is sent?",
+    "choice": [
+      ": Login Screen",
+      ": Member List",
+      ": Login Process",
+      "A's Member Information: Member Information"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 116,
+    "type": "sequence003",
+    "question": "Which of the following is a correct combined fragment included in this image?",
+    "choice": [
+      "Loop",
+      "Option",
+      "Break",
+      "Alternative"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 117,
+    "type": "sequence003",
+    "question": "Which request does the \": Login Screen\" send to \": Login Process\"?",
+    "choice": [
+      "Enter login information (Member ID, Password)",
+      "Retrieve member information for A (Member ID)",
+      "Transition to Authentication Error Screen ()",
+      "Login (Member ID, Password)"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 118,
+    "type": "communication001",
+    "question": "How many lifelines are included in this image?",
+    "choice": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 119,
+    "type": "communication001",
+    "question": "How many connectors are included in this image?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 120,
+    "type": "communication001",
+    "question": "How many messages are included in this image?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 121,
+    "type": "communication001",
+    "question": "How many synchronous messages are included in this image?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 122,
+    "type": "communication001",
+    "question": "How many reply messages are included in this image?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 123,
+    "type": "communication001",
+    "question": "What is the last sequence number in this image?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 124,
+    "type": "communication001",
+    "question": "Which message is sent from the 'Member Registration Screen' lifeline to the 'User' lifeline?",
+    "choice": [
+      "Display Registration Result",
+      "Registration Result",
+      "Register Information",
+      "Enter Information"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 125,
+    "type": "communication002",
+    "question": "How many lifelines are included in this image?",
+    "choice": [
+      "9",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 126,
+    "type": "communication002",
+    "question": "How many connectors are included in this image?",
+    "choice": [
+      "7",
+      "6",
+      "9",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 127,
+    "type": "communication002",
+    "question": "How many messages are included in this image?",
+    "choice": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 128,
+    "type": "communication002",
+    "question": "How many synchronous messages are included in this image?",
+    "choice": [
+      "7",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 129,
+    "type": "communication002",
+    "question": "How many asynchronous messages are included in this image?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 130,
+    "type": "communication002",
+    "question": "How many reply messages are included in this image?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 131,
+    "type": "communication002",
+    "question": "What is the last sequence number in this image?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 132,
+    "type": "communication002",
+    "question": "Which message is sent from the \"Down Track: Train Identification Device\" lifeline to the \"Down Track: Railway Crossing Gate\" lifeline?",
+    "choice": [
+      "5b",
+      "Transmit Train Type",
+      "Activate Alarm",
+      "Lower the Railway Crossing Gate"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 133,
+    "type": "communication002",
+    "question": "What is the next message sent after \"Transmit Train Type\"?",
+    "choice": [
+      "Transmit Closure Time",
+      "Activate Alarm",
+      "Train Identification Device",
+      "Lower the Railway Crossing Gate"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 134,
+    "type": "communication003",
+    "question": "How many lifelines are included in this image?",
+    "choice": [
+      "18",
+      "13",
+      "7",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 135,
+    "type": "communication003",
+    "question": "How many connectors are included in this image?",
+    "choice": [
+      "10",
+      "16",
+      "8",
+      "20"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 136,
+    "type": "communication003",
+    "question": "How many messages are included in this image?",
+    "choice": [
+      "7",
+      "10",
+      "12",
+      "19"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 137,
+    "type": "communication003",
+    "question": "How many synchronous messages are included in this image?",
+    "choice": [
+      "10",
+      "7",
+      "18",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 138,
+    "type": "communication003",
+    "question": "How many reply messages are included in this image?",
+    "choice": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 139,
+    "type": "communication003",
+    "question": "What is the last sequence number in this image?",
+    "choice": [
+      "End",
+      "5.1",
+      "6.2",
+      "4.2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 140,
+    "type": "communication003",
+    "question": "Which message is sent from the \": Driving\" lifeline to the \"Left Motor: Motor\" lifeline?",
+    "choice": [
+      "Measure voltage",
+      "Measure rotation angle",
+      "End",
+      "Rotate"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 141,
+    "type": "communication003",
+    "question": "What message is sent just before \"Detect\"?",
+    "choice": [
+      "Drive",
+      "Rotate",
+      "Measure voltage",
+      "End"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 142,
+    "type": "statemachine001",
+    "question": "How many simple states are included in the image?",
+    "choice": [
+      "4",
+      "3",
+      "7",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 143,
+    "type": "statemachine001",
+    "question": "How many external transitions are included in the image?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 144,
+    "type": "statemachine001",
+    "question": "When the car stops from \"running,\" which state does the car enter?",
+    "choice": [
+      "Stopped",
+      "Alighted",
+      "Initial state",
+      "Parked"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 145,
+    "type": "statemachine002",
+    "question": "How many simple states are included in the image?",
+    "choice": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 146,
+    "type": "statemachine002",
+    "question": "How many external transitions are included in the image?",
+    "choice": [
+      "15",
+      "16",
+      "13",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 147,
+    "type": "statemachine002",
+    "question": "Which of the following states immediately follows the start state?",
+    "choice": [
+      "Qualities are being set",
+      "Initialization is in progress",
+      "Waiting",
+      "Engaged"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 148,
+    "type": "statemachine002",
+    "question": "Which of the following states immediately precedes the end state?",
+    "choice": [
+      "Engaging",
+      "Setting qualities",
+      "Waiting",
+      "Saving"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 149,
+    "type": "statemachine002",
+    "question": "When an enemy character enters an area from the reporting state, which state does it enter?",
+    "choice": [
+      "Waiting",
+      "Engaging",
+      "Setting qualities",
+      "Alert"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 150,
+    "type": "statemachine003",
+    "question": "How many simple states are included in the image?",
+    "choice": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 151,
+    "type": "statemachine003",
+    "question": "How many external transitions are included in the image?",
+    "choice": [
+      "4",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 152,
+    "type": "statemachine003",
+    "question": "Which of the following is an ENTRY action performed while the water is heating?",
+    "choice": [
+      "Keep warm",
+      "Turn on the water heating lamp",
+      "Boil water",
+      "Turn on the keep warm lamp"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 153,
+    "type": "statemachine003",
+    "question": "Which EXIT action is performed while keeping water warm?",
+    "choice": [
+      "Turn on the water heating lamp",
+      "Keep warm",
+      "During water heating",
+      "Keep warm lamp"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 154,
+    "type": "statemachine003",
+    "question": "Which of the following DO activities takes place in the state of boiling water?",
+    "choice": [
+      "Boil water",
+      "Turn on the water heating lamp",
+      "Keep water warm",
+      "Complete water heating"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 155,
+    "type": "statemachine003",
+    "question": "Which state immediately follows the start state?",
+    "choice": [
+      "Keeping warm",
+      "Power OFF",
+      "On standby",
+      "Boiling water"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 156,
+    "type": "statemachine003",
+    "question": "What state does the water heating system enter when the water heating is completed?",
+    "choice": [
+      "Heating water",
+      "Water heating lamp off",
+      "Keeping water warm",
+      "Standby"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 157,
+    "type": "statemachine003",
+    "question": "Which of the following effects occurs when the water temperature changes from \"heating water\" to \"standby\"?",
+    "choice": [
+      "Boiling water",
+      "Completion of water heating",
+      "Top lid opened",
+      "Water heating button pressed"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 158,
+    "type": "statemachine003",
+    "question": "When the water level is other than the standard level while the water is being kept warm, to which state does the machine shift?",
+    "choice": [
+      "Water is heating",
+      "Keep warm",
+      "In standby",
+      "Water heating button is pressed"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 159,
+    "type": "activity001",
+    "question": "How many partitions are included in the image?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 160,
+    "type": "activity001",
+    "question": "How many actions are included in the image?",
+    "choice": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 161,
+    "type": "activity001",
+    "question": "How many control flows are included in the image?",
+    "choice": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 162,
+    "type": "activity001",
+    "question": "Which of the following is the correct partition name in the image?",
+    "choice": [
+      "system",
+      "accountant",
+      "user",
+      "ticket insertion slot"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 163,
+    "type": "activity001",
+    "question": "Which of the following is the correct name of the action in the image?",
+    "choice": [
+      "Confirmation display of input contents",
+      "Create ticket",
+      "Save configuration items",
+      "Complete user registration"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 164,
+    "type": "activity001",
+    "question": "Which action immediately follows the start node?",
+    "choice": [
+      "Save the ticket and send an acceptance e-mail",
+      "Display the inquiry type menu",
+      "Enter the PC usage registration details",
+      "Set \"PC usage registration\" as the inquiry type"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 165,
+    "type": "activity001",
+    "question": "Which action is immediately before the end node?",
+    "choice": [
+      "Enter requester information and confirm ticket",
+      "Display inquiry type menu",
+      "Save ticket and send acceptance email",
+      "Set \"PC usage registration\" as inquiry type"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 166,
+    "type": "activity001",
+    "question": "Which action immediately follows the \"Confirmation\" action?",
+    "choice": [
+      "Display the inquiry type menu",
+      "Save the ticket and send an acceptance e-mail",
+      "Enter the requester's information and confirm the ticket",
+      "Enter the PC usage registration details"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 167,
+    "type": "activity002",
+    "question": "How many partitions are included in the image?",
+    "choice": [
+      "2",
+      "5",
+      "4",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 168,
+    "type": "activity002",
+    "question": "How many actions are included in the image?",
+    "choice": [
+      "13",
+      "11",
+      "10",
+      "12"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 169,
+    "type": "activity002",
+    "question": "How many control flows are included in the image?",
+    "choice": [
+      "17",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 170,
+    "type": "activity002",
+    "question": "How many decision nodes are included in the image?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 171,
+    "type": "activity002",
+    "question": "What is the number of parallel processes taking place in the image?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 172,
+    "type": "activity002",
+    "question": "Which of the following is the correct partition name in the image?",
+    "choice": [
+      "Start a new order",
+      "Product manager",
+      "User",
+      "Delivery person"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 173,
+    "type": "activity002",
+    "question": "Which of the following is the correct name of the action in the image?",
+    "choice": [
+      "Inspect the order",
+      "Check the inventory",
+      "Pack the order",
+      "Load the bills"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 174,
+    "type": "activity002",
+    "question": "Which action immediately follows the opening node?",
+    "choice": [
+      "Start a new order",
+      "Complete settlement",
+      "Add an item to the order",
+      "Submit a bill"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 175,
+    "type": "activity002",
+    "question": "Which action immediately precedes the end node?",
+    "choice": [
+      "Deliver the order",
+      "Pick up the order",
+      "Display the amount",
+      "Complete the payment"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 176,
+    "type": "activity002",
+    "question": "Which of the following is the correct condition for the branching included in the image?",
+    "choice": [
+      "Press the order button",
+      "No items to add",
+      "Refuse the request",
+      "Other"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 177,
+    "type": "activity002",
+    "question": "Which action immediately follows the \"accept billing\" action?",
+    "choice": [
+      "Ship",
+      "Reject the bill",
+      "Request pickup",
+      "Complete payment"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 178,
+    "type": "activity002",
+    "question": "Which of the following processes is used when the order amount is over the credit limit after \"Complete Payment?\"",
+    "choice": [
+      "Request a pickup",
+      "Review the order",
+      "Deny the charge",
+      "Approve the charge"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 179,
+    "type": "activity003",
+    "question": "How many activities are included in the image?",
+    "choice": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 180,
+    "type": "activity003",
+    "question": "How many actions are included in the image?",
+    "choice": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 181,
+    "type": "activity003",
+    "question": "How many control flows are included in the image?",
+    "choice": [
+      "10",
+      "9",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 182,
+    "type": "activity003",
+    "question": "How many decision nodes are included in the image?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 183,
+    "type": "activity003",
+    "question": "How many merge nodes does the image contain?",
+    "choice": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 184,
+    "type": "activity003",
+    "question": "How many object nodes are included in the image?",
+    "choice": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 185,
+    "type": "activity003",
+    "question": "What is the number of parallel processes taking place in the image?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 186,
+    "type": "activity003",
+    "question": "Which of the following is the correct name of the activity in the image?",
+    "choice": [
+      "100-yen money changer",
+      "500-yen money changer",
+      "Paper money",
+      "ATM"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 187,
+    "type": "activity003",
+    "question": "Which of the following is the correct name of the action in the image?",
+    "choice": [
+      "coin",
+      "100-yen money changer",
+      "1,000-yen bill or 500-yen coin",
+      "return the input money"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 188,
+    "type": "activity003",
+    "question": "Which of the following is the correct object node in the image?",
+    "choice": [
+      "a credit card",
+      "a 100-yen money changer",
+      "a bill",
+      "a 100-yen coin"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 189,
+    "type": "activity003",
+    "question": "Which action immediately follows the start node?",
+    "choice": [
+      "A banknote",
+      "A 100-yen coin is issued",
+      "The type of money input is determined",
+      "A 1,000-yen banknote is issued"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 190,
+    "type": "activity003",
+    "question": "Which of the following is a correct condition for the branch included in the image?",
+    "choice": [
+      "Out of change",
+      "100-yen coin out",
+      "1,000-yen bill or 500-yen coin",
+      "Determine the type of money input"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 191,
+    "type": "activity003",
+    "question": "Which action precedes the \"return the deposit\" action?",
+    "choice": [
+      "Identify the type of money put in",
+      "Paper money",
+      "Put out a 100-yen coin",
+      "Save the ticket and send an acceptance e-mail"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 192,
+    "type": "activity003",
+    "question": "What is the guard for the action of putting out a 100-yen coin in a decision node?",
+    "choice": [
+      "When there are not enough coins",
+      "Determine the type of money input",
+      "else",
+      "1,000 yen bill or 500 yen coin"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 193,
+    "type": "package001",
+    "question": "How many packages are included in this image?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 194,
+    "type": "package001",
+    "question": "How many dependencies are included in this image?\"",
+    "choice": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 195,
+    "type": "package001",
+    "question": "Which of the following is the correct package name included in this image?",
+    "choice": [
+      "data",
+      "controller",
+      "application",
+      "ui"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 196,
+    "type": "package001",
+    "question": "Which package does the \"service\" package depend on?",
+    "choice": [
+      "domain",
+      "application",
+      "data",
+      "ui"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 197,
+    "type": "package002",
+    "question": "How many packages are included in this image?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 198,
+    "type": "package002",
+    "question": "How many dependencies are included in this image?\"",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 199,
+    "type": "package002",
+    "question": "Which of the following is the correct package name included in this image?",
+    "choice": [
+      "service",
+      "entitiy",
+      "controller",
+      "repository"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 200,
+    "type": "package002",
+    "question": "Which package depends on the \"db access\" package?",
+    "choice": [
+      "control",
+      "service",
+      "entity",
+      "ui"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 201,
+    "type": "package003",
+    "question": "How many packages are included in this image?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 202,
+    "type": "package003",
+    "question": "How many dependencies are included in this image?\"",
+    "choice": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 203,
+    "type": "package003",
+    "question": "Which of the following is the correct package name included in this image?",
+    "choice": [
+      "control",
+      "OrderFrame",
+      "bean",
+      "repository"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 204,
+    "type": "package003",
+    "question": "Which of the following is the correct internal element of the \"service\" package?",
+    "choice": [
+      "OrderFrame",
+      "ui",
+      "OrderControl",
+      "OrderBean"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 205,
+    "type": "package003",
+    "question": "Which package does the \"service\" package depend on?",
+    "choice": [
+      "ui",
+      "control",
+      "bean",
+      "OrderBean"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 206,
+    "type": "component001",
+    "question": "How many components are included in the image?",
+    "choice": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 207,
+    "type": "component001",
+    "question": "How many delegated connectors are included in the image?",
+    "choice": [
+      "0",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 208,
+    "type": "component001",
+    "question": "Which number of provided interfaces are included in the image?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 209,
+    "type": "component001",
+    "question": "How many request interfaces are included in the image?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 210,
+    "type": "component001",
+    "question": "How many assembly connectors are included in the image?",
+    "choice": [
+      "3",
+      "2",
+      "0",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 211,
+    "type": "component001",
+    "question": "What is the correct component name included in this diagram?",
+    "choice": [
+      "user management system",
+      "payroll management",
+      "payroll service",
+      "server"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 212,
+    "type": "component001",
+    "question": "Which of the following is the correct name of the component to which the payroll management component is connected?",
+    "choice": [
+      "employee",
+      "payroll service",
+      "payroll management",
+      "network"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 213,
+    "type": "component002",
+    "question": "How many components are included in the image?",
+    "choice": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 214,
+    "type": "component002",
+    "question": "Which number of provided interfaces are included in the image?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "0"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 215,
+    "type": "component002",
+    "question": "How many request interfaces are included in the image?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 216,
+    "type": "component002",
+    "question": "How many ports are included in the image?",
+    "choice": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 217,
+    "type": "component002",
+    "question": "What is the correct component name included in this diagram?",
+    "choice": [
+      "Network component",
+      "Processing result",
+      "DB access component",
+      "Data processing"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 218,
+    "type": "component002",
+    "question": "What is the correct interface name included in this diagram?",
+    "choice": [
+      "data processing",
+      "receiving",
+      "DB access component",
+      "connection request"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 219,
+    "type": "component002",
+    "question": "Which interface is provided by the DB access component?",
+    "choice": [
+      "Connection request",
+      "Data processing",
+      "Processing results",
+      "Processing request"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 220,
+    "type": "component003",
+    "question": "How many components are included in the image?",
+    "choice": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 221,
+    "type": "component003",
+    "question": "Which number of provided interfaces are included in the image?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 222,
+    "type": "component003",
+    "question": "How many request interfaces are included in the image?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 223,
+    "type": "component003",
+    "question": "How many assembly connectors are included in the image?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 224,
+    "type": "component003",
+    "question": "How many ports are included in the image?",
+    "choice": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 225,
+    "type": "component003",
+    "question": "How many delegated connectors are included in the image?",
+    "choice": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 226,
+    "type": "component003",
+    "question": "Which of the following is the correct component name included in this diagram?",
+    "choice": [
+      "expense registration service",
+      "payroll service",
+      "employee",
+      "expense database"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 227,
+    "type": "component003",
+    "question": "What is the correct interface name included in this diagram?",
+    "choice": [
+      "Expense Overall",
+      "Expense Database",
+      "Attendance Instructions",
+      "Expense"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 228,
+    "type": "component003",
+    "question": "What is the correct subsystem name included in this diagram?",
+    "choice": [
+      "Expense Database",
+      "Overall Expense",
+      "Employee",
+      "Expense"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 229,
+    "type": "component003",
+    "question": "Which assembly connector is connected to the \"Expense\" component?",
+    "choice": [
+      "Expense Registration Service",
+      "Attendance Instructions",
+      "Expense Account Management",
+      "Deposit Instructions"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 230,
+    "type": "deployment001",
+    "question": "Which of the following is the correct number of communication paths?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 231,
+    "type": "deployment001",
+    "question": "Which is the correct number of nodes?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 232,
+    "type": "deployment001",
+    "question": "Which is the correct number of components?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 233,
+    "type": "deployment001",
+    "question": "What is the correct node name included in this diagram?",
+    "choice": [
+      "cloud storage",
+      "central server",
+      "database",
+      "local server"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 234,
+    "type": "deployment001",
+    "question": "Which node is connected to the printer node by a communication path?",
+    "choice": [
+      "User interface",
+      "Database",
+      "Desktop client",
+      "Central server"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 235,
+    "type": "deployment001",
+    "question": "Which node is where the \"database\" component is located?",
+    "choice": [
+      "Printer",
+      "User interface",
+      "Central server",
+      "Data center"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 236,
+    "type": "deployment002",
+    "question": "Which of the following is the correct number of communication paths?",
+    "choice": [
+      "3",
+      "0",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 237,
+    "type": "deployment002",
+    "question": "Which is the correct number of nodes?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 238,
+    "type": "deployment002",
+    "question": "Which is the correct number of deliverables?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 239,
+    "type": "deployment002",
+    "question": "Which of the following is the correct node name included in this diagram?",
+    "choice": [
+      "client software",
+      "server machine",
+      "pop",
+      "gateway"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 240,
+    "type": "deployment002",
+    "question": "Which of the following is the correct artifact included in this diagram?",
+    "choice": [
+      "device",
+      "JRE",
+      "Mailer.exe",
+      "server machine"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 241,
+    "type": "deployment002",
+    "question": "Which is the multiplicity of the client machine as seen from the server machine?",
+    "choice": [
+      "*",
+      "1... *",
+      "1",
+      "0..1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 242,
+    "type": "deployment002",
+    "question": "Which of the following is connected to the server machine by a communication path?",
+    "choice": [
+      "Client machine",
+      "JRE",
+      "Mailer.exe",
+      "Linux"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 243,
+    "type": "deployment002",
+    "question": "Which of the following is the correct execution environment for the server machine?",
+    "choice": [
+      "Client machine",
+      "JRE",
+      "Mailer.exe",
+      "Linux"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 244,
+    "type": "deployment002",
+    "question": "Which of the following is a correct JRE artifact?",
+    "choice": [
+      "Client machine",
+      "MailChecker.jar",
+      "Mailer.exe",
+      "sendmail"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 245,
+    "type": "deployment003",
+    "question": "Which of the following is the correct number of dependencies?",
+    "choice": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 246,
+    "type": "deployment003",
+    "question": "Which is the correct number of nodes?",
+    "choice": [
+      "4",
+      "7",
+      "10",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 247,
+    "type": "deployment003",
+    "question": "Which is the correct number of deliverables?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 248,
+    "type": "deployment003",
+    "question": "Which is the correct number of components?",
+    "choice": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 249,
+    "type": "deployment003",
+    "question": "What is the correct node name included in this diagram?",
+    "choice": [
+      "Enhanced AVR firmware",
+      "Running program",
+      "Mechanism",
+      "Subprocessor Atmel AVR"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 250,
+    "type": "deployment003",
+    "question": "What is the correct component name included in this diagram?",
+    "choice": [
+      "Sensor and motor control program",
+      "NXT Hardware",
+      "Running program",
+      "UI"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 251,
+    "type": "deployment003",
+    "question": "What is the correct artifact name included in this diagram?",
+    "choice": [
+      "Enhanced NXT firmware",
+      "Main processor Atmel ARM7",
+      "Sensor and motor control program",
+      "Mechanism"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 252,
+    "type": "deployment003",
+    "question": "What is the execution environment for the main processor Atmel ARM7?",
+    "choice": [
+      "Device drivers",
+      "NXT Hardware",
+      "Enhanced NXT firmware",
+      "Subprocessors Atmel AVR"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 253,
+    "type": "deployment003",
+    "question": "Which of the following is a dependency of the sensor motor control program?",
+    "choice": [
+      "Driving program",
+      "Enhanced NXT firmware",
+      "Subprocessor Atmel AVR",
+      "NXT Hardware"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 254,
+    "type": "composite_structure001",
+    "question": "Which is the correct number of structured classifiers?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 255,
+    "type": "composite_structure001",
+    "question": "Which is the correct number of parts?",
+    "choice": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 256,
+    "type": "composite_structure001",
+    "question": "Which is the correct number of interfaces provided?",
+    "choice": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 257,
+    "type": "composite_structure001",
+    "question": "Which is the correct number of required interfaces?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 258,
+    "type": "composite_structure001",
+    "question": "Which of the following is connected to memory?",
+    "choice": [
+      "CPU",
+      "Monitor",
+      "PC",
+      "Motherboard"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 259,
+    "type": "composite_structure001",
+    "question": "Which of the following is the correct provided interface included in the image?",
+    "choice": [
+      "Transmission",
+      "CPU",
+      "Monitor",
+      "Keyboard"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 260,
+    "type": "composite_structure001",
+    "question": "Which of the following is the correct request interface included in the image?",
+    "choice": [
+      "monitor",
+      "keyboard",
+      "CPU",
+      "receive"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 261,
+    "type": "composite_structure002",
+    "question": "Which is the correct number of structured classifiers?",
+    "choice": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 262,
+    "type": "composite_structure002",
+    "question": "Which is the correct number of parts?",
+    "choice": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 263,
+    "type": "composite_structure002",
+    "question": "Which is the correct number of properties?",
+    "choice": [
+      "0",
+      "6",
+      "1",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 264,
+    "type": "composite_structure002",
+    "question": "Which is the correct number of required interfaces?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 265,
+    "type": "composite_structure002",
+    "question": "Which is the correct number of interfaces provided?",
+    "choice": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 266,
+    "type": "composite_structure002",
+    "question": "Which of the following is connected to a touch panel?",
+    "choice": [
+      "ATM",
+      "Card reader",
+      "Modem",
+      "Security sensor"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 267,
+    "type": "composite_structure002",
+    "question": "Which of the following is the correct provided interface included in the image?",
+    "choice": [
+      "External communication reception",
+      "Reception",
+      "ATM",
+      "Transmission"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 268,
+    "type": "composite_structure002",
+    "question": "Which of the following is the correct request interface included in the image?",
+    "choice": [
+      "External communication reception",
+      "Transmission",
+      "ATM",
+      "Reception"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 269,
+    "type": "composite_structure003",
+    "question": "Which is the correct number of collaborations?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "0"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 270,
+    "type": "composite_structure003",
+    "question": "Which of the following is the correct number of collaborative uses?",
+    "choice": [
+      "5",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 271,
+    "type": "composite_structure003",
+    "question": "Which of the following is the correct number of collaboration rolls?",
+    "choice": [
+      "2",
+      "3",
+      "5",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 272,
+    "type": "composite_structure003",
+    "question": "Unit 1: Which of the following is the ATM request system?",
+    "choice": [
+      "Cash Management System",
+      "Hanamaru Bank Deposit System",
+      "Transfer Service System",
+      "Withdrawal Service System"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 273,
+    "type": "timing001",
+    "question": "Which is the correct number of lifelines in the image?",
+    "choice": [
+      "7",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 274,
+    "type": "timing001",
+    "question": "Which of the following is the correct number of states in the image?",
+    "choice": [
+      "6",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 275,
+    "type": "timing001",
+    "question": "Which is the correct number of messages in the image?",
+    "choice": [
+      "1",
+      "6",
+      "3",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 276,
+    "type": "timing001",
+    "question": "Which of the following is the correct lifeline name included in the image?",
+    "choice": [
+      "In use",
+      "ATM",
+      "Authentication completed",
+      "Login screen"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 277,
+    "type": "timing001",
+    "question": "Which of the following is the correct event name included in the image?",
+    "choice": [
+      "Transaction started",
+      "Waiting",
+      "Error occurred",
+      "ATM"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 278,
+    "type": "timing001",
+    "question": "Which of the following states is next to in-use in the image?",
+    "choice": [
+      "Transaction completed",
+      "Waiting",
+      "Authentication in progress",
+      "Use completed"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 279,
+    "type": "timing001",
+    "question": "Which event occurs when the status switches from waiting to authenticating in the image?",
+    "choice": [
+      "Authentication started",
+      "Authentication completed",
+      "Authentication in progress",
+      "Transaction started"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 280,
+    "type": "timing002",
+    "question": "Which is the correct number of lifelines in the image?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 281,
+    "type": "timing002",
+    "question": "Which is the correct total number of states included in the image?",
+    "choice": [
+      "5",
+      "7",
+      "1",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 282,
+    "type": "timing002",
+    "question": "Which is the correct number of messages in the image?",
+    "choice": [
+      "6",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 283,
+    "type": "timing002",
+    "question": "Which of the following is the correct lifeline name included in the image?",
+    "choice": [
+      "Login screen",
+      "Authentication complete",
+      "In operation",
+      "ATM"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 284,
+    "type": "timing002",
+    "question": "Which of the following is the correct event name included in the image?",
+    "choice": [
+      "Error occurs",
+      "ATM",
+      "Card is inserted",
+      "Authentication completed"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 285,
+    "type": "timing002",
+    "question": "Which of the following states is next in use in the image?",
+    "choice": [
+      "Waiting",
+      "In operation",
+      "Authenticating",
+      "Ready for use"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 286,
+    "type": "timing002",
+    "question": "Which event occurs when the state switches from waiting to authenticating in the image?",
+    "choice": [
+      "Transaction starts",
+      "Authentication starts",
+      "Authentication in progress",
+      "Card is inserted"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 287,
+    "type": "timing002",
+    "question": "Which message in the image is sent by the user to the ATM after the transaction is initiated?",
+    "choice": [
+      "Transaction has started",
+      "Authentication completed",
+      "Insert card",
+      "Enter PIN"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 288,
+    "type": "timing003",
+    "question": "Which is the correct number of lifelines in the image?",
+    "choice": [
+      "5",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 289,
+    "type": "timing003",
+    "question": "Which is the correct total number of states included in the image?",
+    "choice": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 290,
+    "type": "timing003",
+    "question": "Which is the correct number of messages in the image?",
+    "choice": [
+      "1",
+      "2",
+      "0",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 291,
+    "type": "timing003",
+    "question": "Which of the following is the correct lifeline name included in the image?",
+    "choice": [
+      "Authentication in progress",
+      "Login screen",
+      "No operation for a certain period of time",
+      "ATM"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 292,
+    "type": "timing003",
+    "question": "Which of the following is the correct state name included in the image?",
+    "choice": [
+      "No operation for a certain time",
+      "In operation",
+      "ATM",
+      "In use"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 293,
+    "type": "timing003",
+    "question": "Which of the following states is next in the image during authentication?",
+    "choice": [
+      "In standby transition",
+      "Authentication completed",
+      "User performs operation",
+      "In use"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 294,
+    "type": "timing003",
+    "question": "How long is the \"no operation for a certain period of time\" in the image?",
+    "choice": [
+      "3 minutes",
+      "60 seconds",
+      "2t seconds",
+      "10 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 295,
+    "type": "interaction_overview001",
+    "question": "How many activities are included in the image?",
+    "choice": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 296,
+    "type": "interaction_overview001",
+    "question": "How many control flows are included in the image?",
+    "choice": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 297,
+    "type": "interaction_overview001",
+    "question": "Which is the next action of the start node in the image?",
+    "choice": [
+      "Select a book management system process",
+      "Borrow a book",
+      "Return a book",
+      "Retrieve library information"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 298,
+    "type": "interaction_overview002",
+    "question": "How many activities are included in the image?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 299,
+    "type": "interaction_overview002",
+    "question": "How many control flows are included in the image?",
+    "choice": [
+      "9",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 300,
+    "type": "interaction_overview002",
+    "question": "The diagram in this image is a combination of an activity diagram and what diagram?",
+    "choice": [
+      "sequence diagram",
+      "state machine diagram",
+      "class diagram",
+      "communication diagram"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 301,
+    "type": "interaction_overview002",
+    "question": "Which of the following actions is the starting node in the image?",
+    "choice": [
+      "Member logs in",
+      "Member registers",
+      "Adds items to the shopping basket",
+      "Browses items in the shopping basket"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 302,
+    "type": "interaction_overview002",
+    "question": "Within the \"Place Order\" action in the image, which of the following is the correct lifeline from which the \"Register Order\" message is sent?",
+    "choice": [
+      "Order screen",
+      "Member",
+      "User",
+      "Order management"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 303,
+    "type": "interaction_overview003",
+    "question": "How many activities are included in the image?",
+    "choice": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 304,
+    "type": "interaction_overview003",
+    "question": "How many control flows are included in the image?",
+    "choice": [
+      "8",
+      "3",
+      "9",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 305,
+    "type": "interaction_overview003",
+    "question": "The diagram in this image is a combination of an activity diagram and what diagram?",
+    "choice": [
+      "sequence diagram",
+      "class diagram",
+      "communication diagram",
+      "state machine diagram"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 306,
+    "type": "interaction_overview003",
+    "question": "If you are already logged in, which of the following actions are you to take?",
+    "choice": [
+      "Login process",
+      "Borrowing process in the library management system",
+      "Contacting the customer support system",
+      "Notification of a problem"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 307,
+    "type": "interaction_overview003",
+    "question": "What is the last message sent within an inquiry action to the customer support system?",
+    "choice": [
+      "Notification of trouble resolution",
+      "Notification of trouble",
+      "Completion message of trouble handling",
+      "Transmission of trouble details"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 308,
+    "type": "table001",
+    "question": "Which is the correct number of rows containing values in the table in the image?",
+    "choice": [
+      "6",
+      "12",
+      "4",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 309,
+    "type": "table001",
+    "question": "Which is the correct number of columns containing values in the table in the image?",
+    "choice": [
+      "6",
+      "3",
+      "10",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 310,
+    "type": "table001",
+    "question": "Which of the following is the correct number of cells in the table with the value ◯?",
+    "choice": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 311,
+    "type": "table001",
+    "question": "Which is the correct number of cells in the table with a value of △?",
+    "choice": [
+      "3",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 312,
+    "type": "table001",
+    "question": "Which is the correct number of cells in the table whose value is x?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 313,
+    "type": "table001",
+    "question": "Which of the following is the correct column name included in the table?",
+    "choice": [
+      "ID",
+      "Package(scratch)",
+      "Scratch",
+      "Applicability"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 314,
+    "type": "table001",
+    "question": "Which of the following is the correct row name included in the table?",
+    "choice": [
+      "scope of application",
+      "speed of implementation",
+      "package (non-customized)",
+      "implementation period"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 315,
+    "type": "table002",
+    "question": "Which is the correct number of rows containing values in the table in the image?",
+    "choice": [
+      "15",
+      "5",
+      "8",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 316,
+    "type": "table002",
+    "question": "Which is the correct number of columns containing values in the table in the image?",
+    "choice": [
+      "10",
+      "3",
+      "15",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 317,
+    "type": "table002",
+    "question": "Which of the following is the correct number of cells in which the price is written?",
+    "choice": [
+      "19",
+      "13",
+      "1",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 318,
+    "type": "table002",
+    "question": "Which of the following is the correct number of products listed in the table?",
+    "choice": [
+      "1",
+      "3",
+      "5",
+      "8"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 319,
+    "type": "table002",
+    "question": "Which of the following is the correct column name included in the table?",
+    "choice": [
+      "apples",
+      "discount",
+      "number of pieces",
+      "points"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 320,
+    "type": "table002",
+    "question": "Which of the following is the correct row name included in the table?",
+    "choice": [
+      "potato",
+      "orange",
+      "radish",
+      "subtotal"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 321,
+    "type": "table002",
+    "question": "What is the unit price of bananas (excluding tax)?",
+    "choice": [
+      "720 yen",
+      "120 yen",
+      "6",
+      "100 yen"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 322,
+    "type": "table003",
+    "question": "Which is the correct number of rows containing values in the table in the image?",
+    "choice": [
+      "10",
+      "3",
+      "6",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 323,
+    "type": "table003",
+    "question": "Which is the correct number of columns containing values in the table in the image?",
+    "choice": [
+      "15",
+      "10",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 324,
+    "type": "table003",
+    "question": "Which is the correct number of cells with values in the table in the image?",
+    "choice": [
+      "20",
+      "12",
+      "36",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 325,
+    "type": "table003",
+    "question": "Which of the following is the correct name of the rows included in the table?",
+    "choice": [
+      "I have never eaten it",
+      "I love it",
+      "I hate it",
+      "I like it very much"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 326,
+    "type": "table003",
+    "question": "Which of the following is the correct value for the first column, second row in the table?",
+    "choice": [
+      "15",
+      "55",
+      "Fairly like",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 327,
+    "type": "table003",
+    "question": "How many of you like Japanese sweets very much and dislike matcha?",
+    "choice": [
+      "20",
+      "7",
+      "45",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 328,
+    "type": "database001",
+    "question": "What is the total number of rows containing the values of the database table in the image?",
+    "choice": [
+      "2",
+      "11",
+      "7",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 329,
+    "type": "database001",
+    "question": "What is the total number of columns containing values in the table in the image for the database table in the image?",
+    "choice": [
+      "11",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 330,
+    "type": "database001",
+    "question": "What is the total number of cells in the image that contain values from the database table?",
+    "choice": [
+      "30",
+      "10",
+      "40",
+      "20"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 331,
+    "type": "database001",
+    "question": "Which of the following is the correct column name contained in the database in the image?",
+    "choice": [
+      "3",
+      "Unit price",
+      "Quantity",
+      "Product ID"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 332,
+    "type": "database001",
+    "question": "Which of the following is the correct column name contained in the header table in the image?",
+    "choice": [
+      "Order ID",
+      "Total Value",
+      "Quantity",
+      "Delivery Destination"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 333,
+    "type": "database001",
+    "question": "How many tables are included in the image?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "type": "database001",
+    "question": "Which is the value of the second row of the fourth column of the detail table in the image?",
+    "choice": [
+      "2",
+      "100",
+      "330",
+      "ABC restaurant"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 335,
+    "type": "database001",
+    "question": "Which delivery destination in the image has a total value of 1,060 yen?",
+    "choice": [
+      "630",
+      "XX Cafe",
+      "Curry",
+      "ABC Restaurant"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 336,
+    "type": "database001",
+    "question": "Which column name in the database in the image contains \"XX Cafe\"?",
+    "choice": [
+      "ABC Restaurant",
+      "Delivery address",
+      "1",
+      "Store name"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 337,
+    "type": "database001",
+    "question": "Which delivery destination uses products with a unit price of 100 yen in the image?",
+    "choice": [
+      "XX cafe",
+      "ABC restaurant",
+      "Boiled egg",
+      "Curry set"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 338,
+    "type": "database002",
+    "question": "What is the total number of rows in the database table in the image?",
+    "choice": [
+      "6",
+      "15",
+      "13",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 339,
+    "type": "database002",
+    "question": "What is the total number of columns in the database table in the image?",
+    "choice": [
+      "3",
+      "15",
+      "8",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 340,
+    "type": "database002",
+    "question": "What is the total number of cells in the image that contain values from the database table?",
+    "choice": [
+      "77",
+      "15",
+      "42",
+      "57"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 341,
+    "type": "database002",
+    "question": "Which of the following is the correct column name contained in the database table in the image?",
+    "choice": [
+      "published_at",
+      "book_name",
+      "user_name",
+      "published_day"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 342,
+    "type": "database002",
+    "question": "Which of the following is the correct column name contained in the lendings table in the image?",
+    "choice": [
+      "user_name",
+      "title",
+      "returned_at",
+      "lend_at"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 343,
+    "type": "database002",
+    "question": "How many tables are included in the image?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 344,
+    "type": "database002",
+    "question": "Which is the value of the second column third row of the users table in the image?",
+    "choice": [
+      "Thinking method of system design",
+      "hanako@example.com",
+      "Taro Yamada",
+      "Jiro Sato"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 345,
+    "type": "database002",
+    "question": "Which of the following is the correct PRICE with book_id of 2?",
+    "choice": [
+      "2,000",
+      "1,980",
+      "A book to understand the basics of IT",
+      "2022/12/02"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 346,
+    "type": "database002",
+    "question": "Which column name in the database in the image contains \"Gendai Gijutsu Sha\"?",
+    "choice": [
+      "publisher",
+      "company name",
+      "2",
+      "price"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 347,
+    "type": "database002",
+    "question": "Which of the following is the title of the book borrowed by Hanako Suzuki in the image?",
+    "choice": [
+      "6",
+      "AI in the Future",
+      "A Book to Understand the Basics of IT",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 348,
+    "type": "others001",
+    "question": "How many entities are included in the image?",
+    "choice": [
+      "3",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 349,
+    "type": "others001",
+    "question": "How many relationships does the image contain?",
+    "choice": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 350,
+    "type": "others001",
+    "question": "Which of the following is the correct entity name in the image?",
+    "choice": [
+      "title",
+      "product",
+      "books (lending status)",
+      "user"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 351,
+    "type": "others001",
+    "question": "Which of the following is the correct attribute for the \"books\" entity?",
+    "choice": [
+      "isbn (ISBN)",
+      "returned_at (date and time of return)",
+      "name (name)",
+      "lendings (lending status)"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 352,
+    "type": "others001",
+    "question": "Which of the following is NOT appropriate information to be included in the \"books\" entity?",
+    "choice": [
+      "Title",
+      "Email address",
+      "Author",
+      "Price"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 353,
+    "type": "others001",
+    "question": "Which of the following is the correct relationship between user and lending status?",
+    "choice": [
+      "One-to-many relationship",
+      "Many-to-many relationship",
+      "No relationship",
+      "One-to-one relationship"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 354,
+    "type": "others002",
+    "question": "How many entities are included in the image?",
+    "choice": [
+      "4",
+      "7",
+      "5",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 355,
+    "type": "others002",
+    "question": "How many relationships does the image contain?",
+    "choice": [
+      "7",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 356,
+    "type": "others002",
+    "question": "Which of the following is the correct entity name included in the image?",
+    "choice": [
+      "Supplier",
+      "Head office",
+      "Branch code",
+      "Packaging"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 357,
+    "type": "others002",
+    "question": "Which of the following is the correct attribute for the \"Order\" entity?",
+    "choice": [
+      "Branch code",
+      "Order date",
+      "Contact person",
+      "Order ID"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 358,
+    "type": "others002",
+    "question": "Which entity holds the \"customer code\" attribute?",
+    "choice": [
+      "Customer name",
+      "Customer",
+      "Branch",
+      "Product"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 359,
+    "type": "others002",
+    "question": "Which entity has a relationship with both the \"Person in Charge\" entity and the \"Order\" entity?",
+    "choice": [
+      "order details",
+      "packing",
+      "branch",
+      "order ID"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 360,
+    "type": "others003",
+    "question": "How many processes are included in the image?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 361,
+    "type": "others003",
+    "question": "How many data stores are included in the image?",
+    "choice": [
+      "2",
+      "7",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 362,
+    "type": "others003",
+    "question": "Which number of sources and absorptions are included in the image?",
+    "choice": [
+      "4",
+      "7",
+      "2",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 363,
+    "type": "others003",
+    "question": "How many data flows are included in the image?",
+    "choice": [
+      "7",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 364,
+    "type": "others003",
+    "question": "Which of the following is the correct process name included in the image?",
+    "choice": [
+      "customer",
+      "inventory check",
+      "order receipt",
+      "order information"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 365,
+    "type": "others003",
+    "question": "Which of the following is the correct data store name included in the image?",
+    "choice": [
+      "Product",
+      "Shipping Process",
+      "Order Information",
+      "Product Order"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 366,
+    "type": "others003",
+    "question": "Which of the following is the correct external element name included in the image?",
+    "choice": [
+      "product order",
+      "inventory information",
+      "delivery",
+      "distribution warehouse"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 367,
+    "type": "others003",
+    "question": "Which of the following is the correct data flow name included in the image?",
+    "choice": [
+      "Order Receipt",
+      "Order Information",
+      "Returns Handling",
+      "Order Entry"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 368,
+    "type": "others003",
+    "question": "Delivery instructions flow from the \"Shipment Processing\" process to which process?",
+    "choice": [
+      "Product delivery",
+      "Order receipt",
+      "Order information",
+      "Shipping"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 369,
+    "type": "others003",
+    "question": "Which of the following is the correct data flow for the \"Shipment Processing\" process?",
+    "choice": [
+      "Shipping",
+      "Product order",
+      "Order data",
+      "Inventory information"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 370,
+    "type": "others004",
+    "question": "Which of the following is the correct number of rows in the table in the image, excluding the rows for the operator content?",
+    "choice": [
+      "6",
+      "3",
+      "10",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 371,
+    "type": "others004",
+    "question": "Which is the correct number of columns containing values in the table in the image?",
+    "choice": [
+      "2",
+      "6",
+      "10",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 372,
+    "type": "others004",
+    "question": "Which is the correct number of cells in which the value is written?",
+    "choice": [
+      "26",
+      "57",
+      "10",
+      "36"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 373,
+    "type": "others004",
+    "question": "Which of the following is the correct number of post-operational states listed in the table?",
+    "choice": [
+      "3",
+      "23",
+      "36",
+      "13"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 374,
+    "type": "others004",
+    "question": "Which of the following is the correct column name included in the table?",
+    "choice": [
+      "Creating",
+      "Duplicate",
+      "Application",
+      "Denied"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 375,
+    "type": "others004",
+    "question": "Which of the following is the correct value for the post-operation state included in the table?",
+    "choice": [
+      "Applying",
+      "Waiting for deletion",
+      "Waiting for approval",
+      "New"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 376,
+    "type": "others004",
+    "question": "Which of the following operations will result in a status of waiting for approval?",
+    "choice": [
+      "Application",
+      "New",
+      "Creating",
+      "Deleting"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 377,
+    "type": "others004",
+    "question": "If a user edits a file while it is being created, to which state does the file transition?",
+    "choice": [
+      "Creating",
+      "Editing",
+      "Physical deletion",
+      "Pending approval"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 378,
+    "type": "others004",
+    "question": "Which of the following is the correct operation prior to the \"physically deleted\" status?",
+    "choice": [
+      "Creating",
+      "Deleting",
+      "Editing",
+      "Deleted"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 379,
+    "type": "others004",
+    "question": "Which of the following is the correct status prior to the \"physically deleted\" status?",
+    "choice": [
+      "Deleted",
+      "Deleted",
+      "Pending approval",
+      "Creating"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 380,
+    "type": "others005",
+    "question": "Which of the following is the correct time period included in the Gantt chart?",
+    "choice": [
+      "5 months",
+      "4 weeks",
+      "2 days",
+      "1 month"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "type": "others005",
+    "question": "Which of the following is the correct task content included in the image?",
+    "choice": [
+      "Vendor backup plan due",
+      "CM review",
+      "CM creation",
+      "CM filming"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 382,
+    "type": "others005",
+    "question": "Which of the following best describes the frequency with which CM reviews are planned?",
+    "choice": [
+      "Once a week",
+      "Once a month",
+      "Second week of each month",
+      "First week of each month"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 383,
+    "type": "others005",
+    "question": "When is the vendor backup plan due date set?",
+    "choice": [
+      "4th month",
+      "2nd month",
+      "3rd month",
+      "5th month"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 384,
+    "type": "others005",
+    "question": "How many CM process improvement missions are held in a 5 month period?",
+    "choice": [
+      "7 times",
+      "19 times",
+      "2 times",
+      "1 time"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 385,
+    "type": "others006",
+    "question": "Which of the following is the correct time period included in the Gantt chart?",
+    "choice": [
+      "about 2 days",
+      "about 2 months",
+      "about 2 years",
+      "about 2 weeks"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 386,
+    "type": "others006",
+    "question": "How many work items are included in the image?",
+    "choice": [
+      "8",
+      "11",
+      "15",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 387,
+    "type": "others006",
+    "question": "Which of the following is the correct task included in the image?",
+    "choice": [
+      "Acceptance testing",
+      "Design review",
+      "Combined testing",
+      "Unit testing"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 388,
+    "type": "others006",
+    "question": "Which of the following tasks is initiated after the completion of test plan creation?",
+    "choice": [
+      "Test plan validation",
+      "System testing",
+      "Combination testing",
+      "Configuration testing"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 389,
+    "type": "others006",
+    "question": "Which of the following is the end date of the configuration test?",
+    "choice": [
+      "1/23/98",
+      "2/17/98",
+      "2/2/98",
+      "2/1/98"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 390,
+    "type": "others006",
+    "question": "Which of the following tasks has the slowest end date in the project?",
+    "choice": [
+      "documentation of results",
+      "configuration testing",
+      "performance testing",
+      "documentation of results"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 391,
+    "type": "others007",
+    "question": "How many partitions are included in the image?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 392,
+    "type": "others007",
+    "question": "How many processes are included in the image?",
+    "choice": [
+      "7",
+      "9",
+      "8",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 393,
+    "type": "others007",
+    "question": "Which number of judgments are included in the image?",
+    "choice": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 394,
+    "type": "others007",
+    "question": "How many databases are included in the image?",
+    "choice": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 395,
+    "type": "others007",
+    "question": "Which of the following is the correct partition name in the image?",
+    "choice": [
+      "Hotel reservation telephone",
+      "Reservation inquiry system",
+      "Hotel receptionist",
+      "Reservation record"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 396,
+    "type": "others007",
+    "question": "Which of the following is the correct process in the image?",
+    "choice": [
+      "Answering availability information",
+      "Calling for hotel reservations",
+      "Recording reservations",
+      "Searching for available rooms"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 397,
+    "type": "others007",
+    "question": "Which is the starting state?",
+    "choice": [
+      "Booking a hotel online",
+      "Answering availability information",
+      "Operator",
+      "Calling for hotel reservation"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 398,
+    "type": "others007",
+    "question": "Which of the following is the correct process immediately following the availability of a room?",
+    "choice": [
+      "Suggest another accommodation to the customer",
+      "Record the reservation",
+      "Answer the availability information",
+      "Send the reservation information to the system"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 399,
+    "type": "others008",
+    "question": "How many types of services are included in the image?",
+    "choice": [
+      "9",
+      "7",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 400,
+    "type": "others008",
+    "question": "Which of the following is the correct name of the service in the image?",
+    "choice": [
+      "Amazon DataZone",
+      "AWS Supply Chain",
+      "Amazon CloudFront",
+      "AWS IoT Core"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 401,
+    "type": "others008",
+    "question": "Which AWS service is associated with Amazon EC2?",
+    "choice": [
+      "Amazon CloudWatch",
+      "Elastic Load Balancing",
+      "Amazon Route 53",
+      "Amazon S3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 402,
+    "type": "others008",
+    "question": "Which AWS service is the user's first exposure to?",
+    "choice": [
+      "Amazon Route 53",
+      "Amazon S3",
+      "Amazon RDS",
+      "Amazon CloudFront"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 403,
+    "type": "others008",
+    "question": "Which AWS service transitions after Amazon CloudFront?",
+    "choice": [
+      "Amazon CloudFront",
+      "Amazon RDS",
+      "Amazon Route 53",
+      "Amazon S3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 404,
+    "type": "others009",
+    "question": "Which is the correct number of rows containing values in the table in the image?",
+    "choice": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 405,
+    "type": "others009",
+    "question": "Which is the correct number of columns containing values in the table in the image?",
+    "choice": [
+      "10",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 406,
+    "type": "others009",
+    "question": "Which is the correct number of cells in which the value is written?",
+    "choice": [
+      "5",
+      "10",
+      "13",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 407,
+    "type": "others009",
+    "question": "Which of the following is the correct number of U's listed in the table?",
+    "choice": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 408,
+    "type": "others009",
+    "question": "Which of the following is the correct column name included in the table?",
+    "choice": [
+      "payment processing",
+      "PC sent",
+      "PC inventory",
+      "R"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 409,
+    "type": "others009",
+    "question": "Which of the following is the correct row name included in the table?",
+    "choice": [
+      "PC Inventory",
+      "C",
+      "Sales Information",
+      "Inventory Check"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 410,
+    "type": "others009",
+    "question": "Which of the following is the correct data manipulation performed by the Procurement operation on a \"query ticket\"?",
+    "choice": [
+      "Create",
+      "Delete",
+      "Update",
+      "Read"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 411,
+    "type": "sysconf001",
+    "question": "How many component types are included in the image?",
+    "choice": [
+      "5",
+      "8",
+      "1",
+      "15"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 412,
+    "type": "sysconf001",
+    "question": "How many lines indicate the relationship between components in the image?",
+    "choice": [
+      "1",
+      "9",
+      "2",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 413,
+    "type": "sysconf001",
+    "question": "How many servers does this service use?",
+    "choice": [
+      "7",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 414,
+    "type": "sysconf001",
+    "question": "Which of the following is the correct component included in this diagram?",
+    "choice": [
+      "Smartphone",
+      "Firewall",
+      "Customer terminal",
+      "Printer"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 415,
+    "type": "sysconf001",
+    "question": "What will the client use this service with?",
+    "choice": [
+      "Smartphone",
+      "PC",
+      "TV",
+      "Tablet"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 416,
+    "type": "sysconf001",
+    "question": "Which of the following is the correct relationship between an AP server and a DB server?",
+    "choice": [
+      "The AP server communicates directly with the customer terminal without going through the DB server.",
+      "The AP server and DB server operate independently and do not communicate with each other.",
+      "The DB server controls the AP server.",
+      "The AP server communicates with the DB server and exchanges data."
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 417,
+    "type": "sysconf001",
+    "question": "Which of the following is a correct description of the communication between the AMM data management center and the customer terminal?",
+    "choice": [
+      "LAN is used without using the Internet.",
+      "Only the customer terminal is connected to the Internet.",
+      "It communicates with the customer terminal via the Internet.",
+      "Direct connection without using the Internet."
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 418,
+    "type": "sysconf002",
+    "question": "How many component types are included in the image?",
+    "choice": [
+      "11",
+      "9",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 419,
+    "type": "sysconf002",
+    "question": "How many lines indicate the relationship between components in the image?",
+    "choice": [
+      "9",
+      "2",
+      "7",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 420,
+    "type": "sysconf002",
+    "question": "How many servers does this service use?",
+    "choice": [
+      "2",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 421,
+    "type": "sysconf002",
+    "question": "Which of the following is the correct component included in this diagram?",
+    "choice": [
+      "Web server1",
+      "Printer",
+      "Firewall",
+      "Mail server"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 422,
+    "type": "sysconf002",
+    "question": "What will the client use this service with?",
+    "choice": [
+      "Television",
+      "Smartwatch",
+      "Portable game console",
+      "Smartphone"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 423,
+    "type": "sysconf002",
+    "question": "Which of the following is the correct relationship between a web server and a database server?",
+    "choice": [
+      "Only one of the two Web servers communicates with the database server.",
+      "The Web server communicates with the database server and exchanges data.",
+      "The web server and the database server operate independently and are not involved with each other.",
+      "The web server and the database server do not communicate directly, but exchange data via a load balancer."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 424,
+    "type": "sysconf002",
+    "question": "Which of the following is the correct description of the communication between this system and the client?",
+    "choice": [
+      "The system does not use the Internet, but uses a LAN.",
+      "The system communicates with the client via the Internet.",
+      "Only the client's terminal is connected to the Internet; this system is not connected to the Internet.",
+      "The system is not connected to the Internet, but connects directly to the Internet."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 425,
+    "type": "sysconf003",
+    "question": "How many component types are included in the image?",
+    "choice": [
+      "3",
+      "6",
+      "10",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 426,
+    "type": "sysconf003",
+    "question": "How many lines indicate the relationship between components in the image?",
+    "choice": [
+      "15",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 427,
+    "type": "sysconf003",
+    "question": "How many servers does this service use?",
+    "choice": [
+      "4",
+      "2",
+      "7",
+      "10"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 428,
+    "type": "sysconf003",
+    "question": "Which of the following is the correct component included in this diagram?",
+    "choice": [
+      "a printer",
+      "a smartphone",
+      "a firewall",
+      "a router"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 429,
+    "type": "sysconf003",
+    "question": "What will the client use this service with?",
+    "choice": [
+      "PC",
+      "Smartwatch",
+      "Tablet",
+      "Smartphone"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 430,
+    "type": "sysconf003",
+    "question": "From where is log output generated?",
+    "choice": [
+      "Client PC",
+      "AP server",
+      "File server",
+      "Web server"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 431,
+    "type": "screen_flow_diagram001",
+    "question": "How many screens are included in the image?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 432,
+    "type": "screen_flow_diagram001",
+    "question": "How many arrows are included in the image?",
+    "choice": [
+      "2",
+      "1",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 433,
+    "type": "screen_flow_diagram001",
+    "question": "Which of the following is the correct screen name included in this diagram?",
+    "choice": [
+      "Recruitment page",
+      "Inquiry page",
+      "Product introduction page",
+      "My page"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 434,
+    "type": "screen_flow_diagram001",
+    "question": "Which of the following is the screen to which you directly transition from the Notices List page?",
+    "choice": [
+      "Recruiting page",
+      "Inquiry page",
+      "Error page",
+      "Top page"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 435,
+    "type": "screen_flow_diagram002",
+    "question": "How many screens are included in the image?",
+    "choice": [
+      "2",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 436,
+    "type": "screen_flow_diagram002",
+    "question": "How many arrows are included in the image?",
+    "choice": [
+      "6",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 437,
+    "type": "screen_flow_diagram002",
+    "question": "Which of the following is the correct screen name included in this diagram?",
+    "choice": [
+      "Campaign Notification Page",
+      "Service Application",
+      "Login Page",
+      "My Page"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 438,
+    "type": "screen_flow_diagram002",
+    "question": "Which of the following is the correct screen to which you can directly transition from the top page?",
+    "choice": [
+      "News Detail",
+      "News List",
+      "Store Information Page",
+      "Service Application"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 439,
+    "type": "screen_flow_diagram003",
+    "question": "How many screens are included in the image?",
+    "choice": [
+      "4",
+      "11",
+      "15",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 440,
+    "type": "screen_flow_diagram003",
+    "question": "How many arrows are included in the image?",
+    "choice": [
+      "10",
+      "3",
+      "5",
+      "16"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 441,
+    "type": "screen_flow_diagram003",
+    "question": "Which of the following is the correct screen name included in this diagram?",
+    "choice": [
+      "Privilege List screen",
+      "FAQ screen",
+      "My Page screen",
+      "Reservation Guide screen"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 442,
+    "type": "screen_flow_diagram003",
+    "question": "Which of the following is the correct screen to which you can directly transition from the passenger information input screen?",
+    "choice": [
+      "Payment screen",
+      "Login screen",
+      "Reservation confirmation screen",
+      "Support screen"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 443,
+    "type": "screen_flow_diagram003",
+    "question": "Which page should I transition to first to get to the My Page screen from the Home screen?",
+    "choice": [
+      "Seat Selection Screen",
+      "Login Screen",
+      "Train Search Screen",
+      "Support Screen"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 444,
+    "type": "mockup001",
+    "question": "How many buttons are included in this image?",
+    "choice": [
+      "16",
+      "20",
+      "10",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 445,
+    "type": "mockup001",
+    "question": "Where is the \"Sign in\" button displayed on the screen?",
+    "choice": [
+      "Top right",
+      "Bottom right",
+      "Bottom left",
+      "Top left"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 446,
+    "type": "mockup001",
+    "question": "Which of the following is the correct button name included in this image?",
+    "choice": [
+      "Cancel",
+      "Sign up",
+      "Reserve",
+      "Reset Password"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 447,
+    "type": "mockup001",
+    "question": "What is the name of this system?",
+    "choice": [
+      "SKY HOTEL",
+      "HOTEL HORIZON",
+      "HINATA INN",
+      "HOTEL SORA"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 448,
+    "type": "mockup002",
+    "question": "How many buttons are available for selecting the jacket size?",
+    "choice": [
+      "3",
+      "6",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 449,
+    "type": "mockup002",
+    "question": "Where is the \"Add to Cart\" button displayed on the screen?",
+    "choice": [
+      "Bottom right",
+      "Bottom left",
+      "Center",
+      "Top right"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 450,
+    "type": "mockup002",
+    "question": "Which of the following is the correct button name included in this image?",
+    "choice": [
+      "MEN",
+      "In Stock",
+      "Size",
+      "SALE"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 451,
+    "type": "mockup002",
+    "question": "What is the name of this system?",
+    "choice": [
+      "V-PAST",
+      "O-NEXT",
+      "V-NOW",
+      "T-FUTURE"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 452,
+    "type": "mockup003",
+    "question": "How many buttons are included in the TOP Page Screen?",
+    "choice": [
+      "5",
+      "2",
+      "10",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 453,
+    "type": "mockup003",
+    "question": "Where is the \"Send\" button displayed on the CONTACT Page Screen?",
+    "choice": [
+      "Right",
+      "Center",
+      "Bottom",
+      "Top"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 454,
+    "type": "mockup003",
+    "question": "Which of the following is the correct button name included in this image?",
+    "choice": [
+      "Help",
+      "Cancel",
+      "About",
+      "Contact"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 455,
+    "type": "mockup003",
+    "question": "Which screen does the \"Home\" button navigate to?",
+    "choice": [
+      "Home Screen",
+      "CONTACT Page Screen",
+      "TOP Page Screen",
+      "Submission Complete Screen"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 456,
+    "type": "table004",
+    "question": "Which is the correct number of cells with values in the table in the image?",
+    "choice": [
+      "7",
+      "26",
+      "6",
+      "12"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 457,
+    "type": "table004",
+    "question": "Which of the following is the correct number of the operations in the table in the image?",
+    "choice": [
+      "6",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 458,
+    "type": "table004",
+    "question": "Which of the following is the correct column name included in the table?",
+    "choice": [
+      "Steady",
+      "60 cases/hour",
+      "Amount of work",
+      "Type of processing"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 459,
+    "type": "table004",
+    "question": "Which of the following is the correct task included in the table?",
+    "choice": [
+      "Complete boarding procedures",
+      "Log in",
+      "Change password",
+      "Issue receipt"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 460,
+    "type": "table004",
+    "question": "What is the steady workload per hour for the job you are logging in?",
+    "choice": [
+      "20 cases",
+      "10 cases",
+      "40 cases",
+      "120 cases"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 461,
+    "type": "table005",
+    "question": "Which is the correct number of rows containing values in the table in the image?",
+    "choice": [
+      "6",
+      "3",
+      "8",
+      "10"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 462,
+    "type": "table005",
+    "question": "Which is the correct number of columns containing values in the table in the image?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 463,
+    "type": "table005",
+    "question": "Which of the following is the correct column name included in the table?",
+    "choice": [
+      "completion time",
+      "logout",
+      "processing wait time",
+      "response time"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 464,
+    "type": "table005",
+    "question": "Which of the following is the correct response time for booking tickets?",
+    "choice": [
+      "within 3 seconds",
+      "within 9 seconds",
+      "within 6 seconds",
+      "within 10 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 465,
+    "type": "table005",
+    "question": "Which of the following is a correct description of turnaround time?",
+    "choice": [
+      "the time it takes for the system to receive the first response after giving instructions to start processing",
+      "the time it takes for the system to receive the results of the processing after giving instructions to start processing",
+      "the time it takes for the system to shut down after starting up.",
+      "The CPU processing time taken by the system to process a particular request."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 466,
+    "type": "table006",
+    "question": "How many seat class types are available in the table in the image?",
+    "choice": [
+      "2",
+      "7",
+      "10",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 467,
+    "type": "table006",
+    "question": "What is the total number of columns containing values in the table in the image for the database table in the image?",
+    "choice": [
+      "2",
+      "1",
+      "8",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 468,
+    "type": "table006",
+    "question": "Which of the following is the correct column name included in the table?",
+    "choice": [
+      "Percent Change",
+      "Annual Change",
+      "Base Value",
+      "Period Category"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 469,
+    "type": "table006",
+    "question": "How much is the additional charge for regular car class?",
+    "choice": [
+      "1000 yen",
+      "0 yen",
+      "2000 yen",
+      "5000 yen"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 470,
+    "type": "table006",
+    "question": "Which of the following is the correct time for Peak 1?",
+    "choice": [
+      "August 20~August 31",
+      "December 28~February 1",
+      "April 27~May 6",
+      "March 25~April 5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 471,
+    "type": "table006",
+    "question": "I will take the Shinkansen on March 26. If the basic fare for the section is 5,000 yen, which is the correct basic fare when using the Green Car?",
+    "choice": [
+      "8,750 yen",
+      "5,000 yen",
+      "9,000 yen",
+      "8,500 yen"
+    ],
+    "answer": "A"
+  }
+]

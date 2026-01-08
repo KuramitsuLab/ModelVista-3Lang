@@ -1,0 +1,5666 @@
+[
+  {
+    "number": 0,
+    "type": "usecase001",
+    "question": "이 그림에는 몇 개의 사용 사례가 포함되어 있습니까?",
+    "choice": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 1,
+    "type": "usecase001",
+    "question": "이 그림에는 몇 개의 행위자가 포함되어 있습니까?",
+    "choice": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 2,
+    "type": "usecase001",
+    "question": "이 그림에는 몇 개의 연관 관계가 포함되어 있습니까?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 3,
+    "type": "usecase001",
+    "question": "다음 중 이 그림에 포함된 올바른 사용 사례는 무엇입니까?",
+    "choice": [
+      "티켓 구매",
+      "개폐기 열기",
+      "티켓 게이트 시스템 켜기",
+      "티켓 삽입"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 4,
+    "type": "usecase001",
+    "question": "다음 중 이 그림에 포함된 올바른 행위자는 무엇입니까?",
+    "choice": [
+      "직원",
+      "철도 티켓 게이트 시스템",
+      "사용자",
+      "역 직원"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 5,
+    "type": "usecase001",
+    "question": "이 그림에서 시스템의 이름은 무엇입니까?",
+    "choice": [
+      "티켓 구매 시스템",
+      "사용자",
+      "역 감시 시스템",
+      "철도 개찰구 시스템"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 6,
+    "type": "usecase001",
+    "question": "어떤 배우가 “티켓 삽입” 사용 사례를 수행합니까?",
+    "choice": [
+      "사용자",
+      "직원",
+      "역 직원",
+      "철도 관리 시스템"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 7,
+    "type": "usecase001",
+    "question": "“사용자”라는 행위자가 직접 수행하는 행동은 무엇입니까?",
+    "choice": [
+      "게이트 통과",
+      "티켓 구매",
+      "개폐기 열기",
+      "티켓 게이트 시스템 켜기"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 8,
+    "type": "usecase002",
+    "question": "이 그림에는 몇 개의 사용 사례가 포함되어 있습니까?",
+    "choice": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 9,
+    "type": "usecase002",
+    "question": "이 그림에는 몇 개의 행위자가 포함되어 있습니까?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 10,
+    "type": "usecase002",
+    "question": "이 그림에는 몇 개의 연관 관계가 포함되어 있습니까?",
+    "choice": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 11,
+    "type": "usecase002",
+    "question": "이 그림에는 몇 개의 포함 관계가 포함되어 있습니까?",
+    "choice": [
+      "7",
+      "5",
+      "6",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 12,
+    "type": "usecase002",
+    "question": "이 그림에는 몇 개의 확장 관계가 포함되어 있습니까?",
+    "choice": [
+      "0",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 13,
+    "type": "usecase002",
+    "question": "이 그림의 일반화에 관한 다음 진술 중 올바른 것은 무엇입니까?",
+    "choice": [
+      "이미지에는 사용 사례에 대한 일반화가 포함되어 있지만 행위자에 대한 일반화는 포함되어 있지 않음",
+      "이미지에는 행위자 일반화도 사용 사례 일반화도 포함되어 있지 않음",
+      "이미지에는 행위자 일반화와 사용 사례 일반화가 모두 포함되어 있음",
+      "이미지에는 행위자에 대한 일반화가 포함되어 있지만 사용 사례에 대한 일반화는 포함되어 있지 않음"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 14,
+    "type": "usecase002",
+    "question": "다음 중 이 이미지에 포함된 올바른 사용 사례는 무엇입니까?",
+    "choice": [
+      "ATM",
+      "통장 갱신",
+      "송금 요청자",
+      "카드 삽입"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 15,
+    "type": "usecase002",
+    "question": "다음 중 이 이미지에 포함된 올바른 배우는 무엇입니까?",
+    "choice": [
+      "은행 직원",
+      "통장 업데이트",
+      "타 은행",
+      "ATM 관리자"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 16,
+    "type": "usecase002",
+    "question": "이 이미지의 시스템 이름은 무엇입니까?",
+    "choice": [
+      "온라인 뱅킹",
+      "ATM",
+      "계좌 관리 시스템",
+      "PIN 입력"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 17,
+    "type": "usecase002",
+    "question": "어떤 배우가 \"통장 업데이트\" 사용 사례를 수행합니까?",
+    "choice": [
+      "타 은행",
+      "송금 요청자",
+      "예금자",
+      "사용자"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 18,
+    "type": "usecase002",
+    "question": "\"송금 요청자\" 행위자가 직접 수행하는 행동은 무엇입니까?",
+    "choice": [
+      "PIN 입력",
+      "예금자",
+      "계좌 이체 요청(송금)",
+      "통장 업데이트"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 19,
+    "type": "usecase002",
+    "question": "\"출금\"과 \"계좌이체 요청(송금)\" 모두에 포함되는 사용 사례는 무엇입니까?",
+    "choice": [
+      "카드 삽입",
+      "통장 업데이트",
+      "PIN 입력",
+      "현금 인출"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 20,
+    "type": "usecase002",
+    "question": "\"PIN 입력\"을 포함하는 올바른 사용 사례 조합은 무엇입니까?",
+    "choice": [
+      "\"현금 인출\"과 \"계좌 이체 요청(송금)\"",
+      "\"송금 요청자\"와 \"예금자\"",
+      "\"현금 입금\"과 \"계좌 이체 요청(송금)\"",
+      "\"현금 인출\"과 \"통장 업데이트\""
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 21,
+    "type": "usecase002",
+    "question": "이 이미지의 배우들에 관한 다음 진술 중 올바른 것은 무엇인가?",
+    "choice": [
+      "\"타행\"은 \"송금 요청자\"의 특수화",
+      "\"PIN 입력\"은 \"현금 인출\"의 일반화",
+      "\"예금자\"는 \"송금 요청자\"의 일반화",
+      "\"송금 요청자\"는 \"예금자\"의 일반화"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 22,
+    "type": "usecase003",
+    "question": "이 이미지에 몇 개의 사용 사례가 포함되어 있나요?",
+    "choice": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 23,
+    "type": "usecase003",
+    "question": "이 이미지에 포함된 액터는 몇 개인가?",
+    "choice": [
+      "7",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 24,
+    "type": "usecase003",
+    "question": "이 이미지에 포함된 연관 관계는 몇 개인가?",
+    "choice": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 25,
+    "type": "usecase003",
+    "question": "이 이미지에 포함된 포함 관계는 몇 개인가?",
+    "choice": [
+      "1",
+      "0",
+      "5",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 26,
+    "type": "usecase003",
+    "question": "이 이미지에 포함된 확장 관계는 몇 개인가?",
+    "choice": [
+      "8",
+      "5",
+      "1",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 27,
+    "type": "usecase003",
+    "question": "이 이미지의 일반화에 관한 다음 진술 중 올바른 것은 무엇인가?",
+    "choice": [
+      "이미지에는 행위자 일반화가 포함되어 있으나 사용 사례 일반화는 포함되어 있지 않음",
+      "이미지에는 행위자 일반화와 사용 사례 일반화가 모두 포함됨",
+      "이미지에는 행위자 일반화도 사용 사례 일반화도 포함되어 있지 않음",
+      "이미지에는 사용 사례 일반화가 포함되어 있으나 행위자 일반화는 포함되어 있지 않음"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 28,
+    "type": "usecase003",
+    "question": "이 이미지에 포함된 올바른 사용 사례는 다음 중 어느 것인가?",
+    "choice": [
+      "온라인 고객",
+      "주문 배송",
+      "재고 확인",
+      "반품 처리"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 29,
+    "type": "usecase003",
+    "question": "이 이미지에 포함된 올바른 액터는 다음 중 어느 것인가?",
+    "choice": [
+      "개발자",
+      "배달원",
+      "주문 배송",
+      "시스템 관리자"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 30,
+    "type": "usecase003",
+    "question": "이 이미지의 시스템 이름은 무엇인가?",
+    "choice": [
+      "시스템 이름이 지정되지 않음",
+      "온라인 고객",
+      "주문 배송",
+      "온라인 쇼핑 시스템"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 31,
+    "type": "usecase003",
+    "question": "\"청구서 승인\" 사용 사례를 수행하는 담당자는 누구입니까?",
+    "choice": [
+      "배달원",
+      "주문 배송",
+      "창고 직원",
+      "신용 회사"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 32,
+    "type": "usecase003",
+    "question": "배우 \"창고 직원\"이 직접 수행하는 행동은 무엇입니까?",
+    "choice": [
+      "재고 확인",
+      "주문 배송",
+      "제품 재입고",
+      "배달원"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 33,
+    "type": "object001",
+    "question": "이미지에 포함된 객체는 몇 개인가요?",
+    "choice": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 34,
+    "type": "object001",
+    "question": "이미지에 포함된 링크는 몇 개인가요?",
+    "choice": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 35,
+    "type": "object001",
+    "question": "이미지에서 객체명과 클래스명의 올바른 조합은 다음 중 어느 것인가요?",
+    "choice": [
+      "야마다 씨: 직원",
+      ": 개발 부서",
+      "사토 씨: 직원",
+      "도쿄 지점: 부서"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 36,
+    "type": "object001",
+    "question": "\"Mr. Suzuki\" 객체의 클래스 이름은 무엇입니까?",
+    "choice": [
+      "관리자",
+      "부서",
+      "야마다 씨",
+      "직원"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 37,
+    "type": "object001",
+    "question": "\":Department\" 객체의 \"Department name\" 속성 값은 무엇입니까?",
+    "choice": [
+      "\"99-9999-9999\"",
+      "\"와타나베 씨\"",
+      "\"영업부\"",
+      "\"개발부\""
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 38,
+    "type": "object001",
+    "question": "\"Mr. Yamada: Employee\"와 의미적으로 연결된 객체는 무엇입니까?",
+    "choice": [
+      "와타나베 씨: 직원",
+      "연결된 객체 없음",
+      ": 부서",
+      "부서 서명"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 39,
+    "type": "object002",
+    "question": "이미지에 포함된 개체 수는 몇 개인가?",
+    "choice": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 40,
+    "type": "object002",
+    "question": "이미지에 포함된 링크 수는 몇 개인가?",
+    "choice": [
+      "0",
+      "8",
+      "6",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 41,
+    "type": "object002",
+    "question": "다음 중 이미지에 포함된 올바른 개체 이름은 무엇인가?",
+    "choice": [
+      "테스트",
+      "노아:",
+      ": 작업",
+      ": 작업 결과물"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 42,
+    "type": "object002",
+    "question": "\"test\" 객체의 클래스 이름은 무엇입니까?",
+    "choice": [
+      "작업",
+      "요구사항 검증",
+      "작업 산출물",
+      "설명"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 43,
+    "type": "object002",
+    "question": "다음 중 \"테스트 사양\" 객체의 \"이름\" 속성 값은 무엇입니까?",
+    "choice": [
+      "\"테스트 0015\"",
+      "\"사용자가 올바른 사용자명과 비밀번호로 로그인할 수 있는지 테스트합니다.\"",
+      "\"시스템\"",
+      "문자열"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 44,
+    "type": "object003",
+    "question": "이미지에 몇 개의 물체가 포함되어 있나요?",
+    "choice": [
+      "10",
+      "14",
+      "8",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 45,
+    "type": "object003",
+    "question": "이미지에는 몇 개의 링크가 포함되어 있나요?",
+    "choice": [
+      "8",
+      "14",
+      "11",
+      "10"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 46,
+    "type": "object003",
+    "question": "이미지에서 객체 이름과 클래스 이름의 올바른 조합은 다음 중 어느 것인가요?",
+    "choice": [
+      "사용자: 사토",
+      "타나카: 사용자",
+      "이메일 주소: 타나카",
+      "사토: 코멘트"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 47,
+    "type": "object003",
+    "question": "\"Sato\" 객체의 클래스는 무엇입니까?",
+    "choice": [
+      "친구",
+      "사토 준이치",
+      "사용자",
+      "타임라인"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 48,
+    "type": "object003",
+    "question": "\":Comment\" 객체의 \"게시된 콘텐츠\" 속성 값은 무엇입니까?",
+    "choice": [
+      "\"친구 사이에서\"",
+      "\"잘했어요!\"",
+      "\"오늘 날씨 좋네요.\"",
+      ":일기"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 49,
+    "type": "object003",
+    "question": "어떤 객체가 \":friend request\" 객체와 의미적으로 연결되어 있습니까?",
+    "choice": [
+      "신청 날짜",
+      ":일기",
+      "사토의 타임라인: 타임라인",
+      "사토: 사용자"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 50,
+    "type": "class001",
+    "question": "이미지에 몇 개의 클래스가 포함되어 있나요?",
+    "choice": [
+      "3",
+      "1",
+      "9",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 51,
+    "type": "class001",
+    "question": "이미지에 몇 개의 연관성이 포함되어 있나요?",
+    "choice": [
+      "3",
+      "6",
+      "9",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 52,
+    "type": "class001",
+    "question": "이미지에는 몇 개의 일반화가 포함되어 있습니까?",
+    "choice": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 53,
+    "type": "class001",
+    "question": "이미지에 포함된 클래스의 올바른 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "등록금 계산",
+      "주내 학생",
+      "학생 수",
+      "직원 수"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 54,
+    "type": "class001",
+    "question": "이미지에 포함된 올바른 클래스 속성은 다음 중 어느 것입니까?",
+    "choice": [
+      "등록금 계산",
+      "학생 수",
+      "주내 학생",
+      "이름"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 55,
+    "type": "class001",
+    "question": "이미지에 포함된 클래스에 대한 올바른 연산은 다음 중 어느 것입니까?",
+    "choice": [
+      "로그인",
+      "주내 학생",
+      "등록금 계산",
+      "학점"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 56,
+    "type": "class001",
+    "question": "다음 중 슈퍼 클래스는 무엇입니까?",
+    "choice": [
+      "회사",
+      "학생 수",
+      "주내 학생",
+      "학생들"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 57,
+    "type": "class001",
+    "question": "다음 중 하위 클래스는 무엇입니까?",
+    "choice": [
+      "주내 학생",
+      "학점",
+      "직원",
+      "학생들"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 58,
+    "type": "class002",
+    "question": "이미지에 몇 개의 클래스가 포함되어 있나요?",
+    "choice": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 59,
+    "type": "class002",
+    "question": "이미지에 몇 개의 연관성이 포함되어 있나요?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 60,
+    "type": "class002",
+    "question": "이미지에는 몇 개의 일반화가 포함되어 있나요?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 61,
+    "type": "class002",
+    "question": "다음 중 그림에서 올바른 연관된 이름은 무엇입니까?",
+    "choice": [
+      "이름",
+      "직원",
+      "소속",
+      "경비 등록"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 62,
+    "type": "class002",
+    "question": "이미지에 포함된 올바른 클래스 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "비밀번호",
+      "부서 서명",
+      "경비 등록",
+      "직원"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 63,
+    "type": "class002",
+    "question": "다음 중 이미지에 포함된 클래스 속성의 올바른 이름은 무엇입니까?",
+    "choice": [
+      "직원",
+      "경비 등록",
+      "소속",
+      "이름"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 64,
+    "type": "class002",
+    "question": "다음 중 이미지에 포함된 클래스 연산의 올바른 이름은 무엇입니까?",
+    "choice": [
+      "이름",
+      "직원 신청",
+      "소속",
+      "경비 등록"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 65,
+    "type": "class002",
+    "question": "다음 중 이미지의 올바른 가시성은 무엇입니까?",
+    "choice": [
+      "#",
+      "+",
+      "-",
+      "~"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 66,
+    "type": "class002",
+    "question": "다음 중 \"Employee\" 클래스와 연관된 클래스는 무엇입니까?",
+    "choice": [
+      "매니저",
+      "부서",
+      "소속 직원",
+      "회사"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 67,
+    "type": "class002",
+    "question": "다음 중 \"Department\" 클래스에서 \"Employee\" 클래스를 볼 때 올바른 다중성은 무엇인가요?",
+    "choice": [
+      "1... *",
+      "1",
+      "0... *",
+      "소속 직원"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 68,
+    "type": "class002",
+    "question": "이미지에서 직원이 속한 부서 수에 관한 올바른 설명은 다음 중 어느 것인가?",
+    "choice": [
+      "직원은 하나의 부서에 소속됨",
+      "직원은 하나 이상의 부서에 소속됨",
+      " 직원이 속한 부서 수에 대한 명시 없음",
+      "직원이 0개 이상의 부서에 속함"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 69,
+    "type": "class002",
+    "question": "이미지에서 \"부서\" 측면에서 \"직원\"의 올바른 연관된 종단 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "부서",
+      "직원",
+      "부서명",
+      "이름"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 70,
+    "type": "class002",
+    "question": "다음 중 \"Employee\" 클래스의 하위 클래스는 무엇입니까?",
+    "choice": [
+      "부서장",
+      "관리자",
+      "해당 부서 직원",
+      "부서"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 71,
+    "type": "class002",
+    "question": "이미지에 표시된 직원 클래스의 올바른 속성은 다음 중 어느 것인가?",
+    "choice": [
+      "부서",
+      "소속",
+      "비밀번호",
+      "경비 등록"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 72,
+    "type": "class002",
+    "question": "이미지에서 직원 클래스에 대한 \"로그인\" 작업의 가시성에 대한 올바른 설명은 다음 중 어느 것입니까?",
+    "choice": [
+      "직원 및 관리자 클래스만 접근 가능",
+      "직원 클래스만 접근 가능",
+      "직원 클래스만 접근 가능",
+      "모든 클래스에서 접근 가능"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 73,
+    "type": "class002",
+    "question": "이미지에 표시된 직원 ID 중 올바른 유형은 무엇입니까?",
+    "choice": [
+      "1",
+      "정수",
+      "비밀번호",
+      "문자열"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 74,
+    "type": "class003",
+    "question": "이미지에 몇 개의 클래스가 포함되어 있나요?",
+    "choice": [
+      "9",
+      "3",
+      "10",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 75,
+    "type": "class003",
+    "question": "이미지에는 몇 개의 연관성이 포함되어 있나요?",
+    "choice": [
+      "16",
+      "9",
+      "7",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 76,
+    "type": "class003",
+    "question": "이미지에 포함된 집합의 개수는 몇 개인가?",
+    "choice": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 77,
+    "type": "class003",
+    "question": "이미지에 포함된 일반화의 개수는 몇 개인가?",
+    "choice": [
+      "12",
+      "3",
+      "6",
+      "9"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 78,
+    "type": "class003",
+    "question": "다음 중 이미지의 올바른 클래스 이름은 무엇인가?",
+    "choice": [
+      "Person",
+      "Book title number",
+      "Employee",
+      "Lending enforcement"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 79,
+    "type": "class003",
+    "question": "다음 중 이미지에 포함된 클래스의 올바른 속성은 무엇인가?",
+    "choice": [
+      "employee ID",
+      "create",
+      "book",
+      "title"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 80,
+    "type": "class003",
+    "question": "다음 중 이미지에 포함된 올바른 클래스 연산은 무엇인가?",
+    "choice": [
+      "cancel",
+      "means of identification",
+      "book search",
+      "borrowing execution!"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 81,
+    "type": "class003",
+    "question": "이미지에서 \"도서관\" 클래스와 연관된 클래스는 무엇입니까?",
+    "choice": [
+      "librarian",
+      "book user",
+      "book registration number",
+      "book check out"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 82,
+    "type": "class003",
+    "question": "이미지에서 \"등록된 사용자\" 클래스에서 \"대출 예약\" 클래스로의 다중성은 무엇입니까?",
+    "choice": [
+      "1... *",
+      "1",
+      "0... *",
+      "0...1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 83,
+    "type": "class003",
+    "question": "이미지에서 \"person\" 클래스의 하위 클래스는 다음 중 어느 것입니까?",
+    "choice": [
+      "도서 대출",
+      "도서 분류",
+      "이름",
+      "사서"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 84,
+    "type": "class003",
+    "question": "이미지에서 \"등록된 사용자\"는 어떤 클래스에 집계됩니까?",
+    "choice": [
+      "이용자",
+      "이용자 등록 번호",
+      "도서관",
+      "개인"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 85,
+    "type": "class003",
+    "question": "다음 중 그림 속 도서관과 전체-부분 관계를 이루는 것은 무엇인가?",
+    "choice": [
+      "대출 예약",
+      "사서",
+      "도서 대출",
+      "개인"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 86,
+    "type": "class003",
+    "question": "이미지에서 \"대출 가능\" 클래스 속성의 이름은 무엇입니까?",
+    "choice": [
+      "도서 등록 번호",
+      "대출 실행",
+      "대출 날짜",
+      "반납 날짜"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 87,
+    "type": "class003",
+    "question": "이미지에서 \"대출 권한이 있나요?\"는 어떤 가시성입니까?",
+    "choice": [
+      "+",
+      "#",
+      "-",
+      "~"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "type": "sequence001",
+    "question": "이 이미지에 포함된 생명선은 몇 개인가?",
+    "choice": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 89,
+    "type": "sequence001",
+    "question": "이 이미지에 포함된 동기 메시지는 몇 개인가?",
+    "choice": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 90,
+    "type": "sequence001",
+    "question": "이 이미지에 포함된 응답 메시지는 몇 개인가?",
+    "choice": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 91,
+    "type": "sequence001",
+    "question": "이 이미지에 포함된 실행 사양은 몇 개인가?",
+    "choice": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 92,
+    "type": "sequence001",
+    "question": "다음 중 이미지에 포함된 올바른 생명선 이름은 무엇인가?",
+    "choice": [
+      "로그인 화면",
+      "검색",
+      "대출 신청",
+      "서가"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 93,
+    "type": "sequence001",
+    "question": "다음 중 이미지에 포함된 올바른 메시지 이름은 무엇인가?",
+    "choice": [
+      "이용자",
+      "서가",
+      "로그인",
+      "반납 요청"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 94,
+    "type": "sequence001",
+    "question": "대출 요청이 전송될 때 활성화된 생명선은 무엇입니까?",
+    "choice": [
+      "이용자",
+      "검색",
+      "대출 결과",
+      "서가"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 95,
+    "type": "sequence001",
+    "question": "대출 요청은 어떤 객체로 전송됩니까?",
+    "choice": [
+      "서가",
+      "도서",
+      "이용자",
+      "대출 신청이 전송되지 않음"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 96,
+    "type": "sequence001",
+    "question": "사용자가 선반에 보내는 요청은 무엇입니까?",
+    "choice": [
+      "검색 결과",
+      "대출 요청",
+      "대출 결과",
+      "검색"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 97,
+    "type": "sequence002",
+    "question": "이 이미지에는 몇 개의 생명선이 포함되어 있습니까?",
+    "choice": [
+      "14",
+      "9",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 98,
+    "type": "sequence002",
+    "question": "이 이미지에 포함된 동기식 메시지는 몇 개인가?",
+    "choice": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 99,
+    "type": "sequence002",
+    "question": "이 이미지에 포함된 비동기식 메시지는 몇 개인가?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 100,
+    "type": "sequence002",
+    "question": "이 이미지에 포함된 응답 메시지는 몇 개인가?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "7"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 101,
+    "type": "sequence002",
+    "question": "이 이미지에 포함된 실행 사양은 몇 개인가?",
+    "choice": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 102,
+    "type": "sequence002",
+    "question": "이미지에 포함된 올바른 생명선 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "사용자",
+      "예금 계좌 등록",
+      "지점 간 거래 내역",
+      "예금 내역"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 103,
+    "type": "sequence002",
+    "question": "이미지에 포함된 올바른 메시지 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "잔액 조회",
+      "예금",
+      "예금 관리",
+      "계좌 생성"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 104,
+    "type": "sequence002",
+    "question": "예금 요청이 전송될 때 활성화된 생명선은 어느 것인가?",
+    "choice": [
+      "예금 인터페이스",
+      "예금 계좌",
+      "개인 고객 행위자",
+      "개인 고객"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 105,
+    "type": "sequence002",
+    "question": "\"예금\" 요청은 어떤 대상에게 전송됩니까?",
+    "choice": [
+      "예금 관리",
+      "예금 계좌",
+      "개인 고객",
+      "지점 간 거래 내역"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 106,
+    "type": "sequence002",
+    "question": "저축 계좌는 미기록 거래에 어떤 요청을 보냅니까?",
+    "choice": [
+      "지점 간 거래",
+      "예금 요청",
+      "미기록 거래",
+      "예금"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 107,
+    "type": "sequence003",
+    "question": "이 이미지에 포함된 생명선은 몇 개인가?",
+    "choice": [
+      "8",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 108,
+    "type": "sequence003",
+    "question": "이 이미지에 포함된 동기식 메시지는 몇 개인가?",
+    "choice": [
+      "10",
+      "9",
+      "6",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 109,
+    "type": "sequence003",
+    "question": "이 이미지에 포함된 실행 사양은 몇 개인가?",
+    "choice": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 110,
+    "type": "sequence003",
+    "question": "이 이미지에 포함된 소멸 이벤트는 몇 개인가?",
+    "choice": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 111,
+    "type": "sequence003",
+    "question": "이 이미지에 포함된 대안은 몇 개인가?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 112,
+    "type": "sequence003",
+    "question": "다음 중 이미지에 포함된 올바른 생명선 이름은 무엇인가?",
+    "choice": [
+      "로그인",
+      ": 세션 관리",
+      ": 로그인 프로세스",
+      ": 로그아웃 화면"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 113,
+    "type": "sequence003",
+    "question": "다음 중 이미지에 포함된 올바른 메시지 이름은 무엇인가?",
+    "choice": [
+      "회원 ID",
+      "인증 결과 = OK",
+      "로그인 정보 입력",
+      "로그인 프로세스"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 114,
+    "type": "sequence003",
+    "question": "어떤 생명선이 소멸되는가?",
+    "choice": [
+      ": 로그인 화면",
+      ": 로그인 프로세스",
+      "인증 오류 화면으로 전환",
+      "A: 액터"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 115,
+    "type": "sequence003",
+    "question": "\"인증 결과 = 인증(비밀번호)\"이 전송될 때 활성화되는 생명선은 무엇입니까?",
+    "choice": [
+      ": 로그인 화면",
+      ": 회원 목록",
+      ": 로그인 프로세스",
+      "A의 회원 정보: 회원 정보"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 116,
+    "type": "sequence003",
+    "question": "다음 중 이 이미지에 포함된 올바른 결합된 조각은 무엇입니까?",
+    "choice": [
+      "루프",
+      "옵션",
+      "중단",
+      "대안"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 117,
+    "type": "sequence003",
+    "question": ": 로그인 화면은 \": 로그인 프로세스\"에 어떤 요청을 보냅니까?",
+    "choice": [
+      "로그인 정보 입력 (회원 ID, 비밀번호)",
+      "A (회원 ID) 회원 정보 조회",
+      "인증 오류 화면으로 전환 ()",
+      "로그인 (회원 ID, 비밀번호)"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 118,
+    "type": "communication001",
+    "question": "이 이미지에는 몇 개의 생명선이 포함되어 있습니까?",
+    "choice": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 119,
+    "type": "communication001",
+    "question": "이 이미지에 포함된 커넥터 수는 몇 개인가요?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 120,
+    "type": "communication001",
+    "question": "이 이미지에 포함된 메시지 수는 몇 개인가요?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 121,
+    "type": "communication001",
+    "question": "이 이미지에 포함된 동기식 메시지 수는 몇 개인가요?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 122,
+    "type": "communication001",
+    "question": "이 이미지에 포함된 응답 메시지 수는 몇 개인가요?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 123,
+    "type": "communication001",
+    "question": "이 이미지의 마지막 시퀀스 번호는 무엇인가요?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 124,
+    "type": "communication001",
+    "question": "회원 가입 화면' 생명선에서 '사용자' 생명선으로 어떤 메시지가 전송됩니까?",
+    "choice": [
+      "등록 결과 표시",
+      "등록 결과",
+      "등록 정보",
+      "정보 입력"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 125,
+    "type": "communication002",
+    "question": "이 이미지에 포함된 생명선은 몇 개인가요?",
+    "choice": [
+      "9",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 126,
+    "type": "communication002",
+    "question": "이 이미지에 포함된 커넥터는 몇 개인가요?",
+    "choice": [
+      "7",
+      "6",
+      "9",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 127,
+    "type": "communication002",
+    "question": "이 이미지에 포함된 메시지는 몇 개인가요?",
+    "choice": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 128,
+    "type": "communication002",
+    "question": "이 이미지에 포함된 동기식 메시지는 몇 개인가요?",
+    "choice": [
+      "7",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 129,
+    "type": "communication002",
+    "question": "이 이미지에 포함된 비동기식 메시지는 몇 개인가요?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 130,
+    "type": "communication002",
+    "question": "이 이미지에 포함된 답장 메시지는 몇 개입니까?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 131,
+    "type": "communication002",
+    "question": "이 이미지의 마지막 시퀀스 번호는 무엇입니까?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 132,
+    "type": "communication002",
+    "question": "하행선: 열차 식별 장치 생명선에서 \"하행선: 건널목 차단기\" 생명선으로 어떤 메시지가 전송됩니까?",
+    "choice": [
+      "5b",
+      "열차 유형 전송",
+      "경보 활성화",
+      "건널목 차단기 내림"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 133,
+    "type": "communication002",
+    "question": "열차 유형 전송 이후에 전송되는 다음 메시지는 무엇입니까?",
+    "choice": [
+      "폐쇄 시간 전송",
+      "경보 활성화",
+      "열차 식별 장치",
+      "건널목 차단기 내림"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 134,
+    "type": "communication003",
+    "question": "이 이미지에는 몇 개의 생명선이 포함되어 있나요?",
+    "choice": [
+      "18",
+      "13",
+      "7",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 135,
+    "type": "communication003",
+    "question": "이 이미지에는 몇 개의 커넥터가 포함되어 있나요?",
+    "choice": [
+      "10",
+      "16",
+      "8",
+      "20"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 136,
+    "type": "communication003",
+    "question": "이 이미지에는 몇 개의 메시지가 포함되어 있나요?",
+    "choice": [
+      "7",
+      "10",
+      "12",
+      "19"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 137,
+    "type": "communication003",
+    "question": "이 이미지에는 몇 개의 동기식 메시지가 포함되어 있나요?",
+    "choice": [
+      "10",
+      "7",
+      "18",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 138,
+    "type": "communication003",
+    "question": "이 이미지에 포함된 답장 메시지는 몇 개인가요?",
+    "choice": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 139,
+    "type": "communication003",
+    "question": "이 이미지의 마지막 시퀀스 번호는 무엇인가요?",
+    "choice": [
+      "종료",
+      "5.1",
+      "6.2",
+      "4.2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 140,
+    "type": "communication003",
+    "question": ": Driving 생명선에서 \"Left Motor: Motor\" 생명선으로 어떤 메시지가 전송됩니까?",
+    "choice": [
+      "전압 측정",
+      "회전각 측정",
+      "종료",
+      "회전"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 141,
+    "type": "communication003",
+    "question": "Detect 직전에 어떤 메시지가 전송됩니까?",
+    "choice": [
+      "구동",
+      "회전",
+      "전압 측정",
+      "종료"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 142,
+    "type": "statemachine001",
+    "question": "이미지에 포함된 단순 상태는 몇 개인가?",
+    "choice": [
+      "4",
+      "3",
+      "7",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 143,
+    "type": "statemachine001",
+    "question": "이미지에 포함된 외부 전이는 몇 개인가?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 144,
+    "type": "statemachine001",
+    "question": "차가 \"달리기\"를 멈출 때, 차는 어떤 상태로 들어갑니까?",
+    "choice": [
+      "정지",
+      "하차",
+      "초기 상태",
+      "주차"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 145,
+    "type": "statemachine002",
+    "question": "이미지에는 몇 개의 단순한 상태가 포함되어 있습니까?",
+    "choice": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 146,
+    "type": "statemachine002",
+    "question": "이미지에는 몇 개의 외부 상태 전환이 포함되어 있나요?",
+    "choice": [
+      "15",
+      "16",
+      "13",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 147,
+    "type": "statemachine002",
+    "question": "시작 상태 다음에 바로 이어지는 상태는 다음 중 어느 것인가요?",
+    "choice": [
+      "특성 설정 중",
+      "초기화 진행 중",
+      "대기",
+      "연결됨"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 148,
+    "type": "statemachine002",
+    "question": "다음 중 최종 상태 바로 직전에 오는 상태는 무엇인가?",
+    "choice": [
+      "연결 중",
+      "특성 설정",
+      "대기 중",
+      "저장 중"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 149,
+    "type": "statemachine002",
+    "question": "적 캐릭터가 보고 상태에서 영역에 진입할 때, 어떤 상태로 진입하나요?",
+    "choice": [
+      "대기 중",
+      "연결 중",
+      "특성 설정",
+      "경고"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 150,
+    "type": "statemachine003",
+    "question": "이미지에 포함된 단순 상태는 몇 개인가요?",
+    "choice": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 151,
+    "type": "statemachine003",
+    "question": "이미지에는 몇 개의 외부 전이가 포함되어 있나요?",
+    "choice": [
+      "4",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 152,
+    "type": "statemachine003",
+    "question": "다음 중 물을 가열하는 동안 수행되는 진입(ENTRY) 동작은 무엇인가요?",
+    "choice": [
+      "보온",
+      "물 가열등 켜기",
+      "물 끓이기",
+      "보온등 켜기"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 153,
+    "type": "statemachine003",
+    "question": "물을 따뜻하게 유지하는 동안 수행되는 종료(EXIT) 동작은 무엇인가요?",
+    "choice": [
+      "물 가열등 켜기",
+      "보온",
+      "물 가열 중",
+      "보온등"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 154,
+    "type": "statemachine003",
+    "question": "다음 중 물을 끓이는 상태에서 수행되는 수행(DO) 활동은 무엇인가요?",
+    "choice": [
+      "물 끓이기",
+      "물 가열등 켜기",
+      "물 보온",
+      "물 가열 완료"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 155,
+    "type": "statemachine003",
+    "question": "시작 상태 바로 다음에 오는 상태는 무엇인가요?",
+    "choice": [
+      "보온 중",
+      "전원 OFF",
+      "대기 중",
+      "물 끓임 중"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 156,
+    "type": "statemachine003",
+    "question": "물 가열이 완료되면 물 가열 시스템은 어떤 상태로 진입하나요?",
+    "choice": [
+      "물 가열 중",
+      "물 가열등 꺼짐",
+      "물 보온 중",
+      "대기 중"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 157,
+    "type": "statemachine003",
+    "question": "다음 중 물의 온도가 \"가열 중\"에서 \"대기 상태\"로 변경될 때 발생하는 효과는 무엇입니까?",
+    "choice": [
+      "물 끓임 중",
+      "물 가열 완료",
+      "상단 뚜껑 열림",
+      "물 가열 버튼 누름"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 158,
+    "type": "statemachine003",
+    "question": "물을 보온하는 동안 수위가 표준 수위와 다를 때, 기계는 어떤 상태로 전환합니까?",
+    "choice": [
+      "물 가열 중",
+      "보온 중",
+      "대기 중",
+      "물 가열 버튼 누름"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 159,
+    "type": "activity001",
+    "question": "이미지에는 몇 개의 파티션이 포함되어 있습니까?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 160,
+    "type": "activity001",
+    "question": "이미지에는 몇 개의 액션이 포함되어 있나요?",
+    "choice": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 161,
+    "type": "activity001",
+    "question": "이미지에는 몇 개의 제어 흐름이 포함되어 있나요?",
+    "choice": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 162,
+    "type": "activity001",
+    "question": "이미지에서 올바른 파티션 이름은 다음 중 어느 것인가요?",
+    "choice": [
+      "시스템",
+      "회계사",
+      "사용자",
+      "티켓 투입 슬롯"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 163,
+    "type": "activity001",
+    "question": "이미지에서 올바른 액션 이름은 다음 중 어느 것인가요?",
+    "choice": [
+      "입력 내용 확인 표시",
+      "티켓 생성",
+      "구성 항목 저장",
+      "사용자 등록 완료"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 164,
+    "type": "activity001",
+    "question": "시작 노드 바로 다음에 오는 액션은 무엇인가요?",
+    "choice": [
+      "티켓 저장 및 접수 이메일 발송",
+      "문의 유형 메뉴 표시",
+      "PC 사용 등록 정보 입력",
+      "문의 유형으로 \"PC 사용 등록\" 설정"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 165,
+    "type": "activity001",
+    "question": "종료 노드 바로 앞에 오는 액션은 무엇인가요?",
+    "choice": [
+      "요청자 정보 입력 및 티켓 확인",
+      "문의 유형 메뉴 표시",
+      "티켓 저장 및 접수 이메일 발송",
+      "문의 유형으로 \"PC 사용 등록\" 설정"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 166,
+    "type": "activity001",
+    "question": "\"확인\" 작업 다음에 바로 수행되는 작업은 무엇입니까?",
+    "choice": [
+      "문의 유형 메뉴 표시",
+      "티켓 저장 및 접수 이메일 발송",
+      "요청자 정보 입력 및 티켓 확인",
+      "PC 사용 등록 세부 정보 입력"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 167,
+    "type": "activity002",
+    "question": "이미지에 포함된 파티션 수는 몇 개인가?",
+    "choice": [
+      "2",
+      "5",
+      "4",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 168,
+    "type": "activity002",
+    "question": "이미지에 포함된 액션 수는 몇 개인가?",
+    "choice": [
+      "13",
+      "11",
+      "10",
+      "12"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 169,
+    "type": "activity002",
+    "question": "이미지에 포함된 제어 흐름 수는 몇 개인가?",
+    "choice": [
+      "17",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 170,
+    "type": "activity002",
+    "question": "이미지에 포함된 결정 노드는 몇 개인가?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 171,
+    "type": "activity002",
+    "question": "이미지에서 동시에 진행 중인 병렬 프로세스 수는 몇 개인가?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 172,
+    "type": "activity002",
+    "question": "다음 중 이미지의 올바른 파티션 이름은 무엇인가?",
+    "choice": [
+      "새 주문 시작",
+      "제품 관리자",
+      "사용자",
+      "배달원"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 173,
+    "type": "activity002",
+    "question": "다음 중 이미지의 올바른 액션 이름은 무엇인가?",
+    "choice": [
+      "주문 검사",
+      "재고 확인",
+      "주문 포장",
+      "계산서 적재"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 174,
+    "type": "activity002",
+    "question": "시작 노드 바로 다음에 오는 액션은 무엇인가?",
+    "choice": [
+      "새 주문 시작",
+      "결제 완료",
+      "주문에 품목 추가",
+      "청구서 제출"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 175,
+    "type": "activity002",
+    "question": "종료 노드 바로 앞에 오는 액션은 무엇인가?",
+    "choice": [
+      "주문 배송",
+      "주문 픽업",
+      "금액 표시",
+      "결제 완료"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 176,
+    "type": "activity002",
+    "question": "다음 중 이미지에 포함된 분기에 대한 올바른 조건은 무엇인가?",
+    "choice": [
+      "주문 버튼 누르기",
+      "추가할 품목 없음",
+      "요청 거부",
+      "기타"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 177,
+    "type": "activity002",
+    "question": "결제 수락 작업 다음에 바로 수행되는 작업은 무엇입니까?",
+    "choice": [
+      "배송",
+      "청구서 거부",
+      "픽업 요청",
+      "결제 완료"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 178,
+    "type": "activity002",
+    "question": "결제 완료 후 주문 금액이 신용 한도를 초과할 때 사용되는 프로세스는 다음 중 어느 것입니까?",
+    "choice": [
+      "픽업 요청",
+      "주문 검토",
+      "요금 거부",
+      "요금 승인"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 179,
+    "type": "activity003",
+    "question": "이미지에 포함된 활동은 몇 개인가요?",
+    "choice": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 180,
+    "type": "activity003",
+    "question": "이미지에 포함된 작업은 몇 개인가요?",
+    "choice": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 181,
+    "type": "activity003",
+    "question": "이미지에 포함된 제어 흐름은 몇 개인가요?",
+    "choice": [
+      "10",
+      "9",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 182,
+    "type": "activity003",
+    "question": "이미지에 포함된 결정 노드는 몇 개인가요?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 183,
+    "type": "activity003",
+    "question": "이미지에 포함된 병합 노드는 몇 개인가요?",
+    "choice": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 184,
+    "type": "activity003",
+    "question": "이미지에 포함된 객체 노드는 몇 개인가?",
+    "choice": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 185,
+    "type": "activity003",
+    "question": "이미지에서 진행 중인 병렬 프로세스의 수는 몇 개인가?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 186,
+    "type": "activity003",
+    "question": "이미지에서 표시된 활동의 올바른 명칭은 다음 중 어느 것인가?",
+    "choice": [
+      "100엔 동전 교환기",
+      "500엔 동전 교환기",
+      "지폐",
+      "ATM"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 187,
+    "type": "activity003",
+    "question": "이미지에서 표시된 액션의 올바른 명칭은 다음 중 어느 것인가?",
+    "choice": [
+      "동전",
+      "100엔 동전 교환기",
+      "1,000엔 지폐 또는 500엔 동전",
+      "입력한 돈을 반환함"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 188,
+    "type": "activity003",
+    "question": "이미지에서 올바른 객체 노드는 다음 중 어느 것인가?",
+    "choice": [
+      "신용카드",
+      "100엔 동전 교환기",
+      "지폐",
+      "100엔 동전"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 189,
+    "type": "activity003",
+    "question": "시작 노드에 바로 이어지는 액션은 무엇인가?",
+    "choice": [
+      "지폐",
+      "100엔 동전 지급",
+      "입력된 화폐 종류 판별",
+      "1,000엔 지폐 지급"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 190,
+    "type": "activity003",
+    "question": "이미지에 포함된 분기 조건 중 올바른 것은 다음 중 어느 것인가?",
+    "choice": [
+      "잔돈 부족",
+      "100엔 동전 출력",
+      "1,000엔 지폐 또는 500엔 동전",
+      "입력된 화폐 종류 판별"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 191,
+    "type": "activity003",
+    "question": "\"보증금 반환\" 조치보다 먼저 수행되는 조치는 무엇입니까?",
+    "choice": [
+      "입력된 화폐 종류 식별",
+      "지폐",
+      "100엔 동전 출력",
+      "영수증 보관 및 수령 확인 이메일 발송"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 192,
+    "type": "activity003",
+    "question": "결정 노드에서 100엔 동전을 꺼내는 동작에 대한 가드는 무엇입니까?",
+    "choice": [
+      "동전이 부족할 경우",
+      "입력된 화폐 종류 확인",
+      "else",
+      "1,000엔 지폐 또는 500엔 동전"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 193,
+    "type": "package001",
+    "question": "이 이미지에는 몇 개의 패키지가 포함되어 있습니까?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 194,
+    "type": "package001",
+    "question": "이 이미지에는 몇 개의 종속성이 포함되어 있나요?",
+    "choice": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 195,
+    "type": "package001",
+    "question": "다음 중 이 이미지에 포함된 올바른 패키지 이름은 무엇입니까?",
+    "choice": [
+      "데이터",
+      "컨트롤러",
+      "애플리케이션",
+      "UI"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 196,
+    "type": "package001",
+    "question": "\"서비스\" 패키지는 어떤 패키지에 의존하나요?",
+    "choice": [
+      "도메인",
+      "애플리케이션",
+      "데이터",
+      "UI"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 197,
+    "type": "package002",
+    "question": "이 이미지에는 몇 개의 패키지가 포함되어 있나요?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 198,
+    "type": "package002",
+    "question": "이 이미지에는 몇 개의 종속성이 포함되어 있나요?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 199,
+    "type": "package002",
+    "question": "다음 중 이 이미지에 포함된 올바른 패키지 이름은 무엇입니까?",
+    "choice": [
+      "서비스",
+      "엔티티",
+      "컨트롤러",
+      "리포지토리"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 200,
+    "type": "package002",
+    "question": "어떤 패키지가 \"db access\" 패키지에 의존하나요?",
+    "choice": [
+      "컨트롤",
+      "서비스",
+      "엔티티",
+      "UI"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 201,
+    "type": "package003",
+    "question": "이 이미지에는 몇 개의 패키지가 포함되어 있나요?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 202,
+    "type": "package003",
+    "question": "이 이미지에는 몇 개의 종속성이 포함되어 있나요?",
+    "choice": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 203,
+    "type": "package003",
+    "question": "다음 중 이 이미지에 포함된 올바른 패키지 이름은 무엇입니까?",
+    "choice": [
+      "control",
+      "OrderFrame",
+      "bean",
+      "repository"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 204,
+    "type": "package003",
+    "question": "다음 중 \"service\" 패키지의 올바른 내부 요소는 무엇입니까?",
+    "choice": [
+      "OrderFrame",
+      "ui",
+      "OrderControl",
+      "OrderBean"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 205,
+    "type": "package003",
+    "question": "service 패키지는 어떤 패키지에 의존합니까?",
+    "choice": [
+      "ui",
+      "control",
+      "bean",
+      "OrderBean"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 206,
+    "type": "component001",
+    "question": "이미지에 포함된 구성 요소는 몇 개인가요?",
+    "choice": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 207,
+    "type": "component001",
+    "question": "이미지에 포함된 위임 커넥터는 몇 개인가요?",
+    "choice": [
+      "0",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 208,
+    "type": "component001",
+    "question": "이미지에 포함된 제공 인터페이스 수는 몇 개인가요?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 209,
+    "type": "component001",
+    "question": "이미지에 포함된 요청 인터페이스는 몇 개인가요?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 210,
+    "type": "component001",
+    "question": "이미지에 포함된 어셈블리 커넥터는 몇 개인가요?",
+    "choice": [
+      "3",
+      "2",
+      "0",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 211,
+    "type": "component001",
+    "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 무엇인가요?",
+    "choice": [
+      "사용자 관리 시스템",
+      "급여 관리",
+      "급여 서비스",
+      "서버"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 212,
+    "type": "component001",
+    "question": "다음 중 급여 관리 구성 요소가 연결된 구성 요소의 올바른 이름은 무엇입니까?",
+    "choice": [
+      "직원",
+      "급여 서비스",
+      "급여 관리",
+      "네트워크"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 213,
+    "type": "component002",
+    "question": "이미지에 포함된 구성 요소는 몇 개인가요?",
+    "choice": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 214,
+    "type": "component002",
+    "question": "이미지에 포함된 인터페이스 수는 몇 개인가?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "0"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 215,
+    "type": "component002",
+    "question": "이미지에 포함된 요청 인터페이스 수는 몇 개인가?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 216,
+    "type": "component002",
+    "question": "이미지에 포함된 포트 수는 몇 개인가?",
+    "choice": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 217,
+    "type": "component002",
+    "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 무엇인가?",
+    "choice": [
+      "네트워크 구성 요소",
+      "처리 결과",
+      "DB 접근 구성 요소",
+      "데이터 처리"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 218,
+    "type": "component002",
+    "question": "이 다이어그램에 포함된 올바른 인터페이스 이름은 무엇인가?",
+    "choice": [
+      "데이터 처리",
+      "수신",
+      "DB 접근 구성 요소",
+      "연결 요청"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 219,
+    "type": "component002",
+    "question": "DB 액세스 구성 요소가 제공하는 인터페이스는 무엇인가?",
+    "choice": [
+      "연결 요청",
+      "데이터 처리",
+      "처리 결과",
+      "처리 요청"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 220,
+    "type": "component003",
+    "question": "이미지에 포함된 구성 요소 수는 몇 개인가?",
+    "choice": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 221,
+    "type": "component003",
+    "question": "이미지에 포함된 제공된 인터페이스 수는 몇 개인가?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 222,
+    "type": "component003",
+    "question": "이미지에 포함된 요청 인터페이스 수는 몇 개인가?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 223,
+    "type": "component003",
+    "question": "이미지에 포함된 어셈블리 커넥터 수는 몇 개인가?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 224,
+    "type": "component003",
+    "question": "이미지에 몇 개의 포트가 포함되어 있나요?",
+    "choice": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 225,
+    "type": "component003",
+    "question": "이미지에 포함된 위임 커넥터의 수는 몇 개인가?",
+    "choice": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 226,
+    "type": "component003",
+    "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "경비 등록 서비스",
+      "급여 서비스",
+      "직원",
+      "경비 데이터베이스"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 227,
+    "type": "component003",
+    "question": "이 다이어그램에 포함된 올바른 인터페이스 이름은 무엇인가?",
+    "choice": [
+      "경비 총괄",
+      "경비 데이터베이스",
+      "출근 지침",
+      "경비"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 228,
+    "type": "component003",
+    "question": "이 다이어그램에 포함된 올바른 하위 시스템 이름은 무엇인가?",
+    "choice": [
+      "경비 데이터베이스",
+      "총괄 경비",
+      "직원",
+      "경비"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 229,
+    "type": "component003",
+    "question": "어떤 어셈블리 커넥터가 \"비용\" 구성 요소에 연결되어 있습니까?",
+    "choice": [
+      "경비 등록 서비스",
+      "출근 지침",
+      "경비 계정 관리",
+      "입금 지침"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 230,
+    "type": "deployment001",
+    "question": "다음 중 통신 경로의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 231,
+    "type": "deployment001",
+    "question": "어떤 것이 올바른 노드 수입니까?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 232,
+    "type": "deployment001",
+    "question": "어떤 것이 올바른 구성 요소 수입니까?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 233,
+    "type": "deployment001",
+    "question": "이 다이어그램에 포함된 올바른 노드 이름은 무엇입니까?",
+    "choice": [
+      "클라우드 스토리지",
+      "중앙 서버",
+      "데이터베이스",
+      "로컬 서버"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 234,
+    "type": "deployment001",
+    "question": "어떤 노드가 통신 경로로 프린터 노드에 연결되어 있습니까?",
+    "choice": [
+      "사용자 인터페이스",
+      "데이터베이스",
+      "데스크톱 클라이언트",
+      "중앙 서버"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 235,
+    "type": "deployment001",
+    "question": "\"데이터베이스\" 컴포넌트가 위치한 노드는 어디입니까?",
+    "choice": [
+      "프린터",
+      "사용자 인터페이스",
+      "중앙 서버",
+      "데이터 센터"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 236,
+    "type": "deployment002",
+    "question": "다음 중 올바른 통신 경로 수는 무엇입니까?",
+    "choice": [
+      "3",
+      "0",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 237,
+    "type": "deployment002",
+    "question": "다음 중 올바른 노드 수는 무엇입니까?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 238,
+    "type": "deployment002",
+    "question": "다음 중 올바른 산출물 수는 무엇입니까?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 239,
+    "type": "deployment002",
+    "question": "다음 중 이 다이어그램에 포함된 올바른 노드 이름은 무엇입니까?",
+    "choice": [
+      "클라이언트 소프트웨어",
+      "서버 머신",
+      "POP",
+      "게이트웨이"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 240,
+    "type": "deployment002",
+    "question": "다음 중 이 다이어그램에 포함된 올바른 아티팩트는 무엇입니까?",
+    "choice": [
+      "장치",
+      "JRE",
+      "Mailer.exe",
+      "서버 머신"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 241,
+    "type": "deployment002",
+    "question": "서버 머신에서 본 클라이언트 머신의 다중도는 무엇입니까?",
+    "choice": [
+      "*",
+      "1... *",
+      "1",
+      "0..1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 242,
+    "type": "deployment002",
+    "question": "다음 중 통신 경로로 서버 머신에 연결된 것은 무엇입니까?",
+    "choice": [
+      "클라이언트 머신",
+      "JRE",
+      "Mailer.exe",
+      "Linux"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 243,
+    "type": "deployment002",
+    "question": "서버 머신의 올바른 실행 환경은 다음 중 어느 것인가?",
+    "choice": [
+      "클라이언트 머신",
+      "JRE",
+      "Mailer.exe",
+      "Linux"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 244,
+    "type": "deployment002",
+    "question": "올바른 JRE 아티팩트는 다음 중 어느 것인가?",
+    "choice": [
+      "클라이언트 머신",
+      "MailChecker.jar",
+      "Mailer.exe",
+      "sendmail"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 245,
+    "type": "deployment003",
+    "question": "의존성의 올바른 개수는 다음 중 어느 것인가?",
+    "choice": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 246,
+    "type": "deployment003",
+    "question": "노드의 올바른 개수는 다음 중 어느 것인가?",
+    "choice": [
+      "4",
+      "7",
+      "10",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 247,
+    "type": "deployment003",
+    "question": "전달물의 올바른 개수는 다음 중 어느 것인가?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 248,
+    "type": "deployment003",
+    "question": "어떤 것이 올바른 구성 요소 수입니까?",
+    "choice": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 249,
+    "type": "deployment003",
+    "question": "이 다이어그램에 포함된 올바른 노드 이름은 무엇입니까?",
+    "choice": [
+      "향상된 AVR 펌웨어",
+      "실행 프로그램",
+      "메커니즘",
+      "서브프로세서 Atmel AVR"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 250,
+    "type": "deployment003",
+    "question": "이 다이어그램에 포함된 올바른 구성 요소 이름은 무엇입니까?",
+    "choice": [
+      "센서 및 모터 제어 프로그램",
+      "NXT 하드웨어",
+      "실행 프로그램",
+      "UI"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 251,
+    "type": "deployment003",
+    "question": "이 다이어그램에 포함된 올바른 아티팩트 이름은 무엇입니까?",
+    "choice": [
+      "향상된 NXT 펌웨어",
+      "메인 프로세서 Atmel ARM7",
+      "센서 및 모터 제어 프로그램",
+      "메커니즘"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 252,
+    "type": "deployment003",
+    "question": "메인 프로세서 Atmel ARM7의 실행 환경은 무엇입니까?",
+    "choice": [
+      "장치 드라이버",
+      "NXT 하드웨어",
+      "향상된 NXT 펌웨어",
+      "서브프로세서 Atmel AVR"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 253,
+    "type": "deployment003",
+    "question": "다음 중 센서 모터 제어 프로그램의 종속성은 무엇입니까?",
+    "choice": [
+      "구동 프로그램",
+      "향상된 NXT 펌웨어",
+      "서브프로세서 Atmel AVR",
+      "NXT 하드웨어"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 254,
+    "type": "composite_structure001",
+    "question": "구조화된 분류기의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 255,
+    "type": "composite_structure001",
+    "question": "부품의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 256,
+    "type": "composite_structure001",
+    "question": "제공되는 인터페이스의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 257,
+    "type": "composite_structure001",
+    "question": "필요한 인터페이스의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 258,
+    "type": "composite_structure001",
+    "question": "다음 중 메모리에 연결된 것은 무엇입니까?",
+    "choice": [
+      "CPU",
+      "모니터",
+      "PC",
+      "메인보드"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 259,
+    "type": "composite_structure001",
+    "question": "이미지에 포함된 올바른 제공 인터페이스는 다음 중 무엇입니까?",
+    "choice": [
+      "변속기",
+      "CPU",
+      "모니터",
+      "키보드"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 260,
+    "type": "composite_structure001",
+    "question": "이미지에 포함된 올바른 요청 인터페이스는 다음 중 무엇입니까?",
+    "choice": [
+      "모니터",
+      "키보드",
+      "CPU",
+      "수신"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 261,
+    "type": "composite_structure002",
+    "question": "구조화된 분류기의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 262,
+    "type": "composite_structure002",
+    "question": "부품의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 263,
+    "type": "composite_structure002",
+    "question": "속성의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "0",
+      "6",
+      "1",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 264,
+    "type": "composite_structure002",
+    "question": "필요한 인터페이스의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 265,
+    "type": "composite_structure002",
+    "question": "제공되는 인터페이스의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 266,
+    "type": "composite_structure002",
+    "question": "다음 중 터치 패널에 연결된 것은 무엇입니까?",
+    "choice": [
+      "ATM",
+      "카드 리더기",
+      "모뎀",
+      "보안 센서"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 267,
+    "type": "composite_structure002",
+    "question": "다음 중 이미지에 포함된 올바른 제공 인터페이스는 무엇입니까?",
+    "choice": [
+      "외부 통신 수신",
+      "수신",
+      "ATM",
+      "전송"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 268,
+    "type": "composite_structure002",
+    "question": "다음 중 이미지에 포함된 올바른 요청 인터페이스는 무엇입니까?",
+    "choice": [
+      "외부 통신 수신",
+      "전송",
+      "ATM",
+      "수신"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 269,
+    "type": "composite_structure003",
+    "question": "어느 것이 협업의 올바른 개수인가?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "0"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 270,
+    "type": "composite_structure003",
+    "question": "다음 중 협업 사용의 올바른 개수는 어느 것인가?",
+    "choice": [
+      "5",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 271,
+    "type": "composite_structure003",
+    "question": "다음 중 협업 역할의 올바른 개수는 어느 것인가?",
+    "choice": [
+      "2",
+      "3",
+      "5",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 272,
+    "type": "composite_structure003",
+    "question": "단원 1: 다음 중 ATM 요청 시스템은 무엇입니까?",
+    "choice": [
+      "현금 관리 시스템",
+      "하나마루 은행 예금 시스템",
+      "이체 서비스 시스템",
+      "인출 서비스 시스템"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 273,
+    "type": "timing001",
+    "question": "이미지에 표시된 생명선의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "7",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 274,
+    "type": "timing001",
+    "question": "이미지에 표시된 상태의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "6",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 275,
+    "type": "timing001",
+    "question": "이미지에 표시된 메시지의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "1",
+      "6",
+      "3",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 276,
+    "type": "timing001",
+    "question": "이미지에 포함된 올바른 생명선 이름은 무엇입니까?",
+    "choice": [
+      "사용 중",
+      "ATM",
+      "인증 완료",
+      "로그인 화면"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 277,
+    "type": "timing001",
+    "question": "이미지에 포함된 올바른 이벤트 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "거래 시작",
+      "대기 중",
+      "오류 발생",
+      "ATM"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 278,
+    "type": "timing001",
+    "question": "이미지에서 사용 중인 상태 다음에 오는 상태는 무엇입니까?",
+    "choice": [
+      "거래 완료",
+      "대기 중",
+      "인증 진행 중",
+      "사용 완료"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 279,
+    "type": "timing001",
+    "question": "이미지에서 상태가 대기에서 인증 중으로 전환될 때 발생하는 이벤트는 무엇입니까?",
+    "choice": [
+      "인증 시작",
+      "인증 완료",
+      "인증 진행 중",
+      "거래 시작"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 280,
+    "type": "timing002",
+    "question": "이미지에 포함된 생명선의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 281,
+    "type": "timing002",
+    "question": "이미지에 포함된 상태의 올바른 총 개수는 무엇입니까?",
+    "choice": [
+      "5",
+      "7",
+      "1",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 282,
+    "type": "timing002",
+    "question": "이미지에 포함된 메시지의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "6",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 283,
+    "type": "timing002",
+    "question": "이미지에 포함된 올바른 생명선 이름은 무엇입니까?",
+    "choice": [
+      "로그인 화면",
+      "인증 완료",
+      "작동 중",
+      "ATM"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 284,
+    "type": "timing002",
+    "question": "이미지에 포함된 올바른 이벤트 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "오류 발생",
+      "ATM",
+      "카드 삽입",
+      "인증 완료"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 285,
+    "type": "timing002",
+    "question": "이미지에서 사용 중인 상태 다음에 오는 상태는 다음 중 어느 것인가?",
+    "choice": [
+      "대기 중",
+      "작동 중",
+      "인증 중",
+      "사용 준비 완료"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 286,
+    "type": "timing002",
+    "question": "이미지에서 상태가 대기(waiting)에서 인증(authenticating)으로 전환될 때 발생하는 이벤트는 무엇인가?",
+    "choice": [
+      "거래 시작",
+      "인증 시작",
+      "인증 진행 중",
+      "카드 삽입됨"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 287,
+    "type": "timing002",
+    "question": "거래가 시작된 후 사용자가 ATM에 전송하는 메시지는 이미지에서 다음 중 어느 것인가?",
+    "choice": [
+      "거래 시작됨",
+      "인증 완료됨",
+      "카드 삽입",
+      "PIN 입력"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 288,
+    "type": "timing003",
+    "question": "이미지에 포함된 라이프라인의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "5",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 289,
+    "type": "timing003",
+    "question": "이미지에 포함된 상태의 올바른 총 개수는 무엇입니까?",
+    "choice": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 290,
+    "type": "timing003",
+    "question": "이미지에 포함된 메시지의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "1",
+      "2",
+      "0",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 291,
+    "type": "timing003",
+    "question": "이미지에 포함된 올바른 라이프라인 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "인증 진행 중",
+      "로그인 화면",
+      "일정 시간 동안 무작위 작업 없음",
+      "ATM"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 292,
+    "type": "timing003",
+    "question": "이미지에 포함된 올바른 상태 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "일정 시간 동안 무작위 작업 없음",
+      "작동 중",
+      "ATM",
+      "사용 중"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 293,
+    "type": "timing003",
+    "question": "인증 중 이미지에서 다음으로 진행되는 상태는 다음 중 어느 것입니까?",
+    "choice": [
+      "대기 상태 전환 중",
+      "인증 완료",
+      "사용자 작업 수행",
+      "사용 중"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 294,
+    "type": "timing003",
+    "question": "이미지에서 \"일정 시간 동안 아무 작업도 수행하지 않음\"의 기간은 얼마나 됩니까?",
+    "choice": [
+      "3분",
+      "60초",
+      "2초",
+      "10초"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 295,
+    "type": "interaction_overview001",
+    "question": "이미지에 포함된 활동은 몇 개인가?",
+    "choice": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 296,
+    "type": "interaction_overview001",
+    "question": "이미지에 포함된 제어 흐름은 몇 개인가?",
+    "choice": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 297,
+    "type": "interaction_overview001",
+    "question": "이미지에서 시작 노드의 다음 동작은 무엇인가?",
+    "choice": [
+      "도서 관리 시스템 프로세스 선택",
+      "도서 대출",
+      "도서 반납",
+      "도서관 정보 조회"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 298,
+    "type": "interaction_overview002",
+    "question": "이미지에 포함된 활동은 몇 개인가?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 299,
+    "type": "interaction_overview002",
+    "question": "이미지에 포함된 제어 흐름은 몇 개인가?",
+    "choice": [
+      "9",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 300,
+    "type": "interaction_overview002",
+    "question": "이 이미지의 다이어그램은 활동 다이어그램과 어떤 다이어그램의 조합인가?",
+    "choice": [
+      "시퀀스 다이어그램",
+      "상태 기계 다이어그램",
+      "클래스 다이어그램",
+      "통신 다이어그램"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 301,
+    "type": "interaction_overview002",
+    "question": "다음 중 이미지의 시작 노드인 동작은 무엇인가?",
+    "choice": [
+      "회원 로그인",
+      "회원 가입",
+      "장바구니에 상품 추가",
+      "장바구니 상품 열람"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 302,
+    "type": "interaction_overview002",
+    "question": "이미지 내 \"주문하기\" 작업에서, 다음 중 \"주문 등록\" 메시지가 전송되는 올바른 생명선은 무엇입니까?",
+    "choice": [
+      "주문 화면",
+      "회원",
+      "사용자",
+      "주문 관리"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 303,
+    "type": "interaction_overview003",
+    "question": "이미지에 포함된 활동은 몇 개인가요?",
+    "choice": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 304,
+    "type": "interaction_overview003",
+    "question": "이미지에 포함된 제어 흐름은 몇 개인가요?",
+    "choice": [
+      "8",
+      "3",
+      "9",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 305,
+    "type": "interaction_overview003",
+    "question": "이 이미지의 다이어그램은 활동 다이어그램과 어떤 다이어그램의 조합인가요?",
+    "choice": [
+      "시퀀스 다이어그램",
+      "클래스 다이어그램",
+      "커뮤니케이션 다이어그램",
+      "상태 기계 다이어그램"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 306,
+    "type": "interaction_overview003",
+    "question": "이미 로그인한 상태라면, 다음 중 어떤 조치를 취해야 하나요?",
+    "choice": [
+      "로그인 프로세스",
+      "도서관 관리 시스템에서의 대출 프로세스",
+      "고객 지원 시스템에 문의하기",
+      "문제 발생 알림"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 307,
+    "type": "interaction_overview003",
+    "question": "고객 지원 시스템에 대한 문의 작업 내에서 마지막으로 전송된 메시지는 무엇인가요?",
+    "choice": [
+      "문제 해결 알림",
+      "문제 발생 알림",
+      "문제 처리 완료 메시지",
+      "문제 상세 정보 전송"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 308,
+    "type": "table001",
+    "question": "이미지의 테이블에서 값을 포함하는 행의 올바른 개수는 몇 개인가요?",
+    "choice": [
+      "6",
+      "12",
+      "4",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 309,
+    "type": "table001",
+    "question": "이미지 내 테이블에서 값을 포함하는 열의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "6",
+      "3",
+      "10",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 310,
+    "type": "table001",
+    "question": "다음 중 값 ◯을 포함하는 테이블 셀의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 311,
+    "type": "table001",
+    "question": "다음 중 값 △을 포함하는 테이블 셀의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "3",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 312,
+    "type": "table001",
+    "question": "다음 중 값 x을 포함하는 테이블 셀의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 313,
+    "type": "table001",
+    "question": "다음 중 테이블에 포함된 올바른 열 이름은 무엇입니까?",
+    "choice": [
+      "ID",
+      "패키지(스크래치)",
+      "스크래치",
+      "적용성"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 314,
+    "type": "table001",
+    "question": "다음 중 테이블에 포함된 올바른 행 이름은 무엇입니까?",
+    "choice": [
+      "적용 범위",
+      "구현 속도",
+      "패키지(비맞춤형)",
+      "구현 기간"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 315,
+    "type": "table002",
+    "question": "이미지 속 테이블에서 값이 포함된 행의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "15",
+      "5",
+      "8",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 316,
+    "type": "table002",
+    "question": "이미지 속 테이블에서 값이 포함된 열의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "10",
+      "3",
+      "15",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 317,
+    "type": "table002",
+    "question": "가격이 기재된 셀의 올바른 개수는 다음 중 어느 것입니까?",
+    "choice": [
+      "19",
+      "13",
+      "1",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 318,
+    "type": "table002",
+    "question": "테이블에 나열된 상품의 올바른 개수는 다음 중 어느 것입니까?",
+    "choice": [
+      "1",
+      "3",
+      "5",
+      "8"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 319,
+    "type": "table002",
+    "question": "테이블에 포함된 올바른 열 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "사과",
+      "할인",
+      "개수",
+      "포인트"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 320,
+    "type": "table002",
+    "question": "테이블에 포함된 올바른 행 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "감자",
+      "오렌지",
+      "무",
+      "소계"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 321,
+    "type": "table002",
+    "question": "바나나의 단가(세금 제외)는 얼마입니까?",
+    "choice": [
+      "720엔",
+      "120엔",
+      "6",
+      "100엔"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 322,
+    "type": "table003",
+    "question": "이미지 속 테이블에서 값을 포함하는 행의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "10",
+      "3",
+      "6",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 323,
+    "type": "table003",
+    "question": "이미지 속 테이블에서 값을 포함하는 열의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "15",
+      "10",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 324,
+    "type": "table003",
+    "question": "이미지 속 테이블에서 값을 포함하는 셀의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "20",
+      "12",
+      "36",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 325,
+    "type": "table003",
+    "question": "다음 중 테이블에 포함된 행의 올바른 이름은 무엇입니까?",
+    "choice": [
+      "한 번도 먹어본 적 없음",
+      "매우 좋아함",
+      "매우 싫어함",
+      "매우 좋아함"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 326,
+    "type": "table003",
+    "question": "다음 중 테이블의 첫 번째 열, 두 번째 행에 해당하는 올바른 값은 무엇입니까?",
+    "choice": [
+      "15",
+      "55",
+      "다소 좋아함",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 327,
+    "type": "table003",
+    "question": "일본 과자를 매우 좋아하고 말차를 싫어하는 사람은 몇 명입니까?",
+    "choice": [
+      "20",
+      "7",
+      "45",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 328,
+    "type": "database001",
+    "question": "이미지 데이터베이스 테이블의 값을 포함하는 행의 총 개수는 무엇입니까?",
+    "choice": [
+      "2",
+      "11",
+      "7",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 329,
+    "type": "database001",
+    "question": "이미지 데이터베이스 테이블의 값을 포함하는 열의 총 개수는 무엇입니까?",
+    "choice": [
+      "11",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 330,
+    "type": "database001",
+    "question": "이미지 내 데이터베이스 테이블의 값을 포함하는 셀의 총 개수는 몇 개인가요?",
+    "choice": [
+      "30",
+      "10",
+      "40",
+      "20"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 331,
+    "type": "database001",
+    "question": "이미지 내 데이터베이스에 포함된 올바른 열 이름은 다음 중 어느 것인가요?",
+    "choice": [
+      "3",
+      "단가",
+      "수량",
+      "제품 ID"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 332,
+    "type": "database001",
+    "question": "이미지 내 헤더 테이블에 포함된 올바른 열 이름은 다음 중 어느 것인가요?",
+    "choice": [
+      "주문 ID",
+      "총 금액",
+      "수량",
+      "배송지"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 333,
+    "type": "database001",
+    "question": "이미지에 포함된 테이블 수는 몇 개인가요?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "type": "database001",
+    "question": "이미지 내 상세 테이블의 네 번째 열 두 번째 행 값은 무엇인가요?",
+    "choice": [
+      "2",
+      "100",
+      "330",
+      "ABC 레스토랑"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 335,
+    "type": "database001",
+    "question": "이미지에서 총액 1,060엔인 배송지는 어디인가요?",
+    "choice": [
+      "630",
+      "XX 카페",
+      "카레",
+      "ABC 레스토랑"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 336,
+    "type": "database001",
+    "question": "이미지 내 데이터베이스의 어떤 열 이름에 \"XX Cafe\"가 포함되어 있나요?",
+    "choice": [
+      "ABC 레스토랑",
+      "배송지 주소",
+      "1",
+      "매장명"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 337,
+    "type": "database001",
+    "question": "이미지에서 단가 100엔 제품을 사용하는 배송지는 어디인가요?",
+    "choice": [
+      "XX 카페",
+      "ABC 레스토랑",
+      "삶은 달걀",
+      "카레 세트"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 338,
+    "type": "database002",
+    "question": "이미지 내 데이터베이스 테이블의 총 행 수는 몇 개인가?",
+    "choice": [
+      "6",
+      "15",
+      "13",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 339,
+    "type": "database002",
+    "question": "이미지 내 데이터베이스 테이블의 총 열 수는 몇 개인가?",
+    "choice": [
+      "3",
+      "15",
+      "8",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 340,
+    "type": "database002",
+    "question": "이미지 내 데이터베이스 테이블의 값을 포함하는 셀의 총 개수는 몇 개인가?",
+    "choice": [
+      "77",
+      "15",
+      "42",
+      "57"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 341,
+    "type": "database002",
+    "question": "다음 중 이미지 내 데이터베이스 테이블에 포함된 올바른 열 이름은 무엇인가?",
+    "choice": [
+      "게시일",
+      "책명",
+      "사용자명",
+      "게시일"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 342,
+    "type": "database002",
+    "question": "다음 중 이미지 내 대출 테이블에 포함된 올바른 열 이름은 무엇인가?",
+    "choice": [
+      "사용자명",
+      "제목",
+      "반납일",
+      "대출일"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 343,
+    "type": "database002",
+    "question": "이미지에는 몇 개의 테이블이 포함되어 있는가?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 344,
+    "type": "database002",
+    "question": "이미지 내 users 테이블의 두 번째 열, 세 번째 행 값은 무엇입니까?",
+    "choice": [
+      "시스템 설계 사고법",
+      "hanako@example.com",
+      "타로 야마다",
+      "지로 사토"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 345,
+    "type": "database002",
+    "question": "다음 중 book_id가 2인 항목의 올바른 PRICE 값은 무엇입니까?",
+    "choice": [
+      "2,000",
+      "1,980",
+      "IT 기초를 이해하는 책",
+      "2022/12/02"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 346,
+    "type": "database002",
+    "question": "이미지 내 데이터베이스에서 \"Gendai Gijutsu Sha\"를 포함하는 열 이름은 무엇입니까?",
+    "choice": [
+      "publisher",
+      "company name",
+      "2",
+      "price"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 347,
+    "type": "database002",
+    "question": "이미지에서 Hanako Suzuki가 대출한 도서의 제목은 무엇입니까?",
+    "choice": [
+      "6",
+      "미래의 AI",
+      "IT 기초를 이해하는 책",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 348,
+    "type": "others001",
+    "question": "이미지에 포함된 엔티티 개수는 몇 개입니까?",
+    "choice": [
+      "3",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 349,
+    "type": "others001",
+    "question": "이미지에 포함된 관계 개수는 몇 개입니까?",
+    "choice": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 350,
+    "type": "others001",
+    "question": "이미지에서 올바른 엔티티 이름은 무엇입니까?",
+    "choice": [
+      "title",
+      "product",
+      "books (대출 상태)",
+      "user"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 351,
+    "type": "others001",
+    "question": "books 엔티티의 올바른 속성은 무엇입니까?",
+    "choice": [
+      "isbn (ISBN)",
+      "returned_at (반납 날짜 및 시간)",
+      "name (이름)",
+      "lendings (대출 상태)"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 352,
+    "type": "others001",
+    "question": "books 엔티티에 포함되어서는 안 되는 정보는 무엇입니까?",
+    "choice": [
+      "제목",
+      "이메일 주소",
+      "저자",
+      "가격"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 353,
+    "type": "others001",
+    "question": "사용자와 대출 상태 간의 올바른 관계는 무엇입니까?",
+    "choice": [
+      "일대다 관계",
+      "다대다 관계",
+      "관계 없음",
+      "일대일 관계"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 354,
+    "type": "others002",
+    "question": "이미지에 포함된 엔티티 개수는 몇 개인가요?",
+    "choice": [
+      "4",
+      "7",
+      "5",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 355,
+    "type": "others002",
+    "question": "이미지에 포함된 관계 개수는 몇 개인가요?",
+    "choice": [
+      "7",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 356,
+    "type": "others002",
+    "question": "이미지에 포함된 올바른 엔티티 이름은 무엇입니까?",
+    "choice": [
+      "공급업체",
+      "본사",
+      "지점 코드",
+      "포장"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 357,
+    "type": "others002",
+    "question": "다음 중 \"Order\" 엔티티의 올바른 속성은 무엇입니까?",
+    "choice": [
+      "지점 코드",
+      "주문 날짜",
+      "담당자",
+      "주문 ID"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 358,
+    "type": "others002",
+    "question": "customer code 속성을 보유한 엔티티는 무엇입니까?",
+    "choice": [
+      "고객명",
+      "고객",
+      "지점",
+      "제품"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 359,
+    "type": "others002",
+    "question": "Person in Charge 엔티티와 \"Order\" 엔티티 모두와 관계를 가진 엔티티는 무엇입니까?",
+    "choice": [
+      "주문 상세",
+      "포장",
+      "지점",
+      "주문 ID"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 360,
+    "type": "others003",
+    "question": "이미지에 포함된 프로세스 수는 몇 개입니까?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 361,
+    "type": "others003",
+    "question": "이미지에 포함된 데이터 저장소 수는 몇 개입니까?",
+    "choice": [
+      "2",
+      "7",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 362,
+    "type": "others003",
+    "question": "이미지에 포함된 소스 및 흡수 수의 개수는 몇 개입니까?",
+    "choice": [
+      "4",
+      "7",
+      "2",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 363,
+    "type": "others003",
+    "question": "이미지에 포함된 데이터 흐름은 몇 개인가?",
+    "choice": [
+      "7",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 364,
+    "type": "others003",
+    "question": "이미지에 포함된 올바른 프로세스 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "고객",
+      "재고 확인",
+      "주문 접수",
+      "주문 정보"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 365,
+    "type": "others003",
+    "question": "이미지에 포함된 올바른 데이터 저장소 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "제품",
+      "배송 프로세스",
+      "주문 정보",
+      "제품 주문"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 366,
+    "type": "others003",
+    "question": "이미지에 포함된 올바른 외부 요소 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "제품 주문",
+      "재고 정보",
+      "배송",
+      "유통 창고"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 367,
+    "type": "others003",
+    "question": "이미지에 포함된 올바른 데이터 흐름 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "주문 접수",
+      "주문 정보",
+      "반품 처리",
+      "주문 입력"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 368,
+    "type": "others003",
+    "question": "배송 처리 프로세스에서 배송 지시사항은 어느 프로세스로 흐르는가?",
+    "choice": [
+      "제품 배송",
+      "주문 접수",
+      "주문 정보",
+      "배송"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 369,
+    "type": "others003",
+    "question": "다음 중 \"배송 처리\" 프로세스의 올바른 데이터 흐름은 무엇입니까?",
+    "choice": [
+      "배송",
+      "제품 주문",
+      "주문 데이터",
+      "재고 정보"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 370,
+    "type": "others004",
+    "question": "다음 중 이미지 내 테이블의 행 수(작업자 콘텐츠 행 제외)로 올바른 것은 무엇입니까?",
+    "choice": [
+      "6",
+      "3",
+      "10",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 371,
+    "type": "others004",
+    "question": "이미지 내 테이블에서 값을 포함하는 열의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "2",
+      "6",
+      "10",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 372,
+    "type": "others004",
+    "question": "값이 기록된 셀의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "26",
+      "57",
+      "10",
+      "36"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 373,
+    "type": "others004",
+    "question": "다음 중 테이블에 나열된 작업 후 상태의 올바른 개수는 무엇입니까?",
+    "choice": [
+      "3",
+      "23",
+      "36",
+      "13"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 374,
+    "type": "others004",
+    "question": "다음 중 테이블에 포함된 올바른 열 이름은 무엇입니까?",
+    "choice": [
+      "생성 중",
+      "중복",
+      "신청",
+      "거절됨"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 375,
+    "type": "others004",
+    "question": "다음 중 테이블에 포함된 작업 후 상태의 올바른 값은 무엇입니까?",
+    "choice": [
+      "신청 중",
+      "삭제 대기 중",
+      "승인 대기 중",
+      "새로 생성됨"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 376,
+    "type": "others004",
+    "question": "다음 중 승인 대기 상태를 초래하는 작업은 무엇입니까?",
+    "choice": [
+      "신청",
+      "새로 생성됨",
+      "생성 중",
+      "삭제됨"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 377,
+    "type": "others004",
+    "question": "파일이 생성되는 동안 사용자가 파일을 편집하면 파일은 어떤 상태로 전환됩니까?",
+    "choice": [
+      "생성 중",
+      "수정 중",
+      "물리적 삭제",
+      "승인 대기 중"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 378,
+    "type": "others004",
+    "question": "다음 중 \"물리적 삭제\" 상태 이전의 올바른 작업은 무엇입니까?",
+    "choice": [
+      "생성 중",
+      "삭제 중",
+      "수정 중",
+      "삭제됨"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 379,
+    "type": "others004",
+    "question": "다음 중 \"물리적 삭제\" 상태 이전의 올바른 상태는 무엇입니까?",
+    "choice": [
+      "삭제됨",
+      "삭제됨",
+      "승인 대기 중",
+      "생성 중"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 380,
+    "type": "others005",
+    "question": "다음 중 간트 차트에 포함된 올바른 기간은 무엇입니까?",
+    "choice": [
+      "5개월",
+      "4주",
+      "2일",
+      "1개월"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "type": "others005",
+    "question": "다음 중 이미지에 포함된 올바른 작업 내용은 무엇입니까?",
+    "choice": [
+      "공급업체 백업 계획 마감",
+      "CM 검토",
+      "CM 제작",
+      "CM 촬영"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 382,
+    "type": "others005",
+    "question": "다음 중 CM 검토가 계획되는 빈도를 가장 잘 설명하는 것은 무엇입니까?",
+    "choice": [
+      "매주 한 번",
+      "매월 한 번",
+      "매월 둘째 주",
+      "매월 첫째 주"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 383,
+    "type": "others005",
+    "question": "공급업체 백업 계획 마감일은 언제 설정됩니까?",
+    "choice": [
+      "4개월째",
+      "2개월째",
+      "3개월째",
+      "5개월째"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 384,
+    "type": "others005",
+    "question": "5개월 동안 몇 번의 CM 프로세스 개선 미션이 수행됩니까?",
+    "choice": [
+      "7회",
+      "19회",
+      "2회",
+      "1회"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 385,
+    "type": "others006",
+    "question": "다음 중 간트 차트에 포함된 올바른 기간은 무엇입니까?",
+    "choice": [
+      "약 2일",
+      "약 2개월",
+      "약 2년",
+      "약 2주"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 386,
+    "type": "others006",
+    "question": "이미지에 포함된 작업 항목 수는 몇 개인가?",
+    "choice": [
+      "8",
+      "11",
+      "15",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 387,
+    "type": "others006",
+    "question": "이미지에 포함된 올바른 작업은 다음 중 어느 것인가?",
+    "choice": [
+      "수락 테스트",
+      "설계 검토",
+      "결합 테스트",
+      "단위 테스트"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 388,
+    "type": "others006",
+    "question": "테스트 계획 작성 완료 후 시작되는 작업은 다음 중 어느 것인가?",
+    "choice": [
+      "테스트 계획 검증",
+      "시스템 테스트",
+      "조합 테스트",
+      "구성 테스트"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 389,
+    "type": "others006",
+    "question": "구성 테스트의 종료일은 다음 중 어느 것인가?",
+    "choice": [
+      "1/23/98",
+      "2/17/98",
+      "2/2/98",
+      "2/1/98"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 390,
+    "type": "others006",
+    "question": "프로젝트에서 종료일이 가장 늦은 작업은 다음 중 어느 것인가?",
+    "choice": [
+      "결과 문서화",
+      "구성 테스트",
+      "성능 테스트",
+      "결과 문서화"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 391,
+    "type": "others007",
+    "question": "이미지에 포함된 파티션 수는 몇 개인가?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 392,
+    "type": "others007",
+    "question": "이미지에 포함된 프로세스 수는 몇 개인가?",
+    "choice": [
+      "7",
+      "9",
+      "8",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 393,
+    "type": "others007",
+    "question": "이미지에 포함된 판단의 수는 몇 개인가?",
+    "choice": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 394,
+    "type": "others007",
+    "question": "이미지에 포함된 데이터베이스 수는 몇 개인가?",
+    "choice": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 395,
+    "type": "others007",
+    "question": "이미지에서 올바른 파티션 이름은 다음 중 어느 것인가?",
+    "choice": [
+      "호텔 예약 전화",
+      "예약 문의 시스템",
+      "호텔 리셉션 직원",
+      "예약 기록"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 396,
+    "type": "others007",
+    "question": "이미지에서 올바른 프로세스는 다음 중 어느 것인가?",
+    "choice": [
+      "객실 현황 안내",
+      "호텔 예약 전화",
+      "예약 기록",
+      "가용 객실 검색"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 397,
+    "type": "others007",
+    "question": "시작 상태는 어느 것인가?",
+    "choice": [
+      "온라인 호텔 예약",
+      "객실 현황 안내",
+      "운영자",
+      "호텔 예약 전화 접수"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 398,
+    "type": "others007",
+    "question": "객실 가용성 직후에 수행되는 올바른 프로세스는 다음 중 어느 것인가?",
+    "choice": [
+      "고객에게 다른 숙소 제안",
+      "예약 기록",
+      "객실 현황 안내",
+      "예약 정보 시스템 전송"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 399,
+    "type": "others008",
+    "question": "이미지에 포함된 서비스 유형은 몇 가지입니까?",
+    "choice": [
+      "9",
+      "7",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 400,
+    "type": "others008",
+    "question": "이미지에서 서비스의 올바른 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "아마존 데이터존",
+      "AWS 공급망",
+      "아마존 클라우드프론트",
+      "AWS IoT 코어"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 401,
+    "type": "others008",
+    "question": "Amazon EC2와 연관된 AWS 서비스는 무엇입니까?",
+    "choice": [
+      "아마존 클라우드워치",
+      "탄력적 부하 분산",
+      "아마존 루트 53",
+      "아마존 S3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 402,
+    "type": "others008",
+    "question": "사용자가 처음 접하는 AWS 서비스는 무엇입니까?",
+    "choice": [
+      "아마존 루트 53",
+      "아마존 S3",
+      "아마존 RDS",
+      "아마존 클라우드프론트"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 403,
+    "type": "others008",
+    "question": "Amazon CloudFront 이후로 전환되는 AWS 서비스는 무엇입니까?",
+    "choice": [
+      "Amazon CloudFront",
+      "Amazon RDS",
+      "Amazon Route 53",
+      "Amazon S3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 404,
+    "type": "others009",
+    "question": "이미지 내 테이블에 값이 포함된 행의 올바른 수는 몇 개입니까?",
+    "choice": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 405,
+    "type": "others009",
+    "question": "이미지 내 테이블에 값이 포함된 열의 올바른 수는 몇 개입니까?",
+    "choice": [
+      "10",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 406,
+    "type": "others009",
+    "question": "값이 기록된 셀의 정확한 개수는 무엇입니까?",
+    "choice": [
+      "5",
+      "10",
+      "13",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 407,
+    "type": "others009",
+    "question": "표에 나열된 U의 정확한 개수는 다음 중 어느 것입니까?",
+    "choice": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 408,
+    "type": "others009",
+    "question": "표에 포함된 정확한 열 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "결제 처리",
+      "PC 발송",
+      "PC 재고",
+      "R"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 409,
+    "type": "others009",
+    "question": "표에 포함된 정확한 행 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "PC 재고",
+      "C",
+      "판매 정보",
+      "재고 확인"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 410,
+    "type": "others009",
+    "question": "쿼리 티켓에 대해 조달 작업이 수행하는 정확한 데이터 조작은 다음 중 어느 것입니까?",
+    "choice": [
+      "생성",
+      "삭제",
+      "수정",
+      "읽기"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 411,
+    "type": "sysconf001",
+    "question": "이미지에 포함된 구성 요소 유형은 몇 가지입니까?",
+    "choice": [
+      "5",
+      "8",
+      "1",
+      "15"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 412,
+    "type": "sysconf001",
+    "question": "이미지에서 구성 요소 간 관계를 나타내는 선은 몇 개인가요?",
+    "choice": [
+      "1",
+      "9",
+      "2",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 413,
+    "type": "sysconf001",
+    "question": "이 서비스는 서버를 몇 대 사용하나요?",
+    "choice": [
+      "7",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 414,
+    "type": "sysconf001",
+    "question": "다음 중 이 다이어그램에 포함된 올바른 구성 요소는 무엇인가요?",
+    "choice": [
+      "스마트폰",
+      "방화벽",
+      "고객 단말기",
+      "프린터"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 415,
+    "type": "sysconf001",
+    "question": "클라이언트는 이 서비스를 무엇과 함께 사용할 것인가요?",
+    "choice": [
+      "스마트폰",
+      "PC",
+      "TV",
+      "태블릿"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 416,
+    "type": "sysconf001",
+    "question": "다음 중 AP 서버와 DB 서버 간의 올바른 관계는 무엇인가요?",
+    "choice": [
+      "AP 서버는 DB 서버를 거치지 않고 고객 단말기와 직접 통신합니다.",
+      "AP 서버와 DB 서버는 독립적으로 운영되며 서로 통신하지 않습니다.",
+      "DB 서버가 AP 서버를 제어합니다.",
+      "AP 서버는 DB 서버와 통신하여 데이터를 교환합니다."
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 417,
+    "type": "sysconf001",
+    "question": "다음 중 AMM 데이터 관리 센터와 고객 단말기 간의 통신을 올바르게 설명한 것은 무엇인가요?",
+    "choice": [
+      "인터넷을 사용하지 않고 LAN을 사용합니다.",
+      "고객 단말기만 인터넷에 연결됩니다.",
+      "인터넷을 통해 고객 단말기와 통신합니다.",
+      "인터넷을 사용하지 않는 직접 연결입니다."
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 418,
+    "type": "sysconf002",
+    "question": "이미지에 포함된 구성 요소 유형은 몇 개인가요?",
+    "choice": [
+      "11",
+      "9",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 419,
+    "type": "sysconf002",
+    "question": "이미지 내 구성 요소 간 관계를 나타내는 선은 몇 개인가?",
+    "choice": [
+      "9",
+      "2",
+      "7",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 420,
+    "type": "sysconf002",
+    "question": "이 서비스는 서버를 몇 대 사용하는가?",
+    "choice": [
+      "2",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 421,
+    "type": "sysconf002",
+    "question": "다음 중 이 다이어그램에 포함된 올바른 구성 요소는 무엇인가?",
+    "choice": [
+      "웹 서버1",
+      "프린터",
+      "방화벽",
+      "메일 서버"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 422,
+    "type": "sysconf002",
+    "question": "클라이언트는 이 서비스를 무엇과 함께 사용할 것인가?",
+    "choice": [
+      "텔레비전",
+      "스마트워치",
+      "휴대용 게임기",
+      "스마트폰"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 423,
+    "type": "sysconf002",
+    "question": "웹 서버와 데이터베이스 서버 간의 올바른 관계는 다음 중 어느 것인가?",
+    "choice": [
+      "두 웹 서버 중 하나만 데이터베이스 서버와 통신합니다.",
+      "웹 서버가 데이터베이스 서버와 통신하여 데이터를 교환합니다.",
+      "웹 서버와 데이터베이스 서버는 독립적으로 운영되며 서로 관련이 없습니다.",
+      "웹 서버와 데이터베이스 서버는 직접 통신하지 않고 로드 밸런서를 통해 데이터를 교환합니다."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 424,
+    "type": "sysconf002",
+    "question": "이 시스템과 클라이언트 간의 통신에 대한 올바른 설명은 다음 중 어느 것인가?",
+    "choice": [
+      "시스템은 인터넷을 사용하지 않고 LAN을 사용합니다.",
+      "시스템은 인터넷을 통해 클라이언트와 통신합니다.",
+      "클라이언트의 단말기만 인터넷에 연결되어 있으며, 이 시스템은 인터넷에 연결되어 있지 않습니다.",
+      "시스템은 인터넷에 연결되어 있지 않지만, 인터넷에 직접 연결됩니다."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 425,
+    "type": "sysconf003",
+    "question": "이미지에는 몇 종류의 구성 요소가 포함되어 있는가?",
+    "choice": [
+      "3",
+      "6",
+      "10",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 426,
+    "type": "sysconf003",
+    "question": "이미지 내 구성 요소 간 관계를 나타내는 선은 몇 개입니까?",
+    "choice": [
+      "15",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 427,
+    "type": "sysconf003",
+    "question": "이 서비스는 서버를 몇 대 사용합니까?",
+    "choice": [
+      "4",
+      "2",
+      "7",
+      "10"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 428,
+    "type": "sysconf003",
+    "question": "다음 중 이 다이어그램에 포함된 올바른 구성 요소는 무엇입니까?",
+    "choice": [
+      "프린터",
+      "스마트폰",
+      "방화벽",
+      "라우터"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 429,
+    "type": "sysconf003",
+    "question": "클라이언트는 이 서비스를 무엇과 함께 사용할 것입니까?",
+    "choice": [
+      "PC",
+      "스마트워치",
+      "태블릿",
+      "스마트폰"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 430,
+    "type": "sysconf003",
+    "question": "로그 출력은 어디에서 생성됩니까?",
+    "choice": [
+      "클라이언트 PC",
+      "AP 서버",
+      "파일 서버",
+      "웹 서버"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 431,
+    "type": "screen_flow_diagram001",
+    "question": "이미지에는 화면이 몇 개 포함되어 있습니까?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 432,
+    "type": "screen_flow_diagram001",
+    "question": "이미지에 포함된 화살표는 몇 개인가?",
+    "choice": [
+      "2",
+      "1",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 433,
+    "type": "screen_flow_diagram001",
+    "question": "다음 중 이 다이어그램에 포함된 올바른 화면 이름은 무엇인가?",
+    "choice": [
+      "채용 페이지",
+      "문의 페이지",
+      "제품 소개 페이지",
+      "마이 페이지"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 434,
+    "type": "screen_flow_diagram001",
+    "question": "다음 중 공지사항 목록 페이지에서 직접 전환할 수 있는 화면은 무엇인가?",
+    "choice": [
+      "채용 페이지",
+      "문의 페이지",
+      "오류 페이지",
+      "홈페이지"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 435,
+    "type": "screen_flow_diagram002",
+    "question": "이미지에 포함된 화면은 몇 개인가?",
+    "choice": [
+      "2",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 436,
+    "type": "screen_flow_diagram002",
+    "question": "이미지에 포함된 화살표는 몇 개인가?",
+    "choice": [
+      "6",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 437,
+    "type": "screen_flow_diagram002",
+    "question": "다음 중 이 다이어그램에 포함된 올바른 화면 이름은 무엇인가?",
+    "choice": [
+      "캠페인 알림 페이지",
+      "서비스 신청",
+      "로그인 페이지",
+      "마이페이지"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 438,
+    "type": "screen_flow_diagram002",
+    "question": "다음 중 메인 페이지에서 직접 전환할 수 있는 올바른 화면은 무엇인가?",
+    "choice": [
+      "뉴스 상세",
+      "뉴스 목록",
+      "매장 정보 페이지",
+      "서비스 신청"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 439,
+    "type": "screen_flow_diagram003",
+    "question": "이미지에 포함된 화면 수는 몇 개인가요?",
+    "choice": [
+      "4",
+      "11",
+      "15",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 440,
+    "type": "screen_flow_diagram003",
+    "question": "이미지에 포함된 화살표 수는 몇 개인가요?",
+    "choice": [
+      "10",
+      "3",
+      "5",
+      "16"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 441,
+    "type": "screen_flow_diagram003",
+    "question": "이 다이어그램에 포함된 올바른 화면 이름은 다음 중 어느 것인가요?",
+    "choice": [
+      "혜택 목록 화면",
+      "FAQ 화면",
+      "마이페이지 화면",
+      "예약 안내 화면"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 442,
+    "type": "screen_flow_diagram003",
+    "question": "승객 정보 입력 화면에서 직접 이동할 수 있는 올바른 화면은 다음 중 어느 것인가요?",
+    "choice": [
+      "결제 화면",
+      "로그인 화면",
+      "예약 확인 화면",
+      "지원 화면"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 443,
+    "type": "screen_flow_diagram003",
+    "question": "홈 화면에서 마이 페이지 화면으로 이동하려면 먼저 어느 페이지로 이동해야 하나요?",
+    "choice": [
+      "좌석 선택 화면",
+      "로그인 화면",
+      "열차 검색 화면",
+      "지원 화면"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 444,
+    "type": "mockup001",
+    "question": "이 이미지에 포함된 버튼은 몇 개인가요?",
+    "choice": [
+      "16",
+      "20",
+      "10",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 445,
+    "type": "mockup001",
+    "question": "로그인 버튼은 화면의 어디에 표시되어 있나요?",
+    "choice": [
+      "오른쪽 위",
+      "오른쪽 아래",
+      "왼쪽 아래",
+      "왼쪽 위"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 446,
+    "type": "mockup001",
+    "question": "이 이미지에 포함된 올바른 버튼 이름은 다음 중 어느 것인가요?",
+    "choice": [
+      "취소",
+      "회원가입",
+      "예약",
+      "비밀번호 재설정"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 447,
+    "type": "mockup001",
+    "question": "이 시스템의 이름은 무엇인가요?",
+    "choice": [
+      "SKY HOTEL",
+      "HOTEL HORIZON",
+      "HINATA INN",
+      "HOTEL SORA"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 448,
+    "type": "mockup002",
+    "question": "재킷 사이즈를 선택할 수 있는 버튼은 몇 개인가요?",
+    "choice": [
+      "3",
+      "6",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 449,
+    "type": "mockup002",
+    "question": "장바구니에 담기 버튼은 화면의 어디에 표시되어 있나요?",
+    "choice": [
+      "오른쪽 아래",
+      "왼쪽 아래",
+      "중앙",
+      "오른쪽 위"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 450,
+    "type": "mockup002",
+    "question": "이 이미지에 포함된 올바른 버튼 이름은 다음 중 어느 것인가요?",
+    "choice": [
+      "남성",
+      "재고 있음",
+      "사이즈",
+      "세일"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 451,
+    "type": "mockup002",
+    "question": "이 시스템의 이름은 무엇입니까?",
+    "choice": [
+      "V-과거",
+      "O-현재",
+      "V-지금",
+      "T-미래"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 452,
+    "type": "mockup003",
+    "question": "TOP 페이지 화면에는 몇 개의 버튼이 포함되어 있습니까?",
+    "choice": [
+      "5",
+      "2",
+      "10",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 453,
+    "type": "mockup003",
+    "question": "연락처 페이지 화면에서 \"보내기\" 버튼은 어디에 표시됩니까?",
+    "choice": [
+      "오른쪽",
+      "중앙",
+      "아래",
+      "위"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 454,
+    "type": "mockup003",
+    "question": "이 이미지에 포함된 올바른 버튼 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "도움말",
+      "취소",
+      "정보",
+      "문의"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 455,
+    "type": "mockup003",
+    "question": "홈 버튼은 어느 화면으로 이동합니까?",
+    "choice": [
+      "홈 화면",
+      "문의 페이지 화면",
+      "상단 페이지 화면",
+      "제출 완료 화면"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 456,
+    "type": "table004",
+    "question": "이미지 내 테이블에서 값이 있는 셀의 올바른 개수는 몇 개입니까?",
+    "choice": [
+      "7",
+      "26",
+      "6",
+      "12"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 457,
+    "type": "table004",
+    "question": "이미지 내 테이블의 작업 개수는 다음 중 어느 것이 맞습니까?",
+    "choice": [
+      "6",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 458,
+    "type": "table004",
+    "question": "이미지 내 테이블에 포함된 올바른 열 이름은 다음 중 어느 것입니까?",
+    "choice": [
+      "정상",
+      "시간당 60건",
+      "업무량",
+      "처리 유형"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 459,
+    "type": "table004",
+    "question": "이미지 내 테이블에 포함된 올바른 작업은 다음 중 어느 것입니까?",
+    "choice": [
+      "탑승 수속 완료",
+      "로그인",
+      "비밀번호 변경",
+      "영수증 발급"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 460,
+    "type": "table004",
+    "question": "로그인 중인 작업의 시간당 안정적인 작업량은 얼마입니까?",
+    "choice": [
+      "20건",
+      "10건",
+      "40건",
+      "120건"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 461,
+    "type": "table005",
+    "question": "이미지 내 테이블의 값이 포함된 행 개수는 다음 중 어느 것이 맞습니까?",
+    "choice": [
+      "6",
+      "3",
+      "8",
+      "10"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 462,
+    "type": "table005",
+    "question": "이미지 내 테이블의 값이 포함된 열 개수는 다음 중 어느 것이 맞습니까?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 463,
+    "type": "table005",
+    "question": "다음 중 테이블에 포함된 올바른 열 이름은 무엇입니까?",
+    "choice": [
+      "완료 시간",
+      "로그아웃",
+      "처리 대기 시간",
+      "응답 시간"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 464,
+    "type": "table005",
+    "question": "다음 중 티켓 예약에 대한 올바른 응답 시간은 무엇입니까?",
+    "choice": [
+      "3초 이내",
+      "9초 이내",
+      "6초 이내",
+      "10초 이내"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 465,
+    "type": "table005",
+    "question": "다음 중 처리 시간에 대한 올바른 설명은 무엇입니까?",
+    "choice": [
+      "시스템이 처리 시작 지시를 내린 후 첫 응답을 수신하는 데 걸리는 시간",
+      "시스템이 처리 시작 지시를 내린 후 처리 결과를 수신하는 데 걸리는 시간",
+      "시스템이 시작된 후 종료되는 데 걸리는 시간",
+      "시스템이 특정 요청을 처리하는 데 소요된 CPU 처리 시간"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 466,
+    "type": "table006",
+    "question": "이미지 내 테이블에서 이용 가능한 좌석 등급 유형은 몇 가지입니까?",
+    "choice": [
+      "2",
+      "7",
+      "10",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 467,
+    "type": "table006",
+    "question": "이미지 내 데이터베이스 테이블에 값이 포함된 열의 총 개수는 무엇입니까?",
+    "choice": [
+      "2",
+      "1",
+      "8",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 468,
+    "type": "table006",
+    "question": "다음 중 테이블에 포함된 올바른 열 이름은 무엇입니까?",
+    "choice": [
+      "변화율(%),",
+      "연간 변화율(%),",
+      "기준값(yen)",
+      "기간 범주(%)"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 469,
+    "type": "table006",
+    "question": "일반 객실 등급의 추가 요금은 얼마입니까?",
+    "choice": [
+      "1000엔",
+      "0엔",
+      "2000엔",
+      "5000엔"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 470,
+    "type": "table006",
+    "question": "다음 중 피크 1의 정확한 시간은 무엇입니까?",
+    "choice": [
+      "8월 20일~8월 31일",
+      "12월 28일~2월 1일",
+      "4월 27일~5월 6일",
+      "3월 25일~4월 5일"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 471,
+    "type": "table006",
+    "question": "3월 26일에 신칸센을 이용할 예정입니다. 해당 구간의 기본 운임이 5,000엔일 때, 그린카 이용 시의 정확한 기본 운임은 무엇입니까?",
+    "choice": [
+      "8,750엔",
+      "5,000엔",
+      "9,000엔",
+      "8,500엔"
+    ],
+    "answer": "A"
+  }
+]
