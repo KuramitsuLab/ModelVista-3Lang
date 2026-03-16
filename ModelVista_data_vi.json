@@ -1,0 +1,6138 @@
+[
+  {
+    "number": 0,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '認1', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu trường hợp sử dụng?",
+    "choice": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 1,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '認2', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu diễn viên?",
+    "choice": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 2,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '認3', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu hiệp hội?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 3,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '認7', '関連要素数': 2}",
+    "question": "Trong số các trường hợp sử dụng sau đây, trường hợp nào là đúng và được bao gồm trong hình ảnh này?",
+    "choice": [
+      "Mua vé",
+      "Mở rào chắn",
+      "Bật hệ thống cổng vé",
+      "Đưa vé vào"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 4,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '認8', '関連要素数': 2}",
+    "question": "Trong số các diễn viên sau đây, ai là diễn viên chính xác được bao gồm trong hình ảnh này?",
+    "choice": [
+      "Nhân viên",
+      "Hệ thống cổng vé tàu hỏa",
+      "Người dùng",
+      "Nhân viên ga tàu"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 5,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '認9', '関連要素数': 2}",
+    "question": "Tên của hệ thống trong hình ảnh này là gì?",
+    "choice": [
+      "Hệ thống mua vé",
+      "Người dùng",
+      "Hệ thống giám sát ga",
+      "Hệ thống cổng vé đường sắt"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 6,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '関1', '関連要素数': 2}",
+    "question": "Diễn viên nào thực hiện trường hợp sử dụng \"Insert Ticket\"?",
+    "choice": [
+      "Người dùng",
+      "Nhân viên",
+      "Nhân viên ga",
+      "Hệ thống quản lý đường sắt"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 7,
+    "type": "usecase001",
+    "metadata": "{'図表の特徴': '基礎的な図、アクターがアイコン', '構成要素数': 3, '画像中の文字数': 27, '画像名': 'ユースケース図', '評価項目': '関1', '関連要素数': 2}",
+    "question": "Hành động nào mà người dùng \"User\" thực hiện trực tiếp?",
+    "choice": [
+      "Cổng thông qua",
+      "Mua vé",
+      "Mở rào chắn",
+      "Bật hệ thống cổng vé"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 8,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認1', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu trường hợp sử dụng?",
+    "choice": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 9,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認2', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu diễn viên?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 10,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認3', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu hiệp hội?",
+    "choice": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 11,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認4', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu mối quan hệ được bao gồm?",
+    "choice": [
+      "7",
+      "5",
+      "6",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 12,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認5', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu mối quan hệ mở rộng được bao gồm?",
+    "choice": [
+      "0",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 13,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認6', '関連要素数': 8}",
+    "question": "Câu nào sau đây về quá trình tổng quát hóa trong hình ảnh này là đúng?",
+    "choice": [
+      "Hình ảnh bao gồm việc tổng quát hóa cho các trường hợp sử dụng nhưng không bao gồm cho các đối tượng",
+      "Hình ảnh không bao gồm cả việc tổng quát hóa cho các đối tượng lẫn cho các trường hợp sử dụng",
+      "Hình ảnh bao gồm cả việc tổng quát hóa cho các đối tượng lẫn cho các trường hợp sử dụng",
+      "Hình ảnh bao gồm việc tổng quát hóa cho các đối tượng nhưng không bao gồm cho các trường hợp sử dụng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 14,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認7', '関連要素数': 8}",
+    "question": "Trong số các trường hợp sử dụng sau đây, trường hợp nào là đúng và được bao gồm trong hình ảnh này?",
+    "choice": [
+      "ATM",
+      "Cập nhật sổ tiết kiệm",
+      "Người yêu cầu chuyển tiền",
+      "Đưa thẻ vào"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 15,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認8', '関連要素数': 8}",
+    "question": "Trong số các diễn viên sau đây, ai là diễn viên chính xác được bao gồm trong hình ảnh này?",
+    "choice": [
+      "Nhân viên ngân hàng",
+      "Cập nhật sổ tiết kiệm",
+      "Ngân hàng khác",
+      "Quản trị viên ATM"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 16,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '認9', '関連要素数': 8}",
+    "question": "Tên của hệ thống trong hình ảnh này là gì?",
+    "choice": [
+      "Ngân hàng trực tuyến",
+      "ATM",
+      "Hệ thống quản lý tài khoản",
+      "Nhập mã PIN"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 17,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '関1', '関連要素数': 8}",
+    "question": "Diễn viên nào thực hiện trường hợp sử dụng \"Cập nhật Sổ tiết kiệm\"?",
+    "choice": [
+      "Ngân hàng khác",
+      "Người yêu cầu chuyển tiền",
+      "Người gửi tiền",
+      "Người dùng"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 18,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '関1', '関連要素数': 8}",
+    "question": "Hành động nào mà đối tượng \"Người yêu cầu chuyển tiền\" thực hiện trực tiếp?",
+    "choice": [
+      "Nhập mã PIN",
+      "Người gửi tiền",
+      "Yêu cầu chuyển khoản tài khoản (Chuyển tiền)",
+      "Cập nhật sổ tiết kiệm"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 19,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '関2', '関連要素数': 8}",
+    "question": "Trường hợp sử dụng nào được bao gồm trong cả \"Rút tiền\" và \"Yêu cầu chuyển khoản tài khoản (Chuyển tiền)\"?",
+    "choice": [
+      "Chèn thẻ",
+      "Cập nhật sổ tiết kiệm",
+      "Nhập mã PIN",
+      "Rút tiền"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 20,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '関2', '関連要素数': 8}",
+    "question": "Kết hợp nào là chính xác của các trường hợp sử dụng bao gồm \"Nhập mã PIN\"?",
+    "choice": [
+      "\"Rút tiền\" và \"Yêu cầu chuyển khoản (Chuyển tiền)\"",
+      "\"Người yêu cầu chuyển tiền\" và \"Người gửi tiền\"",
+      "\"Gửi tiền\" và \"Yêu cầu chuyển khoản (Chuyển tiền)\"",
+      "\"Rút tiền\" và \"Cập nhật sổ tiết kiệm\""
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 21,
+    "type": "usecase002",
+    "metadata": "{'図表の特徴': '汎化や包含が含まれる、usecase_1より要素多い', '構成要素数': 9, '画像中の文字数': 76, '画像名': 'ユースケース図', '評価項目': '関3', '関連要素数': 8}",
+    "question": "Câu nào sau đây về các diễn viên trong hình ảnh này là đúng?",
+    "choice": [
+      "\"Ngân hàng khác\" là một chuyên môn hóa của \"Người yêu cầu chuyển tiền\"",
+      "\"Nhập mã PIN\" là một khái quát hóa của \"Rút tiền\"",
+      "\"Người gửi tiền\" là một khái quát hóa của \"Người yêu cầu chuyển tiền\"",
+      "\"Người yêu cầu chuyển tiền\" là một khái quát hóa của \"Người gửi tiền\""
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 22,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認1', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu trường hợp sử dụng?",
+    "choice": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 23,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認2', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu diễn viên?",
+    "choice": [
+      "7",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 24,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認3', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu hiệp hội?",
+    "choice": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 25,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認4', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu mối quan hệ được bao gồm?",
+    "choice": [
+      "1",
+      "0",
+      "5",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 26,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認5', '関連要素数': 8}",
+    "question": "Trong hình ảnh này có bao nhiêu mối quan hệ mở rộng được bao gồm?",
+    "choice": [
+      "8",
+      "5",
+      "1",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 27,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認6', '関連要素数': 8}",
+    "question": "Câu nào sau đây về quá trình tổng quát hóa trong hình ảnh này là đúng?",
+    "choice": [
+      "Hình ảnh bao gồm việc tổng quát hóa cho các đối tượng nhưng không bao gồm cho các trường hợp sử dụng",
+      "Hình ảnh bao gồm cả việc tổng quát hóa cho các đối tượng và cho các trường hợp sử dụng",
+      "Hình ảnh không bao gồm việc tổng quát hóa cho các đối tượng cũng như cho các trường hợp sử dụng",
+      "Hình ảnh bao gồm việc tổng quát hóa cho các trường hợp sử dụng nhưng không bao gồm cho các đối tượng"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 28,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認7', '関連要素数': 8}",
+    "question": "Trong số các trường hợp sử dụng sau đây, trường hợp nào là đúng và được bao gồm trong hình ảnh này?",
+    "choice": [
+      "Khách hàng trực tuyến",
+      "Giao hàng",
+      "Kiểm tra kho",
+      "Xử lý trả hàng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 29,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認8', '関連要素数': 8}",
+    "question": "Trong số các diễn viên sau đây, ai là diễn viên chính xác được bao gồm trong hình ảnh này?",
+    "choice": [
+      "Nhà phát triển",
+      "Người giao hàng",
+      "Giao hàng",
+      "Quản trị viên hệ thống"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 30,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '認9', '関連要素数': 8}",
+    "question": "Tên của hệ thống trong hình ảnh này là gì?",
+    "choice": [
+      "Tên hệ thống không được chỉ định",
+      "Khách hàng trực tuyến",
+      "Giao hàng",
+      "Hệ thống mua sắm trực tuyến"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 31,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '関1', '関連要素数': 8}",
+    "question": "Diễn viên nào thực hiện trường hợp sử dụng \"Xác nhận hóa đơn\"?",
+    "choice": [
+      "Người giao hàng",
+      "Giao hàng",
+      "Nhân viên kho",
+      "Công ty tín dụng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 32,
+    "type": "usecase003",
+    "metadata": "{'図表の特徴': 'ユースケースを丸の外に書く記法、アクターやユースケースの数が比較的多い', '構成要素数': 12, '画像中の文字数': 78, '画像名': 'ユースケース図', '評価項目': '関1', '関連要素数': 8}",
+    "question": "Hành động nào mà nhân vật \"Nhân viên kho\" thực hiện trực tiếp?",
+    "choice": [
+      "Kiểm tra hàng tồn kho",
+      "Giao hàng",
+      "Bổ sung hàng hóa",
+      "Người giao hàng"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 33,
+    "type": "object001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 4, '画像中の文字数': 52, '画像名': 'オブジェクト図', '評価項目': '認1', '関連要素数': 3}",
+    "question": "Trong hình ảnh có bao nhiêu đối tượng?",
+    "choice": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 34,
+    "type": "object001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 4, '画像中の文字数': 52, '画像名': 'オブジェクト図', '評価項目': '認2', '関連要素数': 3}",
+    "question": "Trong hình ảnh có bao nhiêu liên kết?",
+    "choice": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 35,
+    "type": "object001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 4, '画像中の文字数': 52, '画像名': 'オブジェクト図', '評価項目': '認3', '関連要素数': 3}",
+    "question": "Trong hình ảnh sau, đâu là sự kết hợp chính xác giữa tên đối tượng và tên lớp?",
+    "choice": [
+      "Yamada-san: Nhân viên",
+      ": Phòng Phát triển",
+      "Sato-san: Nhân viên",
+      "Chi nhánh Tokyo: Phòng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 36,
+    "type": "object001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 4, '画像中の文字数': 52, '画像名': 'オブジェクト図', '評価項目': '参1', '関連要素数': 3}",
+    "question": "Tên lớp của đối tượng \"Mr. Suzuki\" là gì?",
+    "choice": [
+      "quản trị viên",
+      "phòng ban",
+      "Ông Yamada",
+      "nhân viên"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 37,
+    "type": "object001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 4, '画像中の文字数': 52, '画像名': 'オブジェクト図', '評価項目': '参2', '関連要素数': 3}",
+    "question": "Giá trị thuộc tính của \"Tên bộ phận\" của đối tượng \":Department\" là gì?",
+    "choice": [
+      "\"99-9999-9999\"",
+      "\"Ông Watanabe\"",
+      "\"Phòng Kinh doanh\"",
+      "\"Phòng Phát triển\""
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 38,
+    "type": "object001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 4, '画像中の文字数': 52, '画像名': 'オブジェクト図', '評価項目': '関1', '関連要素数': 3}",
+    "question": "Đối tượng nào có mối liên hệ ngữ nghĩa với \"Ông Yamada: Nhân viên\"?",
+    "choice": [
+      "Ông Watanabe: Nhân viên",
+      "Không có đối tượng nào được kết nối",
+      ": Bộ phận",
+      "Chữ ký của bộ phận"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 39,
+    "type": "object002",
+    "metadata": "{'図表の特徴': 'オブジェクトの数が比較的多い、リンクなし', '構成要素数': 7, '画像中の文字数': 298, '画像名': 'オブジェクト図', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Trong hình ảnh có bao nhiêu đối tượng?",
+    "choice": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 40,
+    "type": "object002",
+    "metadata": "{'図表の特徴': 'オブジェクトの数が比較的多い、リンクなし', '構成要素数': 7, '画像中の文字数': 298, '画像名': 'オブジェクト図', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Trong hình ảnh có bao nhiêu liên kết?",
+    "choice": [
+      "0",
+      "8",
+      "6",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 41,
+    "type": "object002",
+    "metadata": "{'図表の特徴': 'オブジェクトの数が比較的多い、リンクなし', '構成要素数': 7, '画像中の文字数': 298, '画像名': 'オブジェクト図', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, cái nào là tên đối tượng chính xác được chứa trong hình ảnh?",
+    "choice": [
+      "test",
+      "Noa:",
+      ": công việc",
+      ": sản phẩm công việc"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 42,
+    "type": "object002",
+    "metadata": "{'図表の特徴': 'オブジェクトの数が比較的多い、リンクなし', '構成要素数': 7, '画像中の文字数': 298, '画像名': 'オブジェクト図', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Tên lớp của đối tượng \"test\" là gì?",
+    "choice": [
+      "công việc",
+      "kiểm tra yêu cầu",
+      "sản phẩm công việc",
+      "mô tả"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 43,
+    "type": "object002",
+    "metadata": "{'図表の特徴': 'オブジェクトの数が比較的多い、リンクなし', '構成要素数': 7, '画像中の文字数': 298, '画像名': 'オブジェクト図', '評価項目': '参2', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, đâu là giá trị thuộc tính của \"Name\" trong đối tượng \"Test Specification\"?",
+    "choice": [
+      "\"Kiểm tra 0015\"",
+      "\"Kiểm tra xem người dùng có thể đăng nhập bằng tên người dùng và mật khẩu chính xác hay không.\"",
+      "\"Hệ thống\"",
+      "Dây"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 44,
+    "type": "object003",
+    "metadata": "{'図表の特徴': 'オブジェクトやリンクの数が多く比較的複雑な図', '構成要素数': 8, '画像中の文字数': 288, '画像名': 'オブジェクト図', '評価項目': '認1', '関連要素数': 14}",
+    "question": "Trong hình ảnh có bao nhiêu đối tượng?",
+    "choice": [
+      "10",
+      "14",
+      "8",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 45,
+    "type": "object003",
+    "metadata": "{'図表の特徴': 'オブジェクトやリンクの数が多く比較的複雑な図', '構成要素数': 8, '画像中の文字数': 288, '画像名': 'オブジェクト図', '評価項目': '認2', '関連要素数': 14}",
+    "question": "Trong hình ảnh có bao nhiêu liên kết?",
+    "choice": [
+      "8",
+      "14",
+      "11",
+      "10"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 46,
+    "type": "object003",
+    "metadata": "{'図表の特徴': 'オブジェクトやリンクの数が多く比較的複雑な図', '構成要素数': 8, '画像中の文字数': 288, '画像名': 'オブジェクト図', '評価項目': '認3', '関連要素数': 14}",
+    "question": "Trong hình ảnh sau, đâu là sự kết hợp chính xác giữa tên đối tượng và tên lớp?",
+    "choice": [
+      "Người dùng: Sato",
+      "Tanaka: Người dùng",
+      "Địa chỉ email: Tanaka",
+      "Sato: Bình luận"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 47,
+    "type": "object003",
+    "metadata": "{'図表の特徴': 'オブジェクトやリンクの数が多く比較的複雑な図', '構成要素数': 8, '画像中の文字数': 288, '画像名': 'オブジェクト図', '評価項目': '参1', '関連要素数': 14}",
+    "question": "Lớp của đối tượng \"Sato\" là gì?",
+    "choice": [
+      "Bạn bè",
+      "Junichi Sato",
+      "Người dùng",
+      "Dòng thời gian"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 48,
+    "type": "object003",
+    "metadata": "{'図表の特徴': 'オブジェクトやリンクの数が多く比較的複雑な図', '構成要素数': 8, '画像中の文字数': 288, '画像名': 'オブジェクト図', '評価項目': '参2', '関連要素数': 14}",
+    "question": "Giá trị thuộc tính của \"Nội dung đã đăng\" của đối tượng \":Comment\" là gì?",
+    "choice": [
+      "\"Giữa bạn bè\"",
+      "\"Làm tốt lắm!\"",
+      "\"Thời tiết hôm nay đẹp quá.\"",
+      ":Nhật ký"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 49,
+    "type": "object003",
+    "metadata": "{'図表の特徴': 'オブジェクトやリンクの数が多く比較的複雑な図', '構成要素数': 8, '画像中の文字数': 288, '画像名': 'オブジェクト図', '評価項目': '関1', '関連要素数': 14}",
+    "question": "Đối tượng nào có mối quan hệ ngữ nghĩa với đối tượng \":friend request\"?",
+    "choice": [
+      "ngày nộp đơn",
+      ": nhật ký",
+      "Lịch trình của Sato: lịch trình",
+      "Sato: người dùng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 50,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '認1', '関連要素数': 2}",
+    "question": "Trong hình ảnh có bao nhiêu lớp?",
+    "choice": [
+      "3",
+      "1",
+      "9",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 51,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '認2', '関連要素数': 2}",
+    "question": "Trong hình ảnh có bao nhiêu hiệp hội?",
+    "choice": [
+      "3",
+      "6",
+      "9",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 52,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '認2', '関連要素数': 2}",
+    "question": "Hình ảnh chứa bao nhiêu khái quát?",
+    "choice": [
+      "0",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 53,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '認4', '関連要素数': 2}",
+    "question": "Trong số các lựa chọn sau, tên chính xác của lớp được hiển thị trong hình ảnh là gì?",
+    "choice": [
+      "tính học phí",
+      "sinh viên trong tỉnh",
+      "số lượng sinh viên",
+      "nhân viên"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 54,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '認5', '関連要素数': 2}",
+    "question": "Trong số các tùy chọn sau, thuộc tính lớp nào được bao gồm trong hình ảnh?",
+    "choice": [
+      "Tính học phí",
+      "Số lượng sinh viên",
+      "Sinh viên trong tỉnh",
+      "Tên"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 55,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '認6', '関連要素数': 2}",
+    "question": "Trong số các thao tác sau, thao tác nào là đúng cho lớp được hiển thị trong hình ảnh?",
+    "choice": [
+      "Đăng nhập",
+      "Sinh viên trong bang",
+      "Tính học phí",
+      "Số tín chỉ"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 56,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '関1-6', '関連要素数': 2}",
+    "question": "Trong số các lựa chọn sau, đâu là lớp siêu?",
+    "choice": [
+      "công ty",
+      "số lượng sinh viên",
+      "sinh viên trong tỉnh",
+      "sinh viên"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 57,
+    "type": "class001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 61, '画像名': 'クラス図', '評価項目': '関1-6', '関連要素数': 2}",
+    "question": "Trong số các lựa chọn sau, cái nào là một lớp con?",
+    "choice": [
+      "Sinh viên trong tỉnh",
+      "Số tín chỉ",
+      "Nhân viên",
+      "Sinh viên"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 58,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認1', '関連要素数': 3}",
+    "question": "Trong hình ảnh có bao nhiêu lớp?",
+    "choice": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 59,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認2', '関連要素数': 3}",
+    "question": "Trong hình ảnh có bao nhiêu hiệp hội?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 60,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認2', '関連要素数': 3}",
+    "question": "Hình ảnh chứa bao nhiêu khái quát?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 61,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認3', '関連要素数': 3}",
+    "question": "Trong số các tùy chọn sau, tên nào là tên chính xác được liên kết với hình ảnh?",
+    "choice": [
+      "tên",
+      "nhân viên",
+      "thuộc về",
+      "đăng ký chi phí"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 62,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認4', '関連要素数': 3}",
+    "question": "Trong số các tùy chọn sau, tên lớp nào là chính xác được bao gồm trong hình ảnh?",
+    "choice": [
+      "mật khẩu",
+      "chữ ký của bộ phận",
+      "đăng ký chi phí",
+      "nhân viên"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 63,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認5', '関連要素数': 3}",
+    "question": "Trong số các tùy chọn sau, đâu là tên chính xác của thuộc tính lớp được bao gồm trong hình ảnh?",
+    "choice": [
+      "nhân viên",
+      "đăng ký chi phí",
+      "thuộc về",
+      "tên"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 64,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認6', '関連要素数': 3}",
+    "question": "Trong số các lựa chọn sau, đâu là tên chính xác của phép toán lớp được bao gồm trong hình ảnh?",
+    "choice": [
+      "Tên",
+      "Đăng ký làm nhân viên",
+      "Thuộc về",
+      "Đăng ký chi phí"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 65,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '認7', '関連要素数': 3}",
+    "question": "Trong số các tùy chọn sau, tùy chọn nào là độ hiển thị chính xác trong hình ảnh?",
+    "choice": [
+      "#",
+      "+",
+      "-",
+      "~"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 66,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '関1', '関連要素数': 3}",
+    "question": "Lớp nào trong số các lớp sau đây có liên quan đến lớp \"Employee\"?",
+    "choice": [
+      "quản lý",
+      "phòng ban",
+      "nhân viên thuộc",
+      "công ty"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 67,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '関3', '関連要素数': 3}",
+    "question": "Trong số các lựa chọn sau, đâu là độ đa dạng chính xác khi xem lớp \"Employee\" từ lớp \"Department\"?",
+    "choice": [
+      "1... *",
+      "1",
+      "0... *",
+      "Nhân viên thuộc về"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 68,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '関3', '関連要素数': 3}",
+    "question": "Trong số các lựa chọn sau, đâu là giải thích chính xác về số lượng phòng ban mà một nhân viên thuộc về trong hình ảnh?",
+    "choice": [
+      "Nhân viên thuộc một bộ phận",
+      "Nhân viên thuộc nhiều hơn một bộ phận",
+      "Không có thông tin về số lượng bộ phận mà nhân viên thuộc về",
+      "Nhân viên thuộc nhiều hơn zero bộ phận"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 69,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '関4', '関連要素数': 3}",
+    "question": "Trong hình ảnh, tên cuối cùng chính xác của \"Nhân viên\" liên quan đến \"Phòng ban\" là gì?",
+    "choice": [
+      "Phòng ban",
+      "Nhân viên",
+      "Tên phòng ban",
+      "Tên"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 70,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '関6', '関連要素数': 3}",
+    "question": "Trong số các lựa chọn sau, đâu là một lớp con của lớp \"Employee\"?",
+    "choice": [
+      "Trưởng phòng",
+      "Quản lý",
+      "Nhân viên của phòng",
+      "Phòng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 71,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '参1', '関連要素数': 3}",
+    "question": "Trong số các tùy chọn sau, đâu là thuộc tính chính xác của lớp nhân viên trong hình ảnh?",
+    "choice": [
+      "Phòng ban",
+      "Thuộc về",
+      "Mật khẩu",
+      "Đăng ký chi phí"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 72,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '参2', '関連要素数': 3}",
+    "question": "Trong số các mô tả sau, mô tả nào là chính xác về quyền truy cập của thao tác \"đăng nhập\" đối với lớp nhân viên trong hình ảnh?",
+    "choice": [
+      "Chỉ có thể truy cập bởi các lớp nhân viên và quản lý",
+      "Chỉ có thể truy cập bởi lớp nhân viên",
+      "Chỉ có thể truy cập bởi lớp nhân viên",
+      "Có thể truy cập từ tất cả các lớp"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 73,
+    "type": "class002",
+    "metadata": "{'図表の特徴': '汎化・関連名・関連端名・限定子あり', '構成要素数': 4, '画像中の文字数': 103, '画像名': 'クラス図', '評価項目': '参2', '関連要素数': 3}",
+    "question": "Trong số các tùy chọn sau, loại thẻ nhân viên nào trong hình là chính xác?",
+    "choice": [
+      "1",
+      "Số nguyên",
+      "Mật khẩu",
+      "Dãy ký tự"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 74,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '認1', '関連要素数': 16}",
+    "question": "Trong hình ảnh có bao nhiêu lớp?",
+    "choice": [
+      "9",
+      "3",
+      "10",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 75,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '認2', '関連要素数': 16}",
+    "question": "Trong hình ảnh có bao nhiêu hiệp hội?",
+    "choice": [
+      "16",
+      "9",
+      "7",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 76,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '認2', '関連要素数': 16}",
+    "question": "Trong hình ảnh có bao nhiêu khối?",
+    "choice": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 77,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '認2', '関連要素数': 16}",
+    "question": "Hình ảnh chứa bao nhiêu khái quát?",
+    "choice": [
+      "12",
+      "3",
+      "6",
+      "9"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 78,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '認4', '関連要素数': 16}",
+    "question": "Trong số các tùy chọn sau, tên lớp nào là chính xác cho hình ảnh?",
+    "choice": [
+      "Người",
+      "Số hiệu sách",
+      "Nhân viên",
+      "Thực thi cho mượn"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 79,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '認5', '関連要素数': 16}",
+    "question": "Trong số các lựa chọn sau, đâu là thuộc tính chính xác của lớp được chứa trong hình ảnh?",
+    "choice": [
+      "Mã nhân viên",
+      "Tạo",
+      "Đặt",
+      "Tiêu đề"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 80,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '認6', '関連要素数': 16}",
+    "question": "Trong số các thao tác lớp sau đây, thao tác nào được bao gồm trong hình ảnh?",
+    "choice": [
+      "hủy",
+      "phương tiện xác minh",
+      "tìm kiếm sách",
+      "thực hiện việc mượn!"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 81,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '関1', '関連要素数': 16}",
+    "question": "Lớp nào được liên kết với lớp \"Thư viện\" trong hình ảnh?",
+    "choice": [
+      "thư viện viên",
+      "người mượn sách",
+      "số đăng ký sách",
+      "thủ tục mượn sách"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 82,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '関3', '関連要素数': 16}",
+    "question": "Độ đa dạng từ lớp \"Người dùng đã đăng ký\" trong hình đến lớp \"Đặt chỗ mượn\" là gì?",
+    "choice": [
+      "1... *",
+      "1",
+      "0... *",
+      "0...1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 83,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '関6', '関連要素数': 16}",
+    "question": "Trong hình ảnh, đâu là một lớp con của lớp \"người\"?",
+    "choice": [
+      "mượn sách",
+      "phân loại sách",
+      "tên",
+      "thư viện viên"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 84,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '関6', '関連要素数': 16}",
+    "question": "Lớp nào là \"người dùng đã đăng ký\" trong hình ảnh được tổng hợp?",
+    "choice": [
+      "Người dùng",
+      "Số đăng ký người dùng",
+      "Thư viện",
+      "Người"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 85,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '関6', '関連要素数': 16}",
+    "question": "Trong số các lựa chọn sau, cái nào có mối quan hệ toàn bộ - phần với thư viện trong hình ảnh?",
+    "choice": [
+      "đặt chỗ sách",
+      "thư viện viên",
+      "mượn sách",
+      "người"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 86,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '参1', '関連要素数': 16}",
+    "question": "Tên của thuộc tính lớp \"Cho mượn sách\" trong hình ảnh là gì?",
+    "choice": [
+      "Số đăng ký sách",
+      "Thủ tục mượn sách",
+      "Ngày mượn sách",
+      "Ngày trả sách"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 87,
+    "type": "class003",
+    "metadata": "{'図表の特徴': '関連やクラスが比較的多く複雑な図', '構成要素数': 10, '画像中の文字数': 225, '画像名': 'クラス図', '評価項目': '参2', '関連要素数': 16}",
+    "question": "Trong hình ảnh, \"với quyền cho vay?\" Điều đó có nghĩa là gì?",
+    "choice": [
+      "+",
+      "#",
+      "-",
+      "~"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu đường cứu sinh?",
+    "choice": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 89,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '認2-1', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn đồng bộ?",
+    "choice": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 90,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '認2-3', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn trả lời?",
+    "choice": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 91,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu thông số thực thi?",
+    "choice": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 92,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '認7', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, tên đường dây cứu sinh nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Màn hình đăng nhập",
+      "Tìm kiếm",
+      "Yêu cầu vay",
+      "Kệ sách"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 93,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '認8', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, tên tin nhắn nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Người dùng",
+      "Kệ",
+      "Đăng nhập",
+      "Yêu cầu trả lại"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 94,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '参2', '関連要素数': 6}",
+    "question": "Dòng cứu trợ nào đang hoạt động khi yêu cầu vay được gửi đi?",
+    "choice": [
+      "Người dùng",
+      "Tìm kiếm",
+      "Kết quả vay",
+      "Kệ"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 95,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Yêu cầu vay vốn được gửi đến đối tượng nào?",
+    "choice": [
+      "Kệ sách",
+      "Sách",
+      "Người dùng",
+      "Yêu cầu mượn sách chưa được gửi"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 96,
+    "type": "sequence001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 29, '画像名': 'シーケンス図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Yêu cầu nào mà Người dùng gửi đến Shelf?",
+    "choice": [
+      "Kết quả tìm kiếm",
+      "Yêu cầu vay vốn",
+      "Kết quả vay vốn",
+      "Tìm kiếm"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 97,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '認1', '関連要素数': 14}",
+    "question": "Trong hình ảnh này có bao nhiêu đường cứu sinh?",
+    "choice": [
+      "14",
+      "9",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 98,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '認2-1', '関連要素数': 14}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn đồng bộ?",
+    "choice": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 99,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '認2-2', '関連要素数': 14}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn không đồng bộ?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 100,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '認2-3', '関連要素数': 14}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn trả lời?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "7"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 101,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '認3', '関連要素数': 14}",
+    "question": "Trong hình ảnh này có bao nhiêu thông số thực thi?",
+    "choice": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 102,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '認7', '関連要素数': 14}",
+    "question": "Trong số các tùy chọn sau, tên đường dây cứu sinh nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Người dùng",
+      "Đăng ký tài khoản tiết kiệm",
+      "Chi tiết giao dịch giữa các chi nhánh",
+      "Lịch sử gửi tiền"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 103,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '認8', '関連要素数': 14}",
+    "question": "Trong số các tùy chọn sau, tên tin nhắn nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Tra cứu số dư",
+      "Gửi tiền",
+      "Quản lý tiền gửi tiết kiệm",
+      "Tạo tài khoản"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 104,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '参2', '関連要素数': 14}",
+    "question": "Dòng cứu sinh nào đang hoạt động khi yêu cầu gửi tiền được gửi đi?",
+    "choice": [
+      "Giao diện gửi tiết kiệm",
+      "Tài khoản tiết kiệm",
+      "Khách hàng cá nhân",
+      "Khách hàng cá nhân"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 105,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '関1', '関連要素数': 14}",
+    "question": "Yêu cầu \"Đặt cọc\" được gửi đến đối tượng nào?",
+    "choice": [
+      "Quản lý tiền gửi tiết kiệm",
+      "Tài khoản tiết kiệm",
+      "Khách hàng cá nhân",
+      "Chi tiết giao dịch giữa các chi nhánh"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 106,
+    "type": "sequence002",
+    "metadata": "{'図表の特徴': 'ライフラインやメッセージの数が比較的多い', '構成要素数': 7, '画像中の文字数': 73, '画像名': 'シーケンス図', '評価項目': '関1', '関連要素数': 14}",
+    "question": "Tài khoản Tiết kiệm gửi yêu cầu nào đến Giao dịch Chưa Ghi Nhận?",
+    "choice": [
+      "Giao dịch giữa các chi nhánh",
+      "Yêu cầu gửi tiền",
+      "Giao dịch chưa được ghi nhận",
+      "Gửi tiền"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 107,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu đường cứu sinh?",
+    "choice": [
+      "8",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 108,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '認2-1', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn đồng bộ?",
+    "choice": [
+      "10",
+      "9",
+      "6",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 109,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu thông số thực thi?",
+    "choice": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 110,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu sự kiện phá hủy?",
+    "choice": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 111,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '認5-2', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu lựa chọn?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 112,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '認7', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, tên đường dây cứu sinh nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Đăng nhập",
+      ": Quản lý phiên",
+      ": Quy trình đăng nhập",
+      ": Màn hình đăng xuất"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 113,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '認8', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, tên tin nhắn nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "ID thành viên",
+      "Kết quả xác thực = OK",
+      "Nhập thông tin đăng nhập",
+      "Quá trình đăng nhập"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 114,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '参1', '関連要素数': 6}",
+    "question": "Dây cứu sinh nào bị hỏng?",
+    "choice": [
+      ": Màn hình đăng nhập",
+      ": Quy trình đăng nhập",
+      "Chuyển sang màn hình lỗi xác thực",
+      "A: Người dùng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 115,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '参2', '関連要素数': 6}",
+    "question": "Dòng cứu sinh nào sẽ được kích hoạt khi \"Kết quả xác thực = Xác thực (Mật khẩu)\" được gửi đi?",
+    "choice": [
+      ": Màn hình đăng nhập",
+      ": Danh sách thành viên",
+      ": Quy trình đăng nhập",
+      "Thông tin thành viên của A: Thông tin thành viên"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 116,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '参3', '関連要素数': 6}",
+    "question": "Trong số các mảnh ghép sau, mảnh ghép nào là mảnh ghép kết hợp chính xác được bao gồm trong hình ảnh này?",
+    "choice": [
+      "Vòng lặp",
+      "Tùy chọn",
+      "Dừng",
+      "Phương án thay thế"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 117,
+    "type": "sequence003",
+    "metadata": "{'図表の特徴': '破棄イベント・結合フラグメントあり', '構成要素数': 5, '画像中の文字数': 172, '画像名': 'シーケンス図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Yêu cầu nào được \": Màn hình đăng nhập\" gửi đến \": Quy trình đăng nhập\"?",
+    "choice": [
+      "Nhập thông tin đăng nhập (ID Thành viên, Mật khẩu)",
+      "Tra cứu thông tin thành viên cho A (ID Thành viên)",
+      "Chuyển sang màn hình lỗi xác thực ()",
+      "Đăng nhập (ID Thành viên, Mật khẩu)"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 118,
+    "type": "communication001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 40, '画像名': 'コミュニケーション図', '評価項目': '認1', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu đường cứu sinh?",
+    "choice": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 119,
+    "type": "communication001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 40, '画像名': 'コミュニケーション図', '評価項目': '認2', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu đầu nối?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 120,
+    "type": "communication001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 40, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 121,
+    "type": "communication001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 40, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn đồng bộ?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 122,
+    "type": "communication001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 40, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn trả lời?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 123,
+    "type": "communication001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 40, '画像名': 'コミュニケーション図', '評価項目': '参1', '関連要素数': 2}",
+    "question": "Số thứ tự cuối cùng trong hình ảnh này là gì?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 124,
+    "type": "communication001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 40, '画像名': 'コミュニケーション図', '評価項目': '関1', '関連要素数': 2}",
+    "question": "Thông điệp nào được gửi từ dòng sự kiện 'Màn hình Đăng ký Thành viên' đến dòng sự kiện 'Người dùng'?",
+    "choice": [
+      "Hiển thị kết quả đăng ký",
+      "Kết quả đăng ký",
+      "Thông tin đăng ký",
+      "Nhập thông tin"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 125,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '認1', '関連要素数': 7}",
+    "question": "Trong hình ảnh này có bao nhiêu đường cứu sinh?",
+    "choice": [
+      "9",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 126,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '認2', '関連要素数': 7}",
+    "question": "Trong hình ảnh này có bao nhiêu đầu nối?",
+    "choice": [
+      "7",
+      "6",
+      "9",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 127,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 7}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn?",
+    "choice": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 128,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 7}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn đồng bộ?",
+    "choice": [
+      "7",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 129,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 7}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn không đồng bộ?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 130,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 7}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn trả lời?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 131,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '参1', '関連要素数': 7}",
+    "question": "Số thứ tự cuối cùng trong hình ảnh này là gì?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 132,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '関1', '関連要素数': 7}",
+    "question": "Thông điệp nào được gửi từ đường dây cứu sinh \"Down Track: Thiết bị nhận dạng tàu hỏa\" đến đường dây cứu sinh \"Down Track: Cổng chắn đường sắt\"?",
+    "choice": [
+      "5b",
+      "Loại đoàn tàu truyền tải",
+      "Kích hoạt báo động",
+      "Hạ cửa chắn đường sắt"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 133,
+    "type": "communication002",
+    "metadata": "{'図表の特徴': 'communication_1より複雑な図', '構成要素数': 7, '画像中の文字数': 163, '画像名': 'コミュニケーション図', '評価項目': '関1', '関連要素数': 7}",
+    "question": "Thông điệp tiếp theo được gửi sau \"Transmit Train Type\" là gì?",
+    "choice": [
+      "Thời gian đóng cửa",
+      "Kích hoạt báo động",
+      "Thiết bị nhận dạng tàu hỏa",
+      "Hạ cửa chắn đường sắt"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 134,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '認1', '関連要素数': 16}",
+    "question": "Trong hình ảnh này có bao nhiêu đường cứu sinh?",
+    "choice": [
+      "18",
+      "13",
+      "7",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 135,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '認2', '関連要素数': 16}",
+    "question": "Trong hình ảnh này có bao nhiêu đầu nối?",
+    "choice": [
+      "10",
+      "16",
+      "8",
+      "20"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 136,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 16}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn?",
+    "choice": [
+      "7",
+      "10",
+      "12",
+      "19"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 137,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 16}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn đồng bộ?",
+    "choice": [
+      "10",
+      "7",
+      "18",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 138,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '認3', '関連要素数': 16}",
+    "question": "Trong hình ảnh này có bao nhiêu tin nhắn trả lời?",
+    "choice": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 139,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '参1', '関連要素数': 16}",
+    "question": "Số thứ tự cuối cùng trong hình ảnh này là gì?",
+    "choice": [
+      "Kết thúc",
+      "5.1",
+      "6.2",
+      "4.2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 140,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '関1', '関連要素数': 16}",
+    "question": "Thông điệp nào được gửi từ đường dẫn \": Driving\" đến đường dẫn \"Left Motor: Motor\"?",
+    "choice": [
+      "Đo điện áp",
+      "Đo góc quay",
+      "Kết thúc",
+      "Quay"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 141,
+    "type": "communication003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 14, '画像中の文字数': 286, '画像名': 'コミュニケーション図', '評価項目': '関1', '関連要素数': 16}",
+    "question": "Thông điệp nào được gửi ngay trước \"Detect\"?",
+    "choice": [
+      "Di chuyển",
+      "Xoay",
+      "Đo điện áp",
+      "Kết thúc"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 142,
+    "type": "statemachine001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 19, '画像名': 'ステートマシン図', '評価項目': '認1', '関連要素数': 4}",
+    "question": "Trong hình ảnh có bao nhiêu trạng thái đơn giản?",
+    "choice": [
+      "4",
+      "3",
+      "7",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 143,
+    "type": "statemachine001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 19, '画像名': 'ステートマシン図', '評価項目': '認2', '関連要素数': 4}",
+    "question": "Trong hình ảnh có bao nhiêu chuyển tiếp bên ngoài?",
+    "choice": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 144,
+    "type": "statemachine001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 19, '画像名': 'ステートマシン図', '評価項目': '関1', '関連要素数': 4}",
+    "question": "Khi xe ngừng chạy, xe sẽ chuyển sang trạng thái nào?",
+    "choice": [
+      "Dừng lại",
+      "Đỗ xe",
+      "Trạng thái ban đầu",
+      "Đỗ xe"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 145,
+    "type": "statemachine002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、開始疑似状態・終了状態あり', '構成要素数': 7, '画像中の文字数': 193, '画像名': 'ステートマシン図', '評価項目': '認1', '関連要素数': 13}",
+    "question": "Trong hình ảnh có bao nhiêu trạng thái đơn giản?",
+    "choice": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 146,
+    "type": "statemachine002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、開始疑似状態・終了状態あり', '構成要素数': 7, '画像中の文字数': 193, '画像名': 'ステートマシン図', '評価項目': '認2', '関連要素数': 13}",
+    "question": "Trong hình ảnh có bao nhiêu chuyển tiếp bên ngoài?",
+    "choice": [
+      "15",
+      "16",
+      "13",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 147,
+    "type": "statemachine002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、開始疑似状態・終了状態あり', '構成要素数': 7, '画像中の文字数': 193, '画像名': 'ステートマシン図', '評価項目': '参3', '関連要素数': 13}",
+    "question": "Trong số các trạng thái sau, trạng thái nào ngay lập tức tiếp theo trạng thái ban đầu?",
+    "choice": [
+      "Đang thiết lập các thuộc tính",
+      "Đang khởi tạo",
+      "Đang chờ",
+      "Đang hoạt động"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 148,
+    "type": "statemachine002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、開始疑似状態・終了状態あり', '構成要素数': 7, '画像中の文字数': 193, '画像名': 'ステートマシン図', '評価項目': '参4', '関連要素数': 13}",
+    "question": "Trong số các trạng thái sau, trạng thái nào ngay lập tức tiền đề cho trạng thái cuối cùng?",
+    "choice": [
+      "Tham gia",
+      "Đặt chất lượng",
+      "Chờ đợi",
+      "Lưu trữ"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 149,
+    "type": "statemachine002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、開始疑似状態・終了状態あり', '構成要素数': 7, '画像中の文字数': 193, '画像名': 'ステートマシン図', '評価項目': '関1', '関連要素数': 13}",
+    "question": "Khi một nhân vật địch tiến vào một khu vực từ trạng thái báo cáo, nó sẽ chuyển sang trạng thái nào?",
+    "choice": [
+      "Đang chờ đợi",
+      "Đang tương tác",
+      "Đang thiết lập các thuộc tính",
+      "Cảnh báo"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 150,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '認1', '関連要素数': 11}",
+    "question": "Trong hình ảnh có bao nhiêu trạng thái đơn giản?",
+    "choice": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 151,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '認2', '関連要素数': 11}",
+    "question": "Trong hình ảnh có bao nhiêu chuyển tiếp bên ngoài?",
+    "choice": [
+      "4",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 152,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '参1', '関連要素数': 11}",
+    "question": "Trong số các hành động sau, hành động nào được thực hiện trong quá trình nước đang được làm nóng?",
+    "choice": [
+      "Giữ ấm",
+      "Bật đèn sưởi nước",
+      "Đun sôi nước",
+      "Bật đèn giữ ấm"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 153,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '参1', '関連要素数': 11}",
+    "question": "Hành động EXIT nào được thực hiện trong khi giữ nước ấm?",
+    "choice": [
+      "Bật đèn sưởi nước",
+      "Giữ ấm",
+      "Trong quá trình đun nước",
+      "Đèn sưởi giữ ấm"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 154,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '参1', '関連要素数': 11}",
+    "question": "Hoạt động nào sau đây của quá trình sôi diễn ra trong trạng thái nước sôi?",
+    "choice": [
+      "Đun sôi nước",
+      "Bật đèn sưởi nước",
+      "Giữ nước ấm",
+      "Hoàn tất quá trình sưởi nước"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 155,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '参3', '関連要素数': 11}",
+    "question": "Trạng thái nào ngay lập tức tiếp theo trạng thái ban đầu?",
+    "choice": [
+      "Giữ ấm",
+      "Tắt nguồn",
+      "Chế độ chờ",
+      "Đun sôi nước"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 156,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '関1', '関連要素数': 11}",
+    "question": "Hệ thống làm nóng nước sẽ chuyển sang trạng thái nào sau khi quá trình làm nóng nước hoàn tất?",
+    "choice": [
+      "Đun nước",
+      "Đèn sưởi nước tắt",
+      "Giữ nước ấm",
+      "Chế độ chờ"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 157,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '関1', '関連要素数': 11}",
+    "question": "Hiệu ứng nào sau đây xảy ra khi nhiệt độ nước thay đổi từ \"đun nước\" sang \"chế độ chờ\"?",
+    "choice": [
+      "Nước sôi",
+      "Hoàn thành quá trình đun nước",
+      "Nắp trên được mở",
+      "Nút đun nước được nhấn"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 158,
+    "type": "statemachine003",
+    "metadata": "{'図表の特徴': 'イベントあり、開始疑似状態・終了状態あり', '構成要素数': 5, '画像中の文字数': 190, '画像名': 'ステートマシン図', '評価項目': '関2', '関連要素数': 11}",
+    "question": "Khi mực nước không ở mức tiêu chuẩn trong quá trình giữ ấm nước, máy sẽ chuyển sang trạng thái nào?",
+    "choice": [
+      "Nước đang được làm nóng",
+      "Giữ ấm",
+      "Ở chế độ chờ",
+      "Nút làm nóng nước đã được nhấn"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 159,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '認1', '関連要素数': 8}",
+    "question": "Hình ảnh bao gồm bao nhiêu phân vùng?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 160,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '認2', '関連要素数': 8}",
+    "question": "Trong hình ảnh có bao nhiêu hành động?",
+    "choice": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 161,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '認3', '関連要素数': 8}",
+    "question": "Trong hình ảnh có bao nhiêu luồng điều khiển?",
+    "choice": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 162,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '認7', '関連要素数': 8}",
+    "question": "Trong hình ảnh sau, tên phân vùng nào là chính xác?",
+    "choice": [
+      "hệ thống",
+      "kế toán",
+      "người dùng",
+      "khe cắm vé"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 163,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '認8', '関連要素数': 8}",
+    "question": "Trong số các lựa chọn sau, đâu là tên chính xác của hành động trong hình ảnh?",
+    "choice": [
+      "Hiển thị xác nhận nội dung nhập",
+      "Tạo vé",
+      "Lưu các mục cấu hình",
+      "Hoàn tất đăng ký người dùng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 164,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '参1', '関連要素数': 8}",
+    "question": "Hành động nào diễn ra ngay sau nút bắt đầu?",
+    "choice": [
+      "Lưu vé và gửi email xác nhận",
+      "Hiển thị menu loại yêu cầu",
+      "Nhập thông tin đăng ký sử dụng máy tính",
+      "Đặt \"Đăng ký sử dụng máy tính\" làm loại yêu cầu"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 165,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '参2', '関連要素数': 8}",
+    "question": "Hành động nào diễn ra ngay trước nút cuối cùng?",
+    "choice": [
+      "Nhập thông tin người yêu cầu và xác nhận vé",
+      "Hiển thị menu loại yêu cầu",
+      "Lưu vé và gửi email xác nhận",
+      "Đặt \"Đăng ký sử dụng máy tính\" làm loại yêu cầu"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 166,
+    "type": "activity001",
+    "metadata": "{'図表の特徴': '分岐なし', '構成要素数': 12, '画像中の文字数': 173, '画像名': 'アクティビティ図', '評価項目': '関1', '関連要素数': 8}",
+    "question": "Hành động nào ngay lập tức diễn ra sau hành động \"Xác nhận\"?",
+    "choice": [
+      "Hiển thị menu loại yêu cầu",
+      "Lưu vé và gửi email xác nhận",
+      "Nhập thông tin người yêu cầu và xác nhận vé",
+      "Nhập chi tiết đăng ký sử dụng máy tính"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 167,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '認1', '関連要素数': 18}",
+    "question": "Hình ảnh bao gồm bao nhiêu phân vùng?",
+    "choice": [
+      "2",
+      "5",
+      "4",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 168,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '認2', '関連要素数': 18}",
+    "question": "Trong hình ảnh có bao nhiêu hành động?",
+    "choice": [
+      "13",
+      "11",
+      "10",
+      "12"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 169,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '認3', '関連要素数': 18}",
+    "question": "Trong hình ảnh có bao nhiêu luồng điều khiển?",
+    "choice": [
+      "17",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 170,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '認4', '関連要素数': 18}",
+    "question": "Trong hình ảnh có bao nhiêu nút quyết định?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 171,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '認6', '関連要素数': 18}",
+    "question": "Số lượng quá trình song song đang diễn ra trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 172,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '認7', '関連要素数': 18}",
+    "question": "Trong hình ảnh sau, tên phân vùng nào là chính xác?",
+    "choice": [
+      "Bắt đầu đơn hàng mới",
+      "Quản lý sản phẩm",
+      "Người dùng",
+      "Người giao hàng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 173,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '認8', '関連要素数': 18}",
+    "question": "Trong số các lựa chọn sau, đâu là tên chính xác của hành động trong hình ảnh?",
+    "choice": [
+      "Kiểm tra đơn hàng",
+      "Kiểm tra kho hàng",
+      "Đóng gói đơn hàng",
+      "Tải hóa đơn"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 174,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '参1', '関連要素数': 18}",
+    "question": "Hành động nào diễn ra ngay sau nút mở đầu?",
+    "choice": [
+      "Bắt đầu đơn hàng mới",
+      "Hoàn tất thanh toán",
+      "Thêm sản phẩm vào đơn hàng",
+      "Gửi hóa đơn"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 175,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '参2', '関連要素数': 18}",
+    "question": "Hành động nào xảy ra ngay trước nút kết thúc?",
+    "choice": [
+      "Giao hàng",
+      "Nhận hàng",
+      "Hiển thị số tiền",
+      "Hoàn tất thanh toán"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 176,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '参3', '関連要素数': 18}",
+    "question": "Điều kiện nào sau đây là đúng cho việc phân nhánh được hiển thị trong hình ảnh?",
+    "choice": [
+      "Nhấn nút đặt hàng",
+      "Không có sản phẩm để thêm",
+      "Từ chối yêu cầu",
+      "Khác"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 177,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '関1', '関連要素数': 18}",
+    "question": "Hành động nào ngay lập tức diễn ra sau hành động \"chấp nhận thanh toán\"?",
+    "choice": [
+      "Giao hàng",
+      "Từ chối hóa đơn",
+      "Yêu cầu nhận hàng",
+      "Hoàn tất thanh toán"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 178,
+    "type": "activity002",
+    "metadata": "{'図表の特徴': '分岐・並行処理・パーティションあり', '構成要素数': 18, '画像中の文字数': 134, '画像名': 'アクティビティ図', '評価項目': '関2', '関連要素数': 18}",
+    "question": "Quy trình nào sau đây được áp dụng khi số tiền thanh toán vượt quá hạn mức tín dụng sau khi \"Hoàn tất thanh toán\"?",
+    "choice": [
+      "Yêu cầu nhận hàng",
+      "Xem lại đơn hàng",
+      "Từ chối thanh toán",
+      "Chấp nhận thanh toán"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 179,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認1', '関連要素数': 10}",
+    "question": "Trong hình ảnh có bao nhiêu hoạt động?",
+    "choice": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 180,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認2', '関連要素数': 10}",
+    "question": "Trong hình ảnh có bao nhiêu hành động?",
+    "choice": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 181,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認3', '関連要素数': 10}",
+    "question": "Trong hình ảnh có bao nhiêu luồng điều khiển?",
+    "choice": [
+      "10",
+      "9",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 182,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認4', '関連要素数': 10}",
+    "question": "Trong hình ảnh có bao nhiêu nút quyết định?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 183,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認4', '関連要素数': 10}",
+    "question": "Hình ảnh chứa bao nhiêu nút hợp nhất?",
+    "choice": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 184,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認5', '関連要素数': 10}",
+    "question": "Trong hình ảnh có bao nhiêu nút đối tượng?",
+    "choice": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 185,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認6', '関連要素数': 10}",
+    "question": "Số lượng quá trình song song đang diễn ra trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 186,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認7', '関連要素数': 10}",
+    "question": "Trong số các lựa chọn sau, tên chính xác của hoạt động trong hình là gì?",
+    "choice": [
+      "Quầy đổi tiền 100 yên",
+      "Quầy đổi tiền 500 yên",
+      "Tiền giấy",
+      "ATM"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 187,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認8', '関連要素数': 10}",
+    "question": "Trong số các lựa chọn sau, đâu là tên chính xác của hành động trong hình ảnh?",
+    "choice": [
+      "tiền xu",
+      "máy đổi tiền 100 yên",
+      "tờ tiền 1.000 yên hoặc tiền xu 500 yên",
+      "trả lại tiền đã nhập"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 188,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '認8', '関連要素数': 10}",
+    "question": "Trong hình ảnh sau, đối tượng nào là đối tượng chính xác?",
+    "choice": [
+      "thẻ tín dụng",
+      "máy đổi tiền 100 yên",
+      "tờ tiền",
+      "đồng xu 100 yên"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 189,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '参1', '関連要素数': 10}",
+    "question": "Hành động nào diễn ra ngay sau nút bắt đầu?",
+    "choice": [
+      "Một tờ tiền",
+      "Một đồng xu 100 yên được phát hành",
+      "Loại tiền được nhập vào được xác định",
+      "Một tờ tiền 1.000 yên được phát hành"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 190,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '参3', '関連要素数': 10}",
+    "question": "Trong số các điều kiện sau, điều kiện nào là đúng đối với nhánh được hiển thị trong hình ảnh?",
+    "choice": [
+      "Hết tiền lẻ",
+      "Hết đồng 100 yên",
+      "Tờ 1.000 yên hoặc đồng 500 yên",
+      "Xác định loại tiền được nhập"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 191,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '関1', '関連要素数': 10}",
+    "question": "Hành động nào diễn ra trước hành động \"trả lại tiền đặt cọc\"?",
+    "choice": [
+      "Xác định loại tiền được đưa vào",
+      "Tiền giấy",
+      "Đưa ra một đồng xu 100 yên",
+      "Giữ lại vé và gửi email xác nhận"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 192,
+    "type": "activity003",
+    "metadata": "{'図表の特徴': 'オブジェクトノードあり、パーティションなし', '構成要素数': 11, '画像中の文字数': 62, '画像名': 'アクティビティ図', '評価項目': '関2', '関連要素数': 10}",
+    "question": "Vai trò của bộ lọc trong hành động đưa ra quyết định về việc đặt một đồng xu 100 yên tại nút quyết định là gì?",
+    "choice": [
+      "Khi không đủ tiền xu",
+      "Xác định loại tiền được nhập vào",
+      "nếu không",
+      "tờ tiền 1.000 yên hoặc đồng xu 500 yên"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 193,
+    "type": "package001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 15, '画像名': 'パッケージ図', '評価項目': '認1', '関連要素数': 2}",
+    "question": "Trong hình ảnh này có bao nhiêu gói hàng?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 194,
+    "type": "package001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 15, '画像名': 'パッケージ図', '評価項目': '認2', '関連要素数': 2}",
+    "question": "\"Hình ảnh này bao gồm bao nhiêu phụ thuộc?\"",
+    "choice": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 195,
+    "type": "package001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 15, '画像名': 'パッケージ図', '評価項目': '認3', '関連要素数': 2}",
+    "question": "Trong số các tùy chọn sau, tên gói nào là chính xác được bao gồm trong hình ảnh này?",
+    "choice": [
+      "dữ liệu",
+      "bộ điều khiển",
+      "ứng dụng",
+      "giao diện người dùng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 196,
+    "type": "package001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 3, '画像中の文字数': 15, '画像名': 'パッケージ図', '評価項目': '関1', '関連要素数': 2}",
+    "question": "Gói \"service\" phụ thuộc vào gói nào?",
+    "choice": [
+      "tên miền",
+      "ứng dụng",
+      "dữ liệu",
+      "giao diện người dùng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 197,
+    "type": "package002",
+    "metadata": "{'図表の特徴': 'package_1より複雑な図', '構成要素数': 4, '画像中の文字数': 21, '画像名': 'パッケージ図', '評価項目': '認1', '関連要素数': 5}",
+    "question": "Trong hình ảnh này có bao nhiêu gói hàng?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 198,
+    "type": "package002",
+    "metadata": "{'図表の特徴': 'package_1より複雑な図', '構成要素数': 4, '画像中の文字数': 21, '画像名': 'パッケージ図', '評価項目': '認2', '関連要素数': 5}",
+    "question": "\"Hình ảnh này bao gồm bao nhiêu phụ thuộc?\"",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 199,
+    "type": "package002",
+    "metadata": "{'図表の特徴': 'package_1より複雑な図', '構成要素数': 4, '画像中の文字数': 21, '画像名': 'パッケージ図', '評価項目': '認3', '関連要素数': 5}",
+    "question": "Trong số các tùy chọn sau, tên gói nào là chính xác được bao gồm trong hình ảnh này?",
+    "choice": [
+      "dịch vụ",
+      "entity",
+      "controller",
+      "repository"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 200,
+    "type": "package002",
+    "metadata": "{'図表の特徴': 'package_1より複雑な図', '構成要素数': 4, '画像中の文字数': 21, '画像名': 'パッケージ図', '評価項目': '関1', '関連要素数': 5}",
+    "question": "Gói nào phụ thuộc vào gói \"db access\"?",
+    "choice": [
+      "kiểm soát",
+      "dịch vụ",
+      "thực thể",
+      "giao diện người dùng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 201,
+    "type": "package003",
+    "metadata": "{'図表の特徴': '内部要素あり', '構成要素数': 6, '画像中の文字数': 44, '画像名': 'パッケージ図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong hình ảnh này có bao nhiêu gói hàng?",
+    "choice": [
+      "3",
+      "5",
+      "2",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 202,
+    "type": "package003",
+    "metadata": "{'図表の特徴': '内部要素あり', '構成要素数': 6, '画像中の文字数': 44, '画像名': 'パッケージ図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "\"Hình ảnh này bao gồm bao nhiêu phụ thuộc?\"",
+    "choice": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 203,
+    "type": "package003",
+    "metadata": "{'図表の特徴': '内部要素あり', '構成要素数': 6, '画像中の文字数': 44, '画像名': 'パッケージ図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, tên gói nào là chính xác được bao gồm trong hình ảnh này?",
+    "choice": [
+      "kiểm soát",
+      "Khung đơn hàng",
+      "bean",
+      "kho lưu trữ"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 204,
+    "type": "package003",
+    "metadata": "{'図表の特徴': '内部要素あり', '構成要素数': 6, '画像中の文字数': 44, '画像名': 'パッケージ図', '評価項目': '認4', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, đâu là thành phần nội bộ chính xác của gói \"service\"?",
+    "choice": [
+      "Khung Đơn hàng",
+      "Giao diện người dùng",
+      "Kiểm soát Đơn hàng",
+      "Thành phần Đơn hàng"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 205,
+    "type": "package003",
+    "metadata": "{'図表の特徴': '内部要素あり', '構成要素数': 6, '画像中の文字数': 44, '画像名': 'パッケージ図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Gói \"service\" phụ thuộc vào gói nào?",
+    "choice": [
+      "giao diện người dùng",
+      "điều khiển",
+      "đối tượng",
+      "OrderBean"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 206,
+    "type": "component001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 12, '画像名': 'コンポーネント図', '評価項目': '認1', '関連要素数': 1}",
+    "question": "Trong hình ảnh có bao nhiêu thành phần?",
+    "choice": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 207,
+    "type": "component001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 12, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 1}",
+    "question": "Trong hình ảnh có bao nhiêu kết nối được ủy quyền?",
+    "choice": [
+      "0",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 208,
+    "type": "component001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 12, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 1}",
+    "question": "Trong hình ảnh có bao nhiêu giao diện được cung cấp?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 209,
+    "type": "component001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 12, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 1}",
+    "question": "Trong hình ảnh có bao nhiêu giao diện yêu cầu?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 210,
+    "type": "component001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 12, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 1}",
+    "question": "Trong hình ảnh có bao nhiêu đầu nối lắp ráp?",
+    "choice": [
+      "3",
+      "2",
+      "0",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 211,
+    "type": "component001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 12, '画像名': 'コンポーネント図', '評価項目': '認3', '関連要素数': 1}",
+    "question": "Tên thành phần chính xác được bao gồm trong sơ đồ này là gì?",
+    "choice": [
+      "hệ thống quản lý người dùng",
+      "quản lý lương",
+      "dịch vụ lương",
+      "máy chủ"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 212,
+    "type": "component001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 12, '画像名': 'コンポーネント図', '評価項目': '関2', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, tên chính xác của thành phần mà thành phần quản lý lương được kết nối là gì?",
+    "choice": [
+      "nhân viên",
+      "dịch vụ tính lương",
+      "quản lý tính lương",
+      "mạng lưới"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 213,
+    "type": "component002",
+    "metadata": "{'図表の特徴': 'コンポーネントをアイコンで示す記法', '構成要素数': 8, '画像中の文字数': 36, '画像名': 'コンポーネント図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu thành phần?",
+    "choice": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 214,
+    "type": "component002",
+    "metadata": "{'図表の特徴': 'コンポーネントをアイコンで示す記法', '構成要素数': 8, '画像中の文字数': 36, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu giao diện được cung cấp?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "0"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 215,
+    "type": "component002",
+    "metadata": "{'図表の特徴': 'コンポーネントをアイコンで示す記法', '構成要素数': 8, '画像中の文字数': 36, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu giao diện yêu cầu?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 216,
+    "type": "component002",
+    "metadata": "{'図表の特徴': 'コンポーネントをアイコンで示す記法', '構成要素数': 8, '画像中の文字数': 36, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Hình ảnh bao gồm bao nhiêu cổng?",
+    "choice": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 217,
+    "type": "component002",
+    "metadata": "{'図表の特徴': 'コンポーネントをアイコンで示す記法', '構成要素数': 8, '画像中の文字数': 36, '画像名': 'コンポーネント図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Tên thành phần chính xác được bao gồm trong sơ đồ này là gì?",
+    "choice": [
+      "Thành phần mạng",
+      "Kết quả xử lý",
+      "Thành phần truy cập cơ sở dữ liệu",
+      "Xử lý dữ liệu"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 218,
+    "type": "component002",
+    "metadata": "{'図表の特徴': 'コンポーネントをアイコンで示す記法', '構成要素数': 8, '画像中の文字数': 36, '画像名': 'コンポーネント図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Tên giao diện chính xác được bao gồm trong sơ đồ này là gì?",
+    "choice": [
+      "xử lý dữ liệu",
+      "nhận dữ liệu",
+      "thành phần truy cập cơ sở dữ liệu",
+      "yêu cầu kết nối"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 219,
+    "type": "component002",
+    "metadata": "{'図表の特徴': 'コンポーネントをアイコンで示す記法', '構成要素数': 8, '画像中の文字数': 36, '画像名': 'コンポーネント図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Giao diện nào được cung cấp bởi thành phần truy cập cơ sở dữ liệu?",
+    "choice": [
+      "Yêu cầu kết nối",
+      "Xử lý dữ liệu",
+      "Kết quả xử lý",
+      "Yêu cầu xử lý"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 220,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu thành phần?",
+    "choice": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 221,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu giao diện được cung cấp?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 222,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu giao diện yêu cầu?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 223,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu đầu nối lắp ráp?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 224,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Hình ảnh bao gồm bao nhiêu cổng?",
+    "choice": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 225,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu kết nối được ủy quyền?",
+    "choice": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 226,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, thành phần nào là tên chính xác được bao gồm trong sơ đồ này?",
+    "choice": [
+      "Dịch vụ đăng ký chi phí",
+      "Dịch vụ tính lương",
+      "Nhân viên",
+      "Cơ sở dữ liệu chi phí"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 227,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Tên giao diện chính xác được bao gồm trong sơ đồ này là gì?",
+    "choice": [
+      "Chi phí tổng thể",
+      "Cơ sở dữ liệu chi phí",
+      "Hướng dẫn tham dự",
+      "Chi phí"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 228,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Tên của subsystem nào được hiển thị trong sơ đồ này là chính xác?",
+    "choice": [
+      "Cơ sở dữ liệu chi phí",
+      "Chi phí tổng thể",
+      "Nhân viên",
+      "Chi phí"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 229,
+    "type": "component003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 87, '画像名': 'コンポーネント図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Cổng kết nối lắp ráp nào được kết nối với thành phần \"Chi phí\"?",
+    "choice": [
+      "Dịch vụ Đăng ký Chi phí",
+      "Hướng dẫn Tham dự",
+      "Quản lý Tài khoản Chi phí",
+      "Hướng dẫn Nộp tiền"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 230,
+    "type": "deployment001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 5, '画像中の文字数': 37, '画像名': '配置図', '評価項目': '認1', '関連要素数': 2}",
+    "question": "Trong số các lựa chọn sau, số lượng đường truyền thông tin chính xác là bao nhiêu?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 231,
+    "type": "deployment001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 5, '画像中の文字数': 37, '画像名': '配置図', '評価項目': '認2', '関連要素数': 2}",
+    "question": "Số lượng nút chính xác là bao nhiêu?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 232,
+    "type": "deployment001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 5, '画像中の文字数': 37, '画像名': '配置図', '評価項目': '認3', '関連要素数': 2}",
+    "question": "Số lượng thành phần chính xác là bao nhiêu?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 233,
+    "type": "deployment001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 5, '画像中の文字数': 37, '画像名': '配置図', '評価項目': '認4', '関連要素数': 2}",
+    "question": "Tên nút chính xác được bao gồm trong sơ đồ này là gì?",
+    "choice": [
+      "lưu trữ đám mây",
+      "máy chủ trung tâm",
+      "cơ sở dữ liệu",
+      "máy chủ cục bộ"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 234,
+    "type": "deployment001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 5, '画像中の文字数': 37, '画像名': '配置図', '評価項目': '関1', '関連要素数': 2}",
+    "question": "Nút nào được kết nối với nút máy in thông qua một đường truyền thông tin?",
+    "choice": [
+      "Giao diện người dùng",
+      "Cơ sở dữ liệu",
+      "Ứng dụng máy tính để bàn",
+      "Máy chủ trung tâm"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 235,
+    "type": "deployment001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 5, '画像中の文字数': 37, '画像名': '配置図', '評価項目': '関2', '関連要素数': 2}",
+    "question": "Nút nào là nơi chứa thành phần \"cơ sở dữ liệu\"?",
+    "choice": [
+      "Máy in",
+      "Giao diện người dùng",
+      "Máy chủ trung tâm",
+      "Trung tâm dữ liệu"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 236,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '認1', '関連要素数': 1}",
+    "question": "Trong số các lựa chọn sau, số lượng đường truyền thông tin chính xác là bao nhiêu?",
+    "choice": [
+      "3",
+      "0",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 237,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '認2', '関連要素数': 1}",
+    "question": "Số lượng nút chính xác là bao nhiêu?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 238,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '認3', '関連要素数': 1}",
+    "question": "Số lượng sản phẩm đầu ra chính xác là bao nhiêu?",
+    "choice": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 239,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '認4', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, tên nút nào là chính xác được bao gồm trong sơ đồ này?",
+    "choice": [
+      "phần mềm khách hàng",
+      "máy chủ",
+      "POP",
+      "cổng kết nối"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 240,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '認4', '関連要素数': 1}",
+    "question": "Trong số các vật phẩm sau, vật phẩm nào là chính xác được bao gồm trong sơ đồ này?",
+    "choice": [
+      "thiết bị",
+      "JRE",
+      "Mailer.exe",
+      "máy chủ"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 241,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '関1', '関連要素数': 1}",
+    "question": "Độ đa dạng của máy khách được nhìn từ máy chủ là gì?",
+    "choice": [
+      "*",
+      "1... *",
+      "1",
+      "0..1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 242,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '関1', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, tùy chọn nào được kết nối với máy chủ thông qua một đường truyền thông tin?",
+    "choice": [
+      "Máy khách",
+      "JRE",
+      "Mailer.exe",
+      "Linux"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 243,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '関2', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, môi trường thực thi nào là chính xác cho máy chủ?",
+    "choice": [
+      "Máy khách",
+      "JRE",
+      "Mailer.exe",
+      "Linux"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 244,
+    "type": "deployment002",
+    "metadata": "{'図表の特徴': '実行環境、成果物、多重度あり', '構成要素数': 8, '画像中の文字数': 117, '画像名': '配置図', '評価項目': '関4', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, đâu là một thành phần JRE chính xác?",
+    "choice": [
+      "Máy khách",
+      "MailChecker.jar",
+      "Mailer.exe",
+      "sendmail"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 245,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong số các lựa chọn sau, số lượng phụ thuộc chính xác là bao nhiêu?",
+    "choice": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 246,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Số lượng nút chính xác là bao nhiêu?",
+    "choice": [
+      "4",
+      "7",
+      "10",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 247,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Số lượng sản phẩm đầu ra chính xác là bao nhiêu?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 248,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Số lượng thành phần chính xác là bao nhiêu?",
+    "choice": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 249,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '認4', '関連要素数': 6}",
+    "question": "Tên nút chính xác được bao gồm trong sơ đồ này là gì?",
+    "choice": [
+      "Phần mềm AVR nâng cao",
+      "Chương trình đang chạy",
+      "Cơ chế",
+      "Bộ xử lý phụ Atmel AVR"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 250,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '認4', '関連要素数': 6}",
+    "question": "Tên thành phần chính xác được bao gồm trong sơ đồ này là gì?",
+    "choice": [
+      "Chương trình điều khiển cảm biến và động cơ",
+      "Phần cứng NXT",
+      "Chạy chương trình",
+      "Giao diện người dùng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 251,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '認4', '関連要素数': 6}",
+    "question": "Tên của đối tượng nào được hiển thị trong sơ đồ này là chính xác?",
+    "choice": [
+      "Phần mềm NXT nâng cao",
+      "Bộ xử lý chính Atmel ARM7",
+      "Chương trình điều khiển cảm biến và động cơ",
+      "Cơ chế"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 252,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '関2', '関連要素数': 6}",
+    "question": "Môi trường thực thi cho bộ xử lý chính Atmel ARM7 là gì?",
+    "choice": [
+      "Trình điều khiển thiết bị",
+      "Phần cứng NXT",
+      "Phần mềm hệ thống NXT nâng cao",
+      "Bộ xử lý phụ Atmel AVR"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 253,
+    "type": "deployment003",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 10, '画像中の文字数': 267, '画像名': '配置図', '評価項目': '関3', '関連要素数': 6}",
+    "question": "Trong số các tùy chọn sau, đâu là thành phần phụ thuộc của chương trình điều khiển động cơ cảm biến?",
+    "choice": [
+      "Chương trình điều khiển",
+      "Phần mềm NXT nâng cao",
+      "Bộ xử lý phụ Atmel AVR",
+      "Phần cứng NXT"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 254,
+    "type": "composite_structure001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 8, '画像中の文字数': 32, '画像名': '合成構造図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Số lượng bộ phân loại có cấu trúc chính xác là bao nhiêu?",
+    "choice": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 255,
+    "type": "composite_structure001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 8, '画像中の文字数': 32, '画像名': '合成構造図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Số lượng bộ phận chính xác là bao nhiêu?",
+    "choice": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 256,
+    "type": "composite_structure001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 8, '画像中の文字数': 32, '画像名': '合成構造図', '評価項目': '認5', '関連要素数': 6}",
+    "question": "Số lượng giao diện được cung cấp là bao nhiêu?",
+    "choice": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 257,
+    "type": "composite_structure001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 8, '画像中の文字数': 32, '画像名': '合成構造図', '評価項目': '認5', '関連要素数': 6}",
+    "question": "Số lượng giao diện cần thiết là bao nhiêu?",
+    "choice": [
+      "0",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 258,
+    "type": "composite_structure001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 8, '画像中の文字数': 32, '画像名': '合成構造図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Trong số các lựa chọn sau, cái nào liên quan đến trí nhớ?",
+    "choice": [
+      "CPU",
+      "Màn hình",
+      "Máy tính cá nhân",
+      "Bo mạch chủ"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 259,
+    "type": "composite_structure001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 8, '画像中の文字数': 32, '画像名': '合成構造図', '評価項目': '関2', '関連要素数': 6}",
+    "question": "Trong số các giao diện được cung cấp sau đây, giao diện nào là chính xác được hiển thị trong hình ảnh?",
+    "choice": [
+      "Hệ thống truyền động",
+      "Bộ xử lý trung tâm (CPU)",
+      "Màn hình",
+      "Bàn phím"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 260,
+    "type": "composite_structure001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 8, '画像中の文字数': 32, '画像名': '合成構造図', '評価項目': '関2', '関連要素数': 6}",
+    "question": "Trong số các giao diện yêu cầu sau, giao diện nào được bao gồm trong hình ảnh là chính xác?",
+    "choice": [
+      "màn hình",
+      "bàn phím",
+      "CPU",
+      "nhận"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 261,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '認1', '関連要素数': 10}",
+    "question": "Số lượng bộ phân loại có cấu trúc chính xác là bao nhiêu?",
+    "choice": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 262,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '認3', '関連要素数': 10}",
+    "question": "Số lượng bộ phận chính xác là bao nhiêu?",
+    "choice": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 263,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '認4', '関連要素数': 10}",
+    "question": "Số lượng tài sản chính xác là bao nhiêu?",
+    "choice": [
+      "0",
+      "6",
+      "1",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 264,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '認5', '関連要素数': 10}",
+    "question": "Số lượng giao diện cần thiết là bao nhiêu?",
+    "choice": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 265,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '認5', '関連要素数': 10}",
+    "question": "Số lượng giao diện được cung cấp là bao nhiêu?",
+    "choice": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 266,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '関1', '関連要素数': 10}",
+    "question": "Trong số các tùy chọn sau, cái nào được kết nối với bảng điều khiển cảm ứng?",
+    "choice": [
+      "ATM",
+      "Đầu đọc thẻ",
+      "Modem",
+      "Cảm biến an ninh"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 267,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '関2', '関連要素数': 10}",
+    "question": "Trong số các giao diện được cung cấp sau đây, giao diện nào là chính xác được hiển thị trong hình ảnh?",
+    "choice": [
+      "Tiếp nhận thông tin từ bên ngoài",
+      "Tiếp nhận",
+      "ATM",
+      "Truyền tải"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 268,
+    "type": "composite_structure002",
+    "metadata": "{'図表の特徴': '比較的複雑な図', '構成要素数': 11, '画像中の文字数': 134, '画像名': '合成構造図', '評価項目': '関2', '関連要素数': 10}",
+    "question": "Trong số các giao diện yêu cầu sau, giao diện nào được bao gồm trong hình ảnh là chính xác?",
+    "choice": [
+      "Nhận tín hiệu truyền thông bên ngoài",
+      "Truyền",
+      "ATM",
+      "Nhận"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 269,
+    "type": "composite_structure003",
+    "metadata": "{'図表の特徴': 'コラボレーション', '構成要素数': 6, '画像中の文字数': 58, '画像名': '合成構造図', '評価項目': '認2', '関連要素数': 4}",
+    "question": "Số lượng hợp tác chính xác là bao nhiêu?",
+    "choice": [
+      "1",
+      "3",
+      "2",
+      "0"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 270,
+    "type": "composite_structure003",
+    "metadata": "{'図表の特徴': 'コラボレーション', '構成要素数': 6, '画像中の文字数': 58, '画像名': '合成構造図', '評価項目': '認2', '関連要素数': 4}",
+    "question": "Trong số các lựa chọn sau, số lượng sử dụng hợp tác chính xác là bao nhiêu?",
+    "choice": [
+      "5",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 271,
+    "type": "composite_structure003",
+    "metadata": "{'図表の特徴': 'コラボレーション', '構成要素数': 6, '画像中の文字数': 58, '画像名': '合成構造図', '評価項目': '認6', '関連要素数': 4}",
+    "question": "Trong số các lựa chọn sau, số lượng lần hợp tác chính xác là bao nhiêu?",
+    "choice": [
+      "2",
+      "3",
+      "5",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 272,
+    "type": "composite_structure003",
+    "metadata": "{'図表の特徴': 'コラボレーション', '構成要素数': 6, '画像中の文字数': 58, '画像名': '合成構造図', '評価項目': '関1', '関連要素数': 4}",
+    "question": "Bài 1: Hệ thống yêu cầu ATM là hệ thống nào trong số các hệ thống sau?",
+    "choice": [
+      "Hệ thống Quản lý Tiền mặt",
+      "Hệ thống Gửi tiền của Ngân hàng Hanamaru",
+      "Hệ thống Dịch vụ Chuyển khoản",
+      "Hệ thống Dịch vụ Rút tiền"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 273,
+    "type": "timing001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 37, '画像名': 'タイミング図', '評価項目': '認1', '関連要素数': 1}",
+    "question": "Số lượng đường cứu sinh chính xác trong hình là bao nhiêu?",
+    "choice": [
+      "7",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 274,
+    "type": "timing001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 37, '画像名': 'タイミング図', '評価項目': '認2', '関連要素数': 1}",
+    "question": "Trong số các lựa chọn sau, số lượng bang chính xác trong hình là bao nhiêu?",
+    "choice": [
+      "6",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 275,
+    "type": "timing001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 37, '画像名': 'タイミング図', '評価項目': '認3', '関連要素数': 1}",
+    "question": "Số lượng tin nhắn chính xác trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "1",
+      "6",
+      "3",
+      "0"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 276,
+    "type": "timing001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 37, '画像名': 'タイミング図', '評価項目': '認4', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, tên đường dây cứu sinh nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Đang sử dụng",
+      "ATM",
+      "Xác thực hoàn tất",
+      "Màn hình đăng nhập"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 277,
+    "type": "timing001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 37, '画像名': 'タイミング図', '評価項目': '認4', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, tên sự kiện nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Giao dịch đã bắt đầu",
+      "Đang chờ",
+      "Xảy ra lỗi",
+      "ATM"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 278,
+    "type": "timing001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 37, '画像名': 'タイミング図', '評価項目': '参1', '関連要素数': 1}",
+    "question": "Trong hình ảnh, trạng thái nào sau đây nằm liền kề với trạng thái đang sử dụng?",
+    "choice": [
+      "Giao dịch hoàn tất",
+      "Đang chờ",
+      "Đang xác thực",
+      "Đã sử dụng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 279,
+    "type": "timing001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 2, '画像中の文字数': 37, '画像名': 'タイミング図', '評価項目': '参1', '関連要素数': 1}",
+    "question": "Sự kiện nào xảy ra khi trạng thái chuyển từ \"đang chờ\" sang \"đang xác thực\" trong hình ảnh?",
+    "choice": [
+      "Quá trình xác thực đã bắt đầu",
+      "Quá trình xác thực đã hoàn tất",
+      "Quá trình xác thực đang diễn ra",
+      "Giao dịch đã bắt đầu"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 280,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '認1', '関連要素数': 4}",
+    "question": "Số lượng đường cứu sinh chính xác trong hình là bao nhiêu?",
+    "choice": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 281,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '認2', '関連要素数': 4}",
+    "question": "Số lượng tổng cộng các bang được hiển thị trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "5",
+      "7",
+      "1",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 282,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '認3', '関連要素数': 4}",
+    "question": "Số lượng tin nhắn chính xác trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "6",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 283,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '認4', '関連要素数': 4}",
+    "question": "Trong số các tùy chọn sau, tên đường dây cứu sinh nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Màn hình đăng nhập",
+      "Xác thực thành công",
+      "Đang hoạt động",
+      "ATM"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 284,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '認4', '関連要素数': 4}",
+    "question": "Trong số các tùy chọn sau, tên sự kiện nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Lỗi xảy ra",
+      "ATM",
+      "Thẻ đã được cắm vào",
+      "Xác thực hoàn tất"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 285,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '参1', '関連要素数': 4}",
+    "question": "Trong số các trạng thái sau, trạng thái nào sẽ được sử dụng tiếp theo trong hình ảnh?",
+    "choice": [
+      "Đang chờ",
+      "Đang hoạt động",
+      "Đang xác thực",
+      "Sẵn sàng sử dụng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 286,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '参1', '関連要素数': 4}",
+    "question": "Sự kiện nào xảy ra khi trạng thái chuyển từ \"đang chờ\" sang \"đang xác thực\" trong hình ảnh?",
+    "choice": [
+      "Giao dịch bắt đầu",
+      "Xác thực bắt đầu",
+      "Xác thực đang diễn ra",
+      "Thẻ đã được cắm"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 287,
+    "type": "timing002",
+    "metadata": "{'図表の特徴': 'ライフライン複数、メッセージあり', '構成要素数': 4, '画像中の文字数': 64, '画像名': 'タイミング図', '評価項目': '関1', '関連要素数': 4}",
+    "question": "Thông điệp nào trong hình ảnh được người dùng gửi đến máy ATM sau khi giao dịch được khởi tạo?",
+    "choice": [
+      "Giao dịch đã bắt đầu",
+      "Xác thực hoàn tất",
+      "Đưa thẻ vào",
+      "Nhập mã PIN"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 288,
+    "type": "timing003",
+    "metadata": "{'図表の特徴': '時間制約あり', '構成要素数': 3, '画像中の文字数': 71, '画像名': 'タイミング図', '評価項目': '認1', '関連要素数': 1}",
+    "question": "Số lượng đường cứu sinh chính xác trong hình là bao nhiêu?",
+    "choice": [
+      "5",
+      "3",
+      "1",
+      "0"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 289,
+    "type": "timing003",
+    "metadata": "{'図表の特徴': '時間制約あり', '構成要素数': 3, '画像中の文字数': 71, '画像名': 'タイミング図', '評価項目': '認2', '関連要素数': 1}",
+    "question": "Số lượng tổng cộng các bang được hiển thị trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 290,
+    "type": "timing003",
+    "metadata": "{'図表の特徴': '時間制約あり', '構成要素数': 3, '画像中の文字数': 71, '画像名': 'タイミング図', '評価項目': '認3', '関連要素数': 1}",
+    "question": "Số lượng tin nhắn chính xác trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "1",
+      "2",
+      "0",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 291,
+    "type": "timing003",
+    "metadata": "{'図表の特徴': '時間制約あり', '構成要素数': 3, '画像中の文字数': 71, '画像名': 'タイミング図', '評価項目': '認4', '関連要素数': 1}",
+    "question": "Trong số các tùy chọn sau, tên đường dây cứu sinh nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Đang xác thực",
+      "Màn hình đăng nhập",
+      "Không có hoạt động trong một khoảng thời gian nhất định",
+      "ATM"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 292,
+    "type": "timing003",
+    "metadata": "{'図表の特徴': '時間制約あり', '構成要素数': 3, '画像中の文字数': 71, '画像名': 'タイミング図', '評価項目': '認4', '関連要素数': 1}",
+    "question": "Trong số các tên bang sau đây, tên bang nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Không hoạt động trong một khoảng thời gian nhất định",
+      "Đang hoạt động",
+      "ATM",
+      "Đang sử dụng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 293,
+    "type": "timing003",
+    "metadata": "{'図表の特徴': '時間制約あり', '構成要素数': 3, '画像中の文字数': 71, '画像名': 'タイミング図', '評価項目': '参1', '関連要素数': 1}",
+    "question": "Trong quá trình xác thực, trạng thái nào sau đây sẽ xuất hiện tiếp theo trong hình ảnh?",
+    "choice": [
+      "Trong quá trình chuyển đổi sang chế độ chờ",
+      "Xác thực hoàn tất",
+      "Người dùng thực hiện thao tác",
+      "Đang sử dụng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 294,
+    "type": "timing003",
+    "metadata": "{'図表の特徴': '時間制約あり', '構成要素数': 3, '画像中の文字数': 71, '画像名': 'タイミング図', '評価項目': 'その他', '関連要素数': 1}",
+    "question": "Thời gian \"không thực hiện thao tác trong một khoảng thời gian nhất định\" trong hình ảnh là bao lâu?",
+    "choice": [
+      "3 phút",
+      "60 giây",
+      "20 giây",
+      "10 giây"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 295,
+    "type": "interaction_overview001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 6, '画像中の文字数': 36, '画像名': '相互作用概要図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu hoạt động?",
+    "choice": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 296,
+    "type": "interaction_overview001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 6, '画像中の文字数': 36, '画像名': '相互作用概要図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu luồng điều khiển?",
+    "choice": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 297,
+    "type": "interaction_overview001",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': 6, '画像中の文字数': 36, '画像名': '相互作用概要図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Hành động tiếp theo của nút khởi đầu trong hình là gì?",
+    "choice": [
+      "Chọn quy trình quản lý hệ thống thư viện",
+      "Mượn sách",
+      "Trả sách",
+      "Tra cứu thông tin thư viện"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 298,
+    "type": "interaction_overview002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、アクティビティ図+シーケンス図', '構成要素数': 21, '画像中の文字数': 218, '画像名': '相互作用概要図', '評価項目': '認1', '関連要素数': 19}",
+    "question": "Trong hình ảnh có bao nhiêu hoạt động?",
+    "choice": [
+      "5",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 299,
+    "type": "interaction_overview002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、アクティビティ図+シーケンス図', '構成要素数': 21, '画像中の文字数': 218, '画像名': '相互作用概要図', '評価項目': '認2', '関連要素数': 19}",
+    "question": "Trong hình ảnh có bao nhiêu luồng điều khiển?",
+    "choice": [
+      "9",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 300,
+    "type": "interaction_overview002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、アクティビティ図+シーケンス図', '構成要素数': 21, '画像中の文字数': 218, '画像名': '相互作用概要図', '評価項目': '認3', '関連要素数': 19}",
+    "question": "Biểu đồ trong hình ảnh này là sự kết hợp giữa biểu đồ hoạt động và biểu đồ gì?",
+    "choice": [
+      "Sơ đồ trình tự",
+      "Sơ đồ máy trạng thái",
+      "Sơ đồ lớp",
+      "Sơ đồ giao tiếp"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 301,
+    "type": "interaction_overview002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、アクティビティ図+シーケンス図', '構成要素数': 21, '画像中の文字数': 218, '画像名': '相互作用概要図', '評価項目': '関1', '関連要素数': 19}",
+    "question": "Trong số các hành động sau, hành động nào là nút khởi đầu trong hình ảnh?",
+    "choice": [
+      "Thành viên đăng nhập",
+      "Thành viên đăng ký",
+      "Thêm sản phẩm vào giỏ hàng",
+      "Xem các sản phẩm trong giỏ hàng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 302,
+    "type": "interaction_overview002",
+    "metadata": "{'図表の特徴': '比較的複雑な図、アクティビティ図+シーケンス図', '構成要素数': 21, '画像中の文字数': 218, '画像名': '相互作用概要図', '評価項目': '関2', '関連要素数': 19}",
+    "question": "Trong hành động \"Đặt hàng\" trong hình ảnh, đâu là đường dẫn chính xác mà từ đó thông báo \"Đăng ký đơn hàng\" được gửi đi?",
+    "choice": [
+      "Màn hình đặt hàng",
+      "Thành viên",
+      "Người dùng",
+      "Quản lý đơn hàng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 303,
+    "type": "interaction_overview003",
+    "metadata": "{'図表の特徴': 'コミュニケーション図+アクティビティ図', '構成要素数': 6, '画像中の文字数': 104, '画像名': '相互作用概要図', '評価項目': '認1', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu hoạt động?",
+    "choice": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 304,
+    "type": "interaction_overview003",
+    "metadata": "{'図表の特徴': 'コミュニケーション図+アクティビティ図', '構成要素数': 6, '画像中の文字数': 104, '画像名': '相互作用概要図', '評価項目': '認2', '関連要素数': 6}",
+    "question": "Trong hình ảnh có bao nhiêu luồng điều khiển?",
+    "choice": [
+      "8",
+      "3",
+      "9",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 305,
+    "type": "interaction_overview003",
+    "metadata": "{'図表の特徴': 'コミュニケーション図+アクティビティ図', '構成要素数': 6, '画像中の文字数': 104, '画像名': '相互作用概要図', '評価項目': '認3', '関連要素数': 6}",
+    "question": "Biểu đồ trong hình ảnh này là sự kết hợp giữa biểu đồ hoạt động và biểu đồ gì?",
+    "choice": [
+      "sơ đồ trình tự",
+      "sơ đồ lớp",
+      "sơ đồ giao tiếp",
+      "sơ đồ máy trạng thái"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 306,
+    "type": "interaction_overview003",
+    "metadata": "{'図表の特徴': 'コミュニケーション図+アクティビティ図', '構成要素数': 6, '画像中の文字数': 104, '画像名': '相互作用概要図', '評価項目': '関1', '関連要素数': 6}",
+    "question": "Nếu bạn đã đăng nhập, bạn cần thực hiện hành động nào sau đây?",
+    "choice": [
+      "Quy trình đăng nhập",
+      "Quy trình mượn sách trong hệ thống quản lý thư viện",
+      "Liên hệ với hệ thống hỗ trợ khách hàng",
+      "Thông báo về sự cố"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 307,
+    "type": "interaction_overview003",
+    "metadata": "{'図表の特徴': 'コミュニケーション図+アクティビティ図', '構成要素数': 6, '画像中の文字数': 104, '画像名': '相互作用概要図', '評価項目': '関2', '関連要素数': 6}",
+    "question": "Thông điệp cuối cùng được gửi trong một hành động hỗ trợ khách hàng đến hệ thống hỗ trợ khách hàng là gì?",
+    "choice": [
+      "Thông báo về việc giải quyết sự cố",
+      "Thông báo về sự cố",
+      "Thông báo hoàn tất xử lý sự cố",
+      "Gửi chi tiết sự cố"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 308,
+    "type": "table001",
+    "metadata": "{'図表の特徴': '基礎的な表、◯△×', '構成要素数': 1, '画像中の文字数': 70, '画像名': '表', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số hàng chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "6",
+      "12",
+      "4",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 309,
+    "type": "table001",
+    "metadata": "{'図表の特徴': '基礎的な表、◯△×', '構成要素数': 1, '画像中の文字数': 70, '画像名': '表', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số cột chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "6",
+      "3",
+      "10",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 310,
+    "type": "table001",
+    "metadata": "{'図表の特徴': '基礎的な表、◯△×', '構成要素数': 1, '画像中の文字数': 70, '画像名': '表', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Trong số các lựa chọn sau, số ô có giá trị ◯ trong bảng là bao nhiêu?",
+    "choice": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 311,
+    "type": "table001",
+    "metadata": "{'図表の特徴': '基礎的な表、◯△×', '構成要素数': 1, '画像中の文字数': 70, '画像名': '表', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Số ô chính xác trong bảng có giá trị △ là bao nhiêu?",
+    "choice": [
+      "3",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 312,
+    "type": "table001",
+    "metadata": "{'図表の特徴': '基礎的な表、◯△×', '構成要素数': 1, '画像中の文字数': 70, '画像名': '表', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Số ô trong bảng có giá trị là x là bao nhiêu?",
+    "choice": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 313,
+    "type": "table001",
+    "metadata": "{'図表の特徴': '基礎的な表、◯△×', '構成要素数': 1, '画像中の文字数': 70, '画像名': '表', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được bao gồm trong bảng?",
+    "choice": [
+      "ID",
+      "Gói (Scratch)",
+      "Scratch",
+      "Phạm vi áp dụng"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 314,
+    "type": "table001",
+    "metadata": "{'図表の特徴': '基礎的な表、◯△×', '構成要素数': 1, '画像中の文字数': 70, '画像名': '表', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, hàng nào là tên hàng chính xác được bao gồm trong bảng?",
+    "choice": [
+      "Phạm vi áp dụng",
+      "Tốc độ triển khai",
+      "Gói (không tùy chỉnh)",
+      "Thời gian triển khai"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 315,
+    "type": "table002",
+    "metadata": "{'図表の特徴': '基礎的な表、数値', '構成要素数': 1, '画像中の文字数': 104, '画像名': '表', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số hàng chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "15",
+      "5",
+      "8",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 316,
+    "type": "table002",
+    "metadata": "{'図表の特徴': '基礎的な表、数値', '構成要素数': 1, '画像中の文字数': 104, '画像名': '表', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số cột chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "10",
+      "3",
+      "15",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 317,
+    "type": "table002",
+    "metadata": "{'図表の特徴': '基礎的な表、数値', '構成要素数': 1, '画像中の文字数': 104, '画像名': '表', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Trong số các lựa chọn sau, số ô nào là số ô chính xác mà giá được ghi?",
+    "choice": [
+      "19",
+      "13",
+      "1",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 318,
+    "type": "table002",
+    "metadata": "{'図表の特徴': '基礎的な表、数値', '構成要素数': 1, '画像中の文字数': 104, '画像名': '表', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Trong số các lựa chọn sau, số lượng sản phẩm được liệt kê trong bảng là bao nhiêu?",
+    "choice": [
+      "1",
+      "3",
+      "5",
+      "8"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 319,
+    "type": "table002",
+    "metadata": "{'図表の特徴': '基礎的な表、数値', '構成要素数': 1, '画像中の文字数': 104, '画像名': '表', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được bao gồm trong bảng?",
+    "choice": [
+      "táo",
+      "giảm giá",
+      "số lượng",
+      "điểm"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 320,
+    "type": "table002",
+    "metadata": "{'図表の特徴': '基礎的な表、数値', '構成要素数': 1, '画像中の文字数': 104, '画像名': '表', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, hàng nào là tên hàng chính xác được bao gồm trong bảng?",
+    "choice": [
+      "khoai tây",
+      "cam",
+      "củ cải",
+      "tổng cộng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 321,
+    "type": "table002",
+    "metadata": "{'図表の特徴': '基礎的な表、数値', '構成要素数': 1, '画像中の文字数': 104, '画像名': '表', '評価項目': 'その他', '関連要素数': 0}",
+    "question": "Giá đơn vị của chuối (không bao gồm thuế) là bao nhiêu?",
+    "choice": [
+      "720 yên",
+      "120 yên",
+      "6",
+      "100 yên"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 322,
+    "type": "table003",
+    "metadata": "{'図表の特徴': '人数', '構成要素数': 1, '画像中の文字数': 122, '画像名': '表', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số hàng chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "10",
+      "3",
+      "6",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 323,
+    "type": "table003",
+    "metadata": "{'図表の特徴': '人数', '構成要素数': 1, '画像中の文字数': 122, '画像名': '表', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số cột chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "15",
+      "10",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 324,
+    "type": "table003",
+    "metadata": "{'図表の特徴': '人数', '構成要素数': 1, '画像中の文字数': 122, '画像名': '表', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Số ô có giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "20",
+      "12",
+      "36",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 325,
+    "type": "table003",
+    "metadata": "{'図表の特徴': '人数', '構成要素数': 1, '画像中の文字数': 122, '画像名': '表', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, tên chính xác của các hàng được bao gồm trong bảng là gì?",
+    "choice": [
+      "Tôi chưa bao giờ ăn nó",
+      "Tôi rất thích nó",
+      "Tôi ghét nó",
+      "Tôi rất thích nó"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 326,
+    "type": "table003",
+    "metadata": "{'図表の特徴': '人数', '構成要素数': 1, '画像中の文字数': 122, '画像名': '表', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Trong các lựa chọn sau, giá trị nào là chính xác cho cột đầu tiên, hàng thứ hai trong bảng?",
+    "choice": [
+      "15",
+      "55",
+      "Không tệ",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 327,
+    "type": "table003",
+    "metadata": "{'図表の特徴': '人数', '構成要素数': 1, '画像中の文字数': 122, '画像名': '表', '評価項目': 'その他', '関連要素数': 0}",
+    "question": "Có bao nhiêu người trong số các bạn rất thích bánh kẹo Nhật Bản nhưng lại không thích matcha?",
+    "choice": [
+      "20",
+      "7",
+      "45",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 328,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số lượng tổng cộng các hàng chứa các giá trị của bảng cơ sở dữ liệu trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "2",
+      "11",
+      "7",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 329,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số cột chứa giá trị trong bảng trong hình ảnh của bảng cơ sở dữ liệu trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "11",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 330,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Tổng số ô trong hình ảnh chứa các giá trị từ bảng cơ sở dữ liệu là bao nhiêu?",
+    "choice": [
+      "30",
+      "10",
+      "40",
+      "20"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 331,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, cột nào là tên cột chính xác có trong cơ sở dữ liệu trong hình ảnh?",
+    "choice": [
+      "3",
+      "Giá đơn vị",
+      "Số lượng",
+      "Mã sản phẩm"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 332,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được chứa trong bảng tiêu đề trong hình ảnh?",
+    "choice": [
+      "Số đơn hàng",
+      "Giá trị tổng",
+      "Số lượng",
+      "Địa chỉ giao hàng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 333,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '認4', '関連要素数': 0}",
+    "question": "Trong hình ảnh có bao nhiêu bảng?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Giá trị của hàng thứ hai, cột thứ tư trong bảng chi tiết trong hình là bao nhiêu?",
+    "choice": [
+      "2",
+      "100",
+      "330",
+      "Nhà hàng ABC"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 335,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Điểm giao hàng nào trong hình có tổng giá trị là 1.060 yên?",
+    "choice": [
+      "630",
+      "XX Cafe",
+      "Cà ri",
+      "Nhà hàng ABC"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 336,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Cột nào trong cơ sở dữ liệu trong hình ảnh chứa \"XX Cafe\"?",
+    "choice": [
+      "Nhà hàng ABC",
+      "Địa chỉ giao hàng",
+      "1",
+      "Tên cửa hàng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 337,
+    "type": "database001",
+    "metadata": "{'図表の特徴': '基礎的なデータベース', '構成要素数': 2, '画像中の文字数': 167, '画像名': 'データベース', '評価項目': '参2', '関連要素数': 0}",
+    "question": "Địa điểm giao hàng nào sử dụng sản phẩm có giá đơn vị 100 yên trong hình ảnh?",
+    "choice": [
+      "XX Cafe",
+      "ABC Restaurant",
+      "Trứng luộc",
+      "Bộ món cà ri"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 338,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số lượng hàng tổng cộng trong bảng cơ sở dữ liệu trong hình là bao nhiêu?",
+    "choice": [
+      "6",
+      "15",
+      "13",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 339,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '認1', '関連要素数': 0}",
+    "question": "Số cột tổng cộng trong bảng cơ sở dữ liệu trong hình là bao nhiêu?",
+    "choice": [
+      "3",
+      "15",
+      "8",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 340,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '認2', '関連要素数': 0}",
+    "question": "Tổng số ô trong hình ảnh chứa các giá trị từ bảng cơ sở dữ liệu là bao nhiêu?",
+    "choice": [
+      "77",
+      "15",
+      "42",
+      "57"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 341,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được chứa trong bảng cơ sở dữ liệu trong hình ảnh?",
+    "choice": [
+      "ngày đăng",
+      "tên sách",
+      "tên người dùng",
+      "ngày đăng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 342,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '認3', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, cột nào là tên cột chính xác có trong bảng lendings trong hình ảnh?",
+    "choice": [
+      "tên_người_dùng",
+      "tiêu_đề",
+      "thời_gian_trả_lại",
+      "thời_gian_cho_mượn"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 343,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '認4', '関連要素数': 0}",
+    "question": "Trong hình ảnh có bao nhiêu bảng?",
+    "choice": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 344,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Giá trị của ô thứ hai cột thứ ba trong bảng người dùng trong hình là gì?",
+    "choice": [
+      "Phương pháp thiết kế hệ thống",
+      "hanako@example.com",
+      "Taro Yamada",
+      "Jiro Sato"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 345,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Trong các tùy chọn sau, tùy chọn nào là giá chính xác cho book_id là 2?",
+    "choice": [
+      "2.000",
+      "1.980",
+      "Cuốn sách giúp hiểu cơ bản về công nghệ thông tin",
+      "2022/12/02"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 346,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '参1', '関連要素数': 0}",
+    "question": "Cột nào trong cơ sở dữ liệu trong hình ảnh chứa tên \"Gendai Gijutsu Sha\"?",
+    "choice": [
+      "nhà xuất bản",
+      "tên công ty",
+      "2",
+      "giá"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 347,
+    "type": "database002",
+    "metadata": "{'図表の特徴': 'database_1より複雑なデータベース', '構成要素数': 3, '画像中の文字数': 624, '画像名': 'データベース', '評価項目': '参2', '関連要素数': 0}",
+    "question": "Trong số các tiêu đề sau, tiêu đề nào là tiêu đề của cuốn sách mà Hanako Suzuki đã mượn trong hình ảnh?",
+    "choice": [
+      "6",
+      "Trí tuệ nhân tạo trong tương lai",
+      "Cuốn sách để hiểu cơ bản về công nghệ thông tin",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 348,
+    "type": "others001",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IE表記）', '構成要素数': 3, '画像中の文字数': 239, '画像名': 'その他', '評価項目': '認', '関連要素数': 2}",
+    "question": "Trong hình ảnh có bao nhiêu đối tượng?",
+    "choice": [
+      "3",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 349,
+    "type": "others001",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IE表記）', '構成要素数': 3, '画像中の文字数': 239, '画像名': 'その他', '評価項目': '認', '関連要素数': 2}",
+    "question": "Hình ảnh chứa bao nhiêu mối quan hệ?",
+    "choice": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 350,
+    "type": "others001",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IE表記）', '構成要素数': 3, '画像中の文字数': 239, '画像名': 'その他', '評価項目': '認', '関連要素数': 2}",
+    "question": "Trong hình ảnh, tên thực thể nào sau đây là chính xác?",
+    "choice": [
+      "tiêu đề",
+      "sản phẩm",
+      "sách (trạng thái cho mượn)",
+      "người dùng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 351,
+    "type": "others001",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IE表記）', '構成要素数': 3, '画像中の文字数': 239, '画像名': 'その他', '評価項目': '参', '関連要素数': 2}",
+    "question": "Trong số các tùy chọn sau, đâu là thuộc tính chính xác cho thực thể \"books\"?",
+    "choice": [
+      "ISBN (ISBN)",
+      "Thời gian trả lại (ngày và giờ trả lại)",
+      "Tên (tên)",
+      "Tình trạng cho mượn (tình trạng cho mượn)"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 352,
+    "type": "others001",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IE表記）', '構成要素数': 3, '画像中の文字数': 239, '画像名': 'その他', '評価項目': '参', '関連要素数': 2}",
+    "question": "Trong số các thông tin sau, thông tin nào KHÔNG phù hợp để được bao gồm trong thực thể \"sách\"?",
+    "choice": [
+      "Tiêu đề",
+      "Địa chỉ email",
+      "Tác giả",
+      "Giá"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 353,
+    "type": "others001",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IE表記）', '構成要素数': 3, '画像中の文字数': 239, '画像名': 'その他', '評価項目': '関', '関連要素数': 2}",
+    "question": "Trong các lựa chọn sau, mối quan hệ nào là chính xác giữa người dùng và trạng thái cho vay?",
+    "choice": [
+      "Mối quan hệ một-đến-nhiều",
+      "Mối quan hệ nhiều-đến-nhiều",
+      "Không có mối quan hệ",
+      "Mối quan hệ một-đến-một"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 354,
+    "type": "others002",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IDEF1X表記）', '構成要素数': 7, '画像中の文字数': 82, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong hình ảnh có bao nhiêu đối tượng?",
+    "choice": [
+      "4",
+      "7",
+      "5",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 355,
+    "type": "others002",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IDEF1X表記）', '構成要素数': 7, '画像中の文字数': 82, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Hình ảnh chứa bao nhiêu mối quan hệ?",
+    "choice": [
+      "7",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 356,
+    "type": "others002",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IDEF1X表記）', '構成要素数': 7, '画像中の文字数': 82, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong số các tùy chọn sau, tên thực thể nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Nhà cung cấp",
+      "Trụ sở chính",
+      "Mã chi nhánh",
+      "Đóng gói"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 357,
+    "type": "others002",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IDEF1X表記）', '構成要素数': 7, '画像中の文字数': 82, '画像名': 'その他', '評価項目': '参', '関連要素数': 7}",
+    "question": "Trong các tùy chọn sau, thuộc tính nào là đúng cho thực thể \"Order\"?",
+    "choice": [
+      "Mã chi nhánh",
+      "Ngày đặt hàng",
+      "Người liên hệ",
+      "Mã đơn hàng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 358,
+    "type": "others002",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IDEF1X表記）', '構成要素数': 7, '画像中の文字数': 82, '画像名': 'その他', '評価項目': '参', '関連要素数': 7}",
+    "question": "Thực thể nào lưu trữ thuộc tính \"mã khách hàng\"?",
+    "choice": [
+      "Tên khách hàng",
+      "Khách hàng",
+      "Chi nhánh",
+      "Sản phẩm"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 359,
+    "type": "others002",
+    "metadata": "{'図表の特徴': 'ER図（論理モデル、IDEF1X表記）', '構成要素数': 7, '画像中の文字数': 82, '画像名': 'その他', '評価項目': '関', '関連要素数': 7}",
+    "question": "Thực thể nào có mối quan hệ với cả thực thể \"Người chịu trách nhiệm\" và thực thể \"Đơn hàng\"?",
+    "choice": [
+      "Chi tiết đơn hàng",
+      "Đóng gói",
+      "Chi nhánh",
+      "ID đơn hàng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 360,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong hình ảnh có bao nhiêu quy trình?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 361,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong hình ảnh có bao nhiêu kho dữ liệu?",
+    "choice": [
+      "2",
+      "7",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 362,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Số lượng nguồn và sự hấp thụ nào được bao gồm trong hình ảnh?",
+    "choice": [
+      "4",
+      "7",
+      "2",
+      "3"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 363,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong hình ảnh có bao nhiêu luồng dữ liệu?",
+    "choice": [
+      "7",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 364,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong số các tên quy trình sau, tên quy trình nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "khách hàng",
+      "kiểm tra kho",
+      "nhận đơn hàng",
+      "thông tin đơn hàng"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 365,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong số các tùy chọn sau, tên kho dữ liệu nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Sản phẩm",
+      "Quy trình vận chuyển",
+      "Thông tin đơn hàng",
+      "Đơn hàng sản phẩm"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 366,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong số các tùy chọn sau, tên thành phần bên ngoài nào được bao gồm trong hình ảnh là chính xác?",
+    "choice": [
+      "đơn hàng sản phẩm",
+      "thông tin kho hàng",
+      "giao hàng",
+      "kho phân phối"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 367,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '認', '関連要素数': 7}",
+    "question": "Trong số các tùy chọn sau, tên luồng dữ liệu nào được hiển thị trong hình ảnh là chính xác?",
+    "choice": [
+      "Xác nhận đơn hàng",
+      "Thông tin đơn hàng",
+      "Xử lý trả hàng",
+      "Nhập đơn hàng"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 368,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '関', '関連要素数': 7}",
+    "question": "Hướng dẫn giao hàng được chuyển từ quy trình \"Xử lý đơn hàng\" sang quy trình nào?",
+    "choice": [
+      "Giao hàng sản phẩm",
+      "Nhận đơn hàng",
+      "Thông tin đơn hàng",
+      "Vận chuyển"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 369,
+    "type": "others003",
+    "metadata": "{'図表の特徴': 'データフロー図', '構成要素数': 7, '画像中の文字数': 51, '画像名': 'その他', '評価項目': '関', '関連要素数': 7}",
+    "question": "Trong các tùy chọn sau, đâu là luồng dữ liệu chính xác cho quy trình \"Xử lý đơn hàng\"?",
+    "choice": [
+      "Vận chuyển",
+      "Đơn hàng sản phẩm",
+      "Dữ liệu đơn hàng",
+      "Thông tin kho hàng"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 370,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các lựa chọn sau, số hàng chính xác trong bảng trong hình là bao nhiêu, không tính các hàng chứa nội dung của người vận hành?",
+    "choice": [
+      "6",
+      "3",
+      "10",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 371,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Số cột chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "2",
+      "6",
+      "10",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 372,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Số ô chính xác mà giá trị được ghi vào là bao nhiêu?",
+    "choice": [
+      "26",
+      "57",
+      "10",
+      "36"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 373,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các lựa chọn sau, số lượng trạng thái sau phẫu thuật được liệt kê trong bảng là bao nhiêu?",
+    "choice": [
+      "3",
+      "23",
+      "36",
+      "13"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 374,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được bao gồm trong bảng?",
+    "choice": [
+      "Tạo",
+      "Sao chép",
+      "Đơn đăng ký",
+      "Bị từ chối"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 375,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '参', '関連要素数': 0}",
+    "question": "Trong số các giá trị sau, giá trị nào là chính xác cho trạng thái sau khi thực hiện thao tác được liệt kê trong bảng?",
+    "choice": [
+      "Đang áp dụng",
+      "Đang chờ xóa",
+      "Đang chờ phê duyệt",
+      "Mới"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 376,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Trong số các thao tác sau, thao tác nào sẽ dẫn đến trạng thái đang chờ phê duyệt?",
+    "choice": [
+      "Ứng dụng",
+      "Mới",
+      "Tạo",
+      "Xóa"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 377,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Nếu người dùng chỉnh sửa một tệp trong quá trình tạo tệp, tệp sẽ chuyển sang trạng thái nào?",
+    "choice": [
+      "Tạo",
+      "Chỉnh sửa",
+      "Xóa vĩnh viễn",
+      "Đang chờ duyệt"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 378,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Trong các tùy chọn sau, thao tác nào là chính xác trước khi trạng thái \"đã xóa vĩnh viễn\" được áp dụng?",
+    "choice": [
+      "Tạo",
+      "Xóa",
+      "Sửa đổi",
+      "Đã xóa"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 379,
+    "type": "others004",
+    "metadata": "{'図表の特徴': '状態遷移表', '構成要素数': 1, '画像中の文字数': 99, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Trong số các trạng thái sau, trạng thái nào là trạng thái chính xác trước khi chuyển sang trạng thái \"đã xóa vĩnh viễn\"?",
+    "choice": [
+      "Đã xóa",
+      "Đã xóa",
+      "Đang chờ duyệt",
+      "Đang tạo"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 380,
+    "type": "others005",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 89, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các khoảng thời gian sau, khoảng thời gian nào được bao gồm trong biểu đồ Gantt?",
+    "choice": [
+      "5 tháng",
+      "4 tuần",
+      "2 ngày",
+      "1 tháng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "type": "others005",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 89, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các nội dung sau, nội dung nào là nội dung chính xác được hiển thị trong hình ảnh?",
+    "choice": [
+      "Kế hoạch dự phòng của nhà cung cấp",
+      "Kiểm tra CM",
+      "Tạo CM",
+      "Quay phim CM"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 382,
+    "type": "others005",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 89, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Câu nào sau đây mô tả chính xác nhất tần suất mà các cuộc đánh giá CM được lên kế hoạch?",
+    "choice": [
+      "Mỗi tuần một lần",
+      "Mỗi tháng một lần",
+      "Tuần thứ hai của mỗi tháng",
+      "Tuần đầu tiên của mỗi tháng"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 383,
+    "type": "others005",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 89, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Ngày đến hạn của kế hoạch dự phòng của nhà cung cấp được xác định vào thời điểm nào?",
+    "choice": [
+      "Tháng 4",
+      "Tháng 2",
+      "Tháng 3",
+      "Tháng 5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 384,
+    "type": "others005",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 89, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Trong khoảng thời gian 5 tháng, có bao nhiêu nhiệm vụ cải tiến quy trình CM được tổ chức?",
+    "choice": [
+      "7 lần",
+      "19 lần",
+      "2 lần",
+      "1 lần"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 385,
+    "type": "others006",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 365, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các khoảng thời gian sau, khoảng thời gian nào được bao gồm trong biểu đồ Gantt?",
+    "choice": [
+      "khoảng 2 ngày",
+      "khoảng 2 tháng",
+      "khoảng 2 năm",
+      "khoảng 2 tuần"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 386,
+    "type": "others006",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 365, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong hình ảnh có bao nhiêu tác vụ?",
+    "choice": [
+      "8",
+      "11",
+      "15",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 387,
+    "type": "others006",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 365, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các tác vụ sau, tác vụ nào là chính xác được hiển thị trong hình ảnh?",
+    "choice": [
+      "Kiểm thử chấp nhận",
+      "Kiểm tra thiết kế",
+      "Kiểm thử kết hợp",
+      "Kiểm thử đơn vị"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 388,
+    "type": "others006",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 365, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Trong số các tác vụ sau, tác vụ nào được khởi tạo sau khi hoàn thành việc tạo kế hoạch kiểm thử?",
+    "choice": [
+      "Xác thực kế hoạch kiểm thử",
+      "Kiểm thử hệ thống",
+      "Kiểm thử kết hợp",
+      "Kiểm thử cấu hình"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 389,
+    "type": "others006",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 365, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Ngày kết thúc của bài kiểm tra cấu hình là ngày nào trong số các ngày sau đây?",
+    "choice": [
+      "1/23/98",
+      "2/17/98",
+      "2/2/98",
+      "2/1/98"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 390,
+    "type": "others006",
+    "metadata": "{'図表の特徴': 'ガントチャート', '構成要素数': 1, '画像中の文字数': 365, '画像名': 'その他', '評価項目': '参', '関連要素数': 0}",
+    "question": "Trong số các tác vụ sau, tác vụ nào có ngày kết thúc muộn nhất trong dự án?",
+    "choice": [
+      "Báo cáo kết quả",
+      "Kiểm thử cấu hình",
+      "Kiểm thử hiệu năng",
+      "Báo cáo kết quả"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 391,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Hình ảnh bao gồm bao nhiêu phân vùng?",
+    "choice": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 392,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Trong hình ảnh có bao nhiêu quy trình?",
+    "choice": [
+      "7",
+      "9",
+      "8",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 393,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Trong hình ảnh có bao nhiêu phán quyết được hiển thị?",
+    "choice": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 394,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Trong hình ảnh có bao nhiêu cơ sở dữ liệu?",
+    "choice": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 395,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Trong hình ảnh sau, tên phân vùng nào là chính xác?",
+    "choice": [
+      "Điện thoại đặt phòng khách sạn",
+      "Hệ thống tra cứu đặt phòng",
+      "Nhân viên lễ tân khách sạn",
+      "Bản ghi đặt phòng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 396,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Trong hình ảnh sau, quy trình nào là chính xác?",
+    "choice": [
+      "Cung cấp thông tin về tình trạng phòng trống",
+      "Gọi điện đặt phòng khách sạn",
+      "Ghi lại thông tin đặt phòng",
+      "Tìm kiếm phòng trống"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 397,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '参', '関連要素数': 9}",
+    "question": "Trạng thái ban đầu là gì?",
+    "choice": [
+      "Đặt phòng khách sạn trực tuyến",
+      "Cung cấp thông tin về tình trạng phòng trống",
+      "Nhân viên tổng đài",
+      "Gọi điện để đặt phòng khách sạn"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 398,
+    "type": "others007",
+    "metadata": "{'図表の特徴': '業務フロー図', '構成要素数': 14, '画像中の文字数': 106, '画像名': 'その他', '評価項目': '関', '関連要素数': 9}",
+    "question": "Quy trình nào sau đây là quy trình chính xác ngay sau khi phòng trống có sẵn?",
+    "choice": [
+      "Đề xuất một lựa chọn chỗ ở khác cho khách hàng",
+      "Ghi lại thông tin đặt phòng",
+      "Trả lời thông tin về tình trạng sẵn có",
+      "Gửi thông tin đặt phòng đến hệ thống"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 399,
+    "type": "others008",
+    "metadata": "{'図表の特徴': 'アーキテクチャ図', '構成要素数': 11, '画像中の文字数': 116, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Trong hình ảnh có bao nhiêu loại dịch vụ được bao gồm?",
+    "choice": [
+      "9",
+      "7",
+      "4",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 400,
+    "type": "others008",
+    "metadata": "{'図表の特徴': 'アーキテクチャ図', '構成要素数': 11, '画像中の文字数': 116, '画像名': 'その他', '評価項目': '認', '関連要素数': 9}",
+    "question": "Trong số các tùy chọn sau, đâu là tên chính xác của dịch vụ trong hình ảnh?",
+    "choice": [
+      "Amazon DataZone",
+      "AWS Supply Chain",
+      "Amazon CloudFront",
+      "AWS IoT Core"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 401,
+    "type": "others008",
+    "metadata": "{'図表の特徴': 'アーキテクチャ図', '構成要素数': 11, '画像中の文字数': 116, '画像名': 'その他', '評価項目': '関', '関連要素数': 9}",
+    "question": "Dịch vụ AWS nào liên quan đến Amazon EC2?",
+    "choice": [
+      "Amazon CloudWatch",
+      "Elastic Load Balancing",
+      "Amazon Route 53",
+      "Amazon S3"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 402,
+    "type": "others008",
+    "metadata": "{'図表の特徴': 'アーキテクチャ図', '構成要素数': 11, '画像中の文字数': 116, '画像名': 'その他', '評価項目': '参', '関連要素数': 9}",
+    "question": "Dịch vụ AWS nào là dịch vụ đầu tiên mà người dùng tiếp xúc?",
+    "choice": [
+      "Amazon Route 53",
+      "Amazon S3",
+      "Amazon RDS",
+      "Amazon CloudFront"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 403,
+    "type": "others008",
+    "metadata": "{'図表の特徴': 'アーキテクチャ図', '構成要素数': 11, '画像中の文字数': 116, '画像名': 'その他', '評価項目': 'その他', '関連要素数': 9}",
+    "question": "Dịch vụ AWS nào được chuyển đổi sau Amazon CloudFront?",
+    "choice": [
+      "Amazon CloudFront",
+      "Amazon RDS",
+      "Amazon Route 53",
+      "Amazon S3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 404,
+    "type": "others009",
+    "metadata": "{'図表の特徴': 'CRUD表', '構成要素数': 1, '画像中の文字数': 71, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Số hàng chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 405,
+    "type": "others009",
+    "metadata": "{'図表の特徴': 'CRUD表', '構成要素数': 1, '画像中の文字数': 71, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Số cột chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "10",
+      "5",
+      "2",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 406,
+    "type": "others009",
+    "metadata": "{'図表の特徴': 'CRUD表', '構成要素数': 1, '画像中の文字数': 71, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Số ô chính xác mà giá trị được ghi vào là bao nhiêu?",
+    "choice": [
+      "5",
+      "10",
+      "13",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 407,
+    "type": "others009",
+    "metadata": "{'図表の特徴': 'CRUD表', '構成要素数': 1, '画像中の文字数': 71, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các lựa chọn sau, số lượng chữ U được liệt kê trong bảng là bao nhiêu?",
+    "choice": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 408,
+    "type": "others009",
+    "metadata": "{'図表の特徴': 'CRUD表', '構成要素数': 1, '画像中の文字数': 71, '画像名': 'その他', '評価項目': '認', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được bao gồm trong bảng?",
+    "choice": [
+      "xử lý thanh toán",
+      "PC đã gửi",
+      "kho hàng PC",
+      "R"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 409,
+    "type": "others009",
+    "metadata": "{'図表の特徴': 'CRUD表', '構成要素数': 1, '画像中の文字数': 71, '画像名': 'その他', '評価項目': '参', '関連要素数': 0}",
+    "question": "Trong số các tùy chọn sau, hàng nào là tên hàng chính xác được bao gồm trong bảng?",
+    "choice": [
+      "Danh sách hàng tồn kho máy tính",
+      "C",
+      "Thông tin bán hàng",
+      "Kiểm tra hàng tồn kho"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 410,
+    "type": "others009",
+    "metadata": "{'図表の特徴': 'CRUD表', '構成要素数': 1, '画像中の文字数': 71, '画像名': 'その他', '評価項目': '関', '関連要素数': 0}",
+    "question": "Trong số các thao tác sau, thao tác nào là thao tác xử lý dữ liệu chính xác được thực hiện bởi bộ phận Mua hàng trên một \"phiếu yêu cầu\"?",
+    "choice": [
+      "Tạo",
+      "Xóa",
+      "Cập nhật",
+      "Đọc"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 411,
+    "type": "system_configuration001",
+    "metadata": "{'図表の特徴': '新幹線チケット予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong hình ảnh có bao nhiêu loại thành phần?",
+    "choice": [
+      "5",
+      "8",
+      "1",
+      "15"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 412,
+    "type": "system_configuration001",
+    "metadata": "{'図表の特徴': '新幹線チケット予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Có bao nhiêu đường nét thể hiện mối quan hệ giữa các thành phần trong hình ảnh?",
+    "choice": [
+      "1",
+      "9",
+      "2",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 413,
+    "type": "system_configuration001",
+    "metadata": "{'図表の特徴': '新幹線チケット予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Dịch vụ này sử dụng bao nhiêu máy chủ?",
+    "choice": [
+      "7",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 414,
+    "type": "system_configuration001",
+    "metadata": "{'図表の特徴': '新幹線チケット予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認4', '関連要素数': -1}",
+    "question": "Trong số các thành phần sau, thành phần nào là chính xác được bao gồm trong sơ đồ này?",
+    "choice": [
+      "Điện thoại thông minh",
+      "Tường lửa",
+      "Thiết bị đầu cuối của khách hàng",
+      "Máy in"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 415,
+    "type": "system_configuration001",
+    "metadata": "{'図表の特徴': '新幹線チケット予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認6', '関連要素数': -1}",
+    "question": "Khách hàng sẽ sử dụng dịch vụ này với mục đích gì?",
+    "choice": [
+      "Điện thoại thông minh",
+      "Máy tính cá nhân",
+      "Tivi",
+      "Máy tính bảng"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 416,
+    "type": "system_configuration001",
+    "metadata": "{'図表の特徴': '新幹線チケット予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Trong số các lựa chọn sau, mối quan hệ chính xác giữa máy chủ AP và máy chủ DB là gì?",
+    "choice": [
+      "Máy chủ AP giao tiếp trực tiếp với thiết bị đầu cuối của khách hàng mà không qua máy chủ cơ sở dữ liệu.",
+      "Máy chủ AP và máy chủ cơ sở dữ liệu hoạt động độc lập và không giao tiếp với nhau.",
+      "Máy chủ cơ sở dữ liệu điều khiển máy chủ AP.",
+      "Máy chủ AP giao tiếp với máy chủ cơ sở dữ liệu và trao đổi dữ liệu."
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 417,
+    "type": "system_configuration001",
+    "metadata": "{'図表の特徴': '新幹線チケット予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Trong số các mô tả sau, mô tả nào là chính xác về quá trình giao tiếp giữa Trung tâm Quản lý Dữ liệu AMM và thiết bị đầu cuối của khách hàng?",
+    "choice": [
+      "Mạng LAN được sử dụng mà không cần kết nối Internet.",
+      "Chỉ có thiết bị đầu cuối của khách hàng được kết nối với Internet.",
+      "Nó giao tiếp với thiết bị đầu cuối của khách hàng qua Internet.",
+      "Kết nối trực tiếp mà không cần sử dụng Internet."
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 418,
+    "type": "system_configuration002",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong hình ảnh có bao nhiêu loại thành phần?",
+    "choice": [
+      "11",
+      "9",
+      "3",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 419,
+    "type": "system_configuration002",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Có bao nhiêu đường nét thể hiện mối quan hệ giữa các thành phần trong hình ảnh?",
+    "choice": [
+      "9",
+      "2",
+      "7",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 420,
+    "type": "system_configuration002",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Dịch vụ này sử dụng bao nhiêu máy chủ?",
+    "choice": [
+      "2",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 421,
+    "type": "system_configuration002",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認4', '関連要素数': -1}",
+    "question": "Trong số các thành phần sau, thành phần nào là chính xác được bao gồm trong sơ đồ này?",
+    "choice": [
+      "Máy chủ web 1",
+      "Máy in",
+      "Tường lửa",
+      "Máy chủ email"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 422,
+    "type": "system_configuration002",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認6', '関連要素数': -1}",
+    "question": "Khách hàng sẽ sử dụng dịch vụ này với mục đích gì?",
+    "choice": [
+      "Tivi",
+      "Đồng hồ thông minh",
+      "Máy chơi game cầm tay",
+      "Điện thoại thông minh"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 423,
+    "type": "system_configuration002",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Trong số các lựa chọn sau, mối quan hệ chính xác giữa máy chủ web và máy chủ cơ sở dữ liệu là gì?",
+    "choice": [
+      "Chỉ một trong hai máy chủ web giao tiếp với máy chủ cơ sở dữ liệu.",
+      "Máy chủ web giao tiếp với máy chủ cơ sở dữ liệu và trao đổi dữ liệu.",
+      "Máy chủ web và máy chủ cơ sở dữ liệu hoạt động độc lập và không liên quan đến nhau.",
+      "Máy chủ web và máy chủ cơ sở dữ liệu không giao tiếp trực tiếp, mà trao đổi dữ liệu thông qua bộ cân bằng tải."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 424,
+    "type": "system_configuration002",
+    "metadata": "{'図表の特徴': '基礎的な図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Trong số các mô tả sau, mô tả nào là chính xác về quá trình giao tiếp giữa hệ thống này và khách hàng?",
+    "choice": [
+      "Hệ thống không sử dụng Internet mà sử dụng mạng LAN.",
+      "Hệ thống giao tiếp với khách hàng qua Internet.",
+      "Chỉ máy trạm của khách hàng được kết nối với Internet; hệ thống này không được kết nối với Internet.",
+      "Hệ thống không được kết nối với Internet, nhưng kết nối trực tiếp với Internet."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 425,
+    "type": "system_configuration003",
+    "metadata": "{'図表の特徴': '要素が少し多めな図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong hình ảnh có bao nhiêu loại thành phần?",
+    "choice": [
+      "3",
+      "6",
+      "10",
+      "7"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 426,
+    "type": "system_configuration003",
+    "metadata": "{'図表の特徴': '要素が少し多めな図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Có bao nhiêu đường nét thể hiện mối quan hệ giữa các thành phần trong hình ảnh?",
+    "choice": [
+      "15",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 427,
+    "type": "system_configuration003",
+    "metadata": "{'図表の特徴': '要素が少し多めな図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Dịch vụ này sử dụng bao nhiêu máy chủ?",
+    "choice": [
+      "4",
+      "2",
+      "7",
+      "10"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 428,
+    "type": "system_configuration003",
+    "metadata": "{'図表の特徴': '要素が少し多めな図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認4', '関連要素数': -1}",
+    "question": "Trong số các thành phần sau, thành phần nào là chính xác được bao gồm trong sơ đồ này?",
+    "choice": [
+      "máy in",
+      "điện thoại thông minh",
+      "tường lửa",
+      "bộ định tuyến"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 429,
+    "type": "system_configuration003",
+    "metadata": "{'図表の特徴': '要素が少し多めな図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '認6', '関連要素数': -1}",
+    "question": "Khách hàng sẽ sử dụng dịch vụ này với mục đích gì?",
+    "choice": [
+      "Máy tính cá nhân",
+      "Đồng hồ thông minh",
+      "Máy tính bảng",
+      "Điện thoại thông minh"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 430,
+    "type": "system_configuration003",
+    "metadata": "{'図表の特徴': '要素が少し多めな図', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'システム構成図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Log output được tạo ra từ đâu?",
+    "choice": [
+      "Máy tính khách hàng",
+      "Máy chủ AP",
+      "Máy chủ tệp",
+      "Máy chủ web"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 431,
+    "type": "screen_flow_diagram001",
+    "metadata": "{'図表の特徴': '画面の数少なめ', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong hình ảnh có bao nhiêu màn hình?",
+    "choice": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 432,
+    "type": "screen_flow_diagram001",
+    "metadata": "{'図表の特徴': '画面の数少なめ', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Trong hình có bao nhiêu mũi tên?",
+    "choice": [
+      "2",
+      "1",
+      "6",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 433,
+    "type": "screen_flow_diagram001",
+    "metadata": "{'図表の特徴': '画面の数少なめ', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, tên màn hình nào là chính xác được hiển thị trong sơ đồ này?",
+    "choice": [
+      "Trang tuyển dụng",
+      "Trang liên hệ",
+      "Trang giới thiệu sản phẩm",
+      "Trang cá nhân"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 434,
+    "type": "screen_flow_diagram001",
+    "metadata": "{'図表の特徴': '画面の数少なめ', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, màn hình nào là màn hình mà bạn chuyển trực tiếp từ trang Danh sách Thông báo?",
+    "choice": [
+      "Trang tuyển dụng",
+      "Trang liên hệ",
+      "Trang lỗi",
+      "Trang chủ"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 435,
+    "type": "screen_flow_diagram002",
+    "metadata": "{'図表の特徴': '画面の数少し増やしたもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong hình ảnh có bao nhiêu màn hình?",
+    "choice": [
+      "2",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 436,
+    "type": "screen_flow_diagram002",
+    "metadata": "{'図表の特徴': '画面の数少し増やしたもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Trong hình có bao nhiêu mũi tên?",
+    "choice": [
+      "6",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 437,
+    "type": "screen_flow_diagram002",
+    "metadata": "{'図表の特徴': '画面の数少し増やしたもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, tên màn hình nào là chính xác được hiển thị trong sơ đồ này?",
+    "choice": [
+      "Trang thông báo chiến dịch",
+      "Ứng dụng dịch vụ",
+      "Trang đăng nhập",
+      "Trang cá nhân"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 438,
+    "type": "screen_flow_diagram002",
+    "metadata": "{'図表の特徴': '画面の数少し増やしたもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Trong số các màn hình sau, màn hình nào là màn hình chính xác mà bạn có thể chuyển trực tiếp từ trang chủ?",
+    "choice": [
+      "Chi tiết tin tức",
+      "Danh sách tin tức",
+      "Trang thông tin cửa hàng",
+      "Ứng dụng dịch vụ"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 439,
+    "type": "screen_flow_diagram003",
+    "metadata": "{'図表の特徴': '画面の数多いもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong hình ảnh có bao nhiêu màn hình?",
+    "choice": [
+      "4",
+      "11",
+      "15",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 440,
+    "type": "screen_flow_diagram003",
+    "metadata": "{'図表の特徴': '画面の数多いもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Trong hình có bao nhiêu mũi tên?",
+    "choice": [
+      "10",
+      "3",
+      "5",
+      "16"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 441,
+    "type": "screen_flow_diagram003",
+    "metadata": "{'図表の特徴': '画面の数多いもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, tên màn hình nào là chính xác được hiển thị trong sơ đồ này?",
+    "choice": [
+      "Màn hình Danh sách Ưu đãi",
+      "Màn hình Câu hỏi thường gặp",
+      "Màn hình Trang cá nhân",
+      "Màn hình Hướng dẫn đặt chỗ"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 442,
+    "type": "screen_flow_diagram003",
+    "metadata": "{'図表の特徴': '画面の数多いもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Trong số các màn hình sau, màn hình nào là màn hình chính xác mà bạn có thể chuyển trực tiếp từ màn hình nhập thông tin hành khách?",
+    "choice": [
+      "Màn hình thanh toán",
+      "Màn hình đăng nhập",
+      "Màn hình xác nhận đặt chỗ",
+      "Màn hình hỗ trợ"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 443,
+    "type": "screen_flow_diagram003",
+    "metadata": "{'図表の特徴': '画面の数多いもの', '構成要素数': -1, '画像中の文字数': -1, '画像名': '画面遷移図', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Tôi nên chuyển sang trang nào trước tiên để đến màn hình Trang cá nhân từ màn hình Trang chủ?",
+    "choice": [
+      "Màn hình chọn chỗ ngồi",
+      "Màn hình đăng nhập",
+      "Màn hình tìm kiếm tàu",
+      "Màn hình hỗ trợ"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 444,
+    "type": "mock_up001",
+    "metadata": "{'図表の特徴': 'ホテル予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong hình ảnh này có bao nhiêu nút?",
+    "choice": [
+      "16",
+      "20",
+      "10",
+      "2"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 445,
+    "type": "mock_up001",
+    "metadata": "{'図表の特徴': 'ホテル予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Nút \"Đăng nhập\" được hiển thị ở đâu trên màn hình?",
+    "choice": [
+      "Góc trên bên phải",
+      "Góc dưới bên phải",
+      "Góc dưới bên trái",
+      "Góc trên bên trái"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 446,
+    "type": "mock_up001",
+    "metadata": "{'図表の特徴': 'ホテル予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, nút nào có tên chính xác được hiển thị trong hình ảnh này?",
+    "choice": [
+      "Hủy",
+      "Đăng ký",
+      "Đặt chỗ",
+      "Đặt lại mật khẩu"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 447,
+    "type": "mock_up001",
+    "metadata": "{'図表の特徴': 'ホテル予約システム', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認4', '関連要素数': -1}",
+    "question": "Tên của hệ thống này là gì?",
+    "choice": [
+      "Khách sạn Sky",
+      "Khách sạn Horizon",
+      "Nhà nghỉ Hinata",
+      "Khách sạn Sora"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 448,
+    "type": "mock_up002",
+    "metadata": "{'図表の特徴': 'ショッピングサイト', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Có bao nhiêu nút để chọn kích cỡ áo khoác?",
+    "choice": [
+      "3",
+      "6",
+      "2",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 449,
+    "type": "mock_up002",
+    "metadata": "{'図表の特徴': 'ショッピングサイト', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Nút \"Thêm vào giỏ hàng\" được hiển thị ở đâu trên màn hình?",
+    "choice": [
+      "Góc dưới bên phải",
+      "Góc dưới bên trái",
+      "Trung tâm",
+      "Góc trên bên phải"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 450,
+    "type": "mock_up002",
+    "metadata": "{'図表の特徴': 'ショッピングサイト', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, nút nào có tên chính xác được hiển thị trong hình ảnh này?",
+    "choice": [
+      "Nam",
+      "Có sẵn",
+      "Kích cỡ",
+      "Khuyến mãi"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 451,
+    "type": "mock_up002",
+    "metadata": "{'図表の特徴': 'ショッピングサイト', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認4', '関連要素数': -1}",
+    "question": "Tên của hệ thống này là gì?",
+    "choice": [
+      "Quá khứ",
+      "Tương lai gần",
+      "Hiện tại",
+      "Tương lai xa"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 452,
+    "type": "mock_up003",
+    "metadata": "{'図表の特徴': 'スマホ画面', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trang màn hình TOP có bao nhiêu nút?",
+    "choice": [
+      "5",
+      "2",
+      "10",
+      "7"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 453,
+    "type": "mock_up003",
+    "metadata": "{'図表の特徴': 'スマホ画面', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認2', '関連要素数': -1}",
+    "question": "Nút \"Gửi\" được hiển thị ở đâu trên màn hình trang Liên hệ?",
+    "choice": [
+      "Phải",
+      "Trung tâm",
+      "Dưới",
+      "Trên"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 454,
+    "type": "mock_up003",
+    "metadata": "{'図表の特徴': 'スマホ画面', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, nút nào có tên chính xác được hiển thị trong hình ảnh này?",
+    "choice": [
+      "Trợ giúp",
+      "Hủy",
+      "Giới thiệu",
+      "Liên hệ"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 455,
+    "type": "mock_up003",
+    "metadata": "{'図表の特徴': 'スマホ画面', '構成要素数': -1, '画像中の文字数': -1, '画像名': 'モックアップ', '評価項目': '関1', '関連要素数': -1}",
+    "question": "Nút \"Home\" sẽ đưa bạn đến màn hình nào?",
+    "choice": [
+      "Màn hình chính",
+      "Màn hình trang Liên hệ",
+      "Màn hình trang Trang chủ",
+      "Màn hình hoàn tất gửi"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 456,
+    "type": "table_extra001",
+    "metadata": "{'図表の特徴': '表5.1-1 各業務の発生量', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Số ô có giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "7",
+      "26",
+      "6",
+      "12"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 457,
+    "type": "table_extra001",
+    "metadata": "{'図表の特徴': '表5.1-1 各業務の発生量', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong số các lựa chọn sau, số lượng phép tính chính xác trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "6",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 458,
+    "type": "table_extra001",
+    "metadata": "{'図表の特徴': '表5.1-1 各業務の発生量', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được bao gồm trong bảng?",
+    "choice": [
+      "Ổn định",
+      "60 trường hợp/giờ",
+      "Lượng công việc",
+      "Loại xử lý"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 459,
+    "type": "table_extra001",
+    "metadata": "{'図表の特徴': '表5.1-1 各業務の発生量', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '参1', '関連要素数': -1}",
+    "question": "Trong số các tác vụ sau, tác vụ nào là chính xác được liệt kê trong bảng?",
+    "choice": [
+      "Hoàn tất thủ tục lên máy bay",
+      "Đăng nhập",
+      "Thay đổi mật khẩu",
+      "In hóa đơn"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 460,
+    "type": "table_extra001",
+    "metadata": "{'図表の特徴': '表5.1-1 各業務の発生量', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': 'その他', '関連要素数': -1}",
+    "question": "Tải công việc ổn định mỗi giờ cho công việc mà bạn đang đăng nhập là bao nhiêu?",
+    "choice": [
+      "20 trường hợp",
+      "10 trường hợp",
+      "40 trường hợp",
+      "120 trường hợp"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 461,
+    "type": "table_extra002",
+    "metadata": "{'図表の特徴': '表5.2-1 目標性能条件(定常業務処理状態)', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Số hàng chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "6",
+      "3",
+      "8",
+      "10"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 462,
+    "type": "table_extra002",
+    "metadata": "{'図表の特徴': '表5.2-1 目標性能条件(定常業務処理状態)', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Số cột chứa giá trị trong bảng trong hình là bao nhiêu?",
+    "choice": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 463,
+    "type": "table_extra002",
+    "metadata": "{'図表の特徴': '表5.2-1 目標性能条件(定常業務処理状態)', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được bao gồm trong bảng?",
+    "choice": [
+      "thời gian hoàn thành",
+      "đăng xuất",
+      "thời gian chờ xử lý",
+      "thời gian phản hồi"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 464,
+    "type": "table_extra002",
+    "metadata": "{'図表の特徴': '表5.2-1 目標性能条件(定常業務処理状態)', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': 'その他', '関連要素数': -1}",
+    "question": "Trong các lựa chọn sau, đâu là thời gian phản hồi chính xác cho việc đặt vé?",
+    "choice": [
+      "trong vòng 3 giây",
+      "trong vòng 9 giây",
+      "trong vòng 6 giây",
+      "trong vòng 10 giây"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 465,
+    "type": "table_extra002",
+    "metadata": "{'図表の特徴': '表5.2-1 目標性能条件(定常業務処理状態)', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': 'その他', '関連要素数': -1}",
+    "question": "Trong các mô tả sau, mô tả nào là chính xác về thời gian hoàn thành?",
+    "choice": [
+      "Thời gian hệ thống mất để nhận được phản hồi đầu tiên sau khi nhận lệnh bắt đầu xử lý",
+      "Thời gian hệ thống mất để nhận được kết quả xử lý sau khi nhận lệnh bắt đầu xử lý",
+      "Thời gian hệ thống mất để tắt nguồn sau khi khởi động.",
+      "Thời gian xử lý CPU mà hệ thống mất để xử lý một yêu cầu cụ thể."
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 466,
+    "type": "table_extra003",
+    "metadata": "{'図表の特徴': '表1\\u3000搭乗クラスの加算料金，表2\\u3000ピーク時期別の積算比率', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Trong bảng trong hình có bao nhiêu loại hạng ghế?",
+    "choice": [
+      "2",
+      "7",
+      "10",
+      "3"
+    ],
+    "answer": "A"
+  },
+  {
+    "number": 467,
+    "type": "table_extra003",
+    "metadata": "{'図表の特徴': '表1\\u3000搭乗クラスの加算料金，表2\\u3000ピーク時期別の積算比率', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認1', '関連要素数': -1}",
+    "question": "Số cột chứa giá trị trong bảng trong hình ảnh của bảng cơ sở dữ liệu trong hình ảnh là bao nhiêu?",
+    "choice": [
+      "2",
+      "1",
+      "8",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 468,
+    "type": "table_extra003",
+    "metadata": "{'図表の特徴': '表1\\u3000搭乗クラスの加算料金，表2\\u3000ピーク時期別の積算比率', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': '認3', '関連要素数': -1}",
+    "question": "Trong số các tùy chọn sau, tên cột nào là chính xác được bao gồm trong bảng?",
+    "choice": [
+      "Thay đổi phần trăm",
+      "Thay đổi hàng năm",
+      "Giá trị cơ sở",
+      "Loại kỳ hạn"
+    ],
+    "answer": "D"
+  },
+  {
+    "number": 469,
+    "type": "table_extra003",
+    "metadata": "{'図表の特徴': '表1\\u3000搭乗クラスの加算料金，表2\\u3000ピーク時期別の積算比率', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': 'その他', '関連要素数': -1}",
+    "question": "Phí phụ thu cho hạng xe thông thường là bao nhiêu?",
+    "choice": [
+      "1000 yên",
+      "0 yên",
+      "2000 yên",
+      "5000 yên"
+    ],
+    "answer": "B"
+  },
+  {
+    "number": 470,
+    "type": "table_extra003",
+    "metadata": "{'図表の特徴': '表1\\u3000搭乗クラスの加算料金，表2\\u3000ピーク時期別の積算比率', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': 'その他', '関連要素数': -1}",
+    "question": "Trong các lựa chọn sau, thời gian nào là thời gian đỉnh 1 chính xác?",
+    "choice": [
+      "20 tháng 8 đến 31 tháng 8",
+      "28 tháng 12 đến 1 tháng 2",
+      "27 tháng 4 đến 6 tháng 5",
+      "25 tháng 3 đến 5 tháng 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 471,
+    "type": "table_extra003",
+    "metadata": "{'図表の特徴': '表1\\u3000搭乗クラスの加算料金，表2\\u3000ピーク時期別の積算比率', '構成要素数': -1, '画像中の文字数': -1, '画像名': '表(追加)', '評価項目': 'その他', '関連要素数': -1}",
+    "question": "Tôi sẽ đi tàu Shinkansen vào ngày 26 tháng 3. Nếu giá vé cơ bản cho đoạn đường này là 5.000 yên, thì đó có phải là giá vé cơ bản chính xác khi sử dụng toa Green Car không?",
+    "choice": [
+      "8.750 yên",
+      "5.000 yên",
+      "9.000 yên",
+      "8.500 yên"
+    ],
+    "answer": "A"
+  }
+]
